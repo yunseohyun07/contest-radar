@@ -1,0 +1,417 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:대회 레이더 · 전체
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-354693@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:[접수 마감] 2026년 모두의 AI 라운지 거점 운영 사
+ 업 (수도권) (마이 AI 랩)
+URL:https://linkareer.com/activity/354693
+DESCRIPTION:과학기술정보통신부\nhttps://linkareer.com/activity/3
+ 54693
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2275@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261007T143500Z
+DTEND:20261007T170500Z
+SUMMARY:Codeforces Round 1125 (Div. 3)
+URL:https://codeforces.com/contests/2275
+DESCRIPTION:Codeforces\nhttps://codeforces.com/contests/2275
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-343089@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:[접수 마감] 제3회 미래융합인재 발굴 소프트웨어
+  챌린지
+URL:https://linkareer.com/activity/343089
+DESCRIPTION:잡포유\nhttps://linkareer.com/activity/343089
+END:VEVENT
+BEGIN:VEVENT
+UID:ctf-3438@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261009T043000Z
+DTEND:20261009T123000Z
+SUMMARY:ByteMe CTF 26
+URL:https://ctftime.org/event/3438/
+DESCRIPTION:OWASP_PCCOE-CORE\nhttps://ctftime.org/event/3438/
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-351992@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:[접수 마감] 제32회 전국 창의성 IT코딩 경시대회
+URL:https://linkareer.com/activity/351992
+DESCRIPTION:사단법인 한국학원총연합회 경기도지회\nhttps:
+ //linkareer.com/activity/351992
+END:VEVENT
+BEGIN:VEVENT
+UID:ctf-3440@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261009T180000Z
+DTEND:20261011T180000Z
+SUMMARY:FortID CTF 2026
+URL:https://ctftime.org/event/3440/
+DESCRIPTION:TBTL\nhttps://ctftime.org/event/3440/
+END:VEVENT
+BEGIN:VEVENT
+UID:ctf-3456@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261009T183000Z
+DTEND:20261010T183000Z
+SUMMARY:kBxAc CTF 2026
+URL:https://ctftime.org/event/3456/
+DESCRIPTION:kBxAc\nhttps://ctftime.org/event/3456/
+END:VEVENT
+BEGIN:VEVENT
+UID:ctf-3437@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261010T100000Z
+DTEND:20261010T180000Z
+SUMMARY:Narxoz CTF
+URL:https://ctftime.org/event/3437/
+DESCRIPTION:NarXploit\nhttps://ctftime.org/event/3437/
+END:VEVENT
+BEGIN:VEVENT
+UID:atc-arc232@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261010T120000Z
+DTEND:20261010T143000Z
+SUMMARY:AtCoder Regular Contest++ 232
+URL:https://atcoder.jp/contests/arc232
+DESCRIPTION:AtCoder\nhttps://atcoder.jp/contests/arc232
+END:VEVENT
+BEGIN:VEVENT
+UID:lc-biweekly-contest-193@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261010T143000Z
+DTEND:20261010T160000Z
+SUMMARY:LeetCode Biweekly Contest 193
+URL:https://leetcode.com/contest/biweekly-contest-193
+DESCRIPTION:LeetCode\nhttps://leetcode.com/contest/biweekly-contest-193
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353364@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:[접수 마감] 2026 SNU X Croche AI 앱 해커톤
+URL:https://linkareer.com/activity/353364
+DESCRIPTION:하이어에이아이\nhttps://linkareer.com/activity/353364
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2271@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261010T150500Z
+DTEND:20261010T180500Z
+SUMMARY:DeepInfra Round 1 (Codeforces Round 1126\, Div. 1 + Div. 2)
+URL:https://codeforces.com/contests/2271
+DESCRIPTION:Codeforces\nhttps://codeforces.com/contests/2271
+END:VEVENT
+BEGIN:VEVENT
+UID:lc-weekly-contest-523@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261011T023000Z
+DTEND:20261011T040000Z
+SUMMARY:LeetCode Weekly Contest 523
+URL:https://leetcode.com/contest/weekly-contest-523
+DESCRIPTION:LeetCode\nhttps://leetcode.com/contest/weekly-contest-523
+END:VEVENT
+BEGIN:VEVENT
+UID:atc-abc479@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261011T120000Z
+DTEND:20261011T134000Z
+SUMMARY:AtCoder Beginner Contest 479
+URL:https://atcoder.jp/contests/abc479
+DESCRIPTION:AtCoder\nhttps://atcoder.jp/contests/abc479
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2273@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261011T183500Z
+DTEND:20261011T210500Z
+SUMMARY:Codeforces Round (Div. 1)
+URL:https://codeforces.com/contests/2273
+DESCRIPTION:Codeforces\nhttps://codeforces.com/contests/2273
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2274@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261011T183500Z
+DTEND:20261011T210500Z
+SUMMARY:Codeforces Round (Div. 2)
+URL:https://codeforces.com/contests/2274
+DESCRIPTION:Codeforces\nhttps://codeforces.com/contests/2274
+END:VEVENT
+BEGIN:VEVENT
+UID:atc-aalc001@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261012T040000Z
+DTEND:20261012T090000Z
+SUMMARY:AAL Contest 001: Let's use segtree!
+URL:https://atcoder.jp/contests/aalc001
+DESCRIPTION:AtCoder\nhttps://atcoder.jp/contests/aalc001
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353996@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[접수 마감] 【국립강원전문과학관】 AI 경진대회
+  - 동화책 만들기 / 4컷 과학만화 만들기
+URL:https://linkareer.com/activity/353996
+DESCRIPTION:국립강원전문과학관\nhttps://linkareer.com/activity/3
+ 53996
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353765@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:[접수 마감] 2026 우연한식탁 MVP 개발 해커톤
+URL:https://linkareer.com/activity/353765
+DESCRIPTION:주식회사 어치브모먼트\nhttps://linkareer.com/activi
+ ty/353765
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-351263@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:[접수 마감] [한국농수산식품유통공사] 2026 AI 농
+ 산물 가격예측 온라인 해커톤
+URL:https://linkareer.com/activity/351263
+DESCRIPTION:한국농수산식품유통공사\nhttps://linkareer.com/acti
+ vity/351263
+END:VEVENT
+BEGIN:VEVENT
+UID:atc-ahc073@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261017T060000Z
+DTEND:20261017T100000Z
+SUMMARY:AtCoder Heuristic Contest 073
+URL:https://atcoder.jp/contests/ahc073
+DESCRIPTION:AtCoder\nhttps://atcoder.jp/contests/ahc073
+END:VEVENT
+BEGIN:VEVENT
+UID:ctf-3471@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261017T090000Z
+DTEND:20261018T090000Z
+SUMMARY:SOLAR CTF 2026
+URL:https://ctftime.org/event/3471/
+DESCRIPTION:SOLARCTF\nhttps://ctftime.org/event/3471/
+END:VEVENT
+BEGIN:VEVENT
+UID:ctf-3364@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261017T090000Z
+DTEND:20261018T210000Z
+SUMMARY:Securinets CTF Quals 2026
+URL:https://ctftime.org/event/3364/
+DESCRIPTION:Securinets\nhttps://ctftime.org/event/3364/
+END:VEVENT
+BEGIN:VEVENT
+UID:atc-abc480@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261017T120000Z
+DTEND:20261017T134000Z
+SUMMARY:AtCoder Beginner Contest 480
+URL:https://atcoder.jp/contests/abc480
+DESCRIPTION:AtCoder\nhttps://atcoder.jp/contests/abc480
+END:VEVENT
+BEGIN:VEVENT
+UID:cf-2261@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261017T143500Z
+DTEND:20261017T173500Z
+SUMMARY:WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)
+URL:https://codeforces.com/contests/2261
+DESCRIPTION:Codeforces\nhttps://codeforces.com/contests/2261
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-349058@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:[접수 마감] 제2회 ZYXCAD AX 경진대회
+URL:https://linkareer.com/activity/349058
+DESCRIPTION:직스테크놀로지\nhttps://linkareer.com/activity/349058
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-351358@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:[접수 마감] SW중심대학사업단 2026년도 제3회 초중
+ 고 SW 경진대회
+URL:https://linkareer.com/activity/351358
+DESCRIPTION:과학기술정보통신부\nhttps://linkareer.com/activity/3
+ 51358
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353657@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:[접수 마감] [데이콘]합성 미세구조 기반 재료 물
+ 성 예측 AI 경진대회(~10/19)
+URL:https://linkareer.com/activity/353657
+DESCRIPTION:데이콘 주식회사\nhttps://linkareer.com/activity/353657
+END:VEVENT
+BEGIN:VEVENT
+UID:ctf-3409@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261020T030000Z
+DTEND:20261020T140000Z
+SUMMARY:SAS CTF 2026 Finals
+URL:https://ctftime.org/event/3409/
+DESCRIPTION:SAS CREW\nhttps://ctftime.org/event/3409/
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-349718@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:[접수 마감] [총상금 2\,750만원] 2026 데이터+AI 혁신
+ 챌린지 데이터안심구역 경진대회
+URL:https://linkareer.com/activity/349718
+DESCRIPTION:(주)프리하라\nhttps://linkareer.com/activity/349718
+END:VEVENT
+BEGIN:VEVENT
+UID:ctf-3340@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261023T140000Z
+DTEND:20261025T140000Z
+SUMMARY:HITCON CTF 2026
+URL:https://ctftime.org/event/3340/
+DESCRIPTION:HITCON\nhttps://ctftime.org/event/3340/
+END:VEVENT
+BEGIN:VEVENT
+UID:ctf-3207@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261023T180000Z
+DTEND:20261025T180000Z
+SUMMARY:Hack.lu CTF 2026
+URL:https://ctftime.org/event/3207/
+DESCRIPTION:FluxFingers\nhttps://ctftime.org/event/3207/
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-355047@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:[접수 마감] 『2026 SVC Seoul AI 해커톤』 | 관광 AI 아
+ 이디어 도전
+URL:https://linkareer.com/activity/355047
+DESCRIPTION:앤에이솔루션(주)\nhttps://linkareer.com/activity/355047
+END:VEVENT
+BEGIN:VEVENT
+UID:atc-ahc074@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261030T100000Z
+DTEND:20261109T100000Z
+SUMMARY:HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)
+URL:https://atcoder.jp/contests/ahc074
+DESCRIPTION:AtCoder\nhttps://atcoder.jp/contests/ahc074
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353328@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[접수 마감] 2026 POSTECH OIBC 빅데이터 경진대회
+URL:https://linkareer.com/activity/353328
+DESCRIPTION:에이치에너지\nhttps://linkareer.com/activity/353328
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-352790@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[접수 마감] [KDT연계 공모전] AI/IT 실무 프로젝트 
+ 공모전! 5인 동반 팀모집 (~10/30)
+URL:https://linkareer.com/activity/352790
+DESCRIPTION:한국프로세스혁신협회\nhttps://linkareer.com/activit
+ y/352790
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353451@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[접수 마감] 2026년 AI 라이프 솔루션 챌린지
+URL:https://linkareer.com/activity/353451
+DESCRIPTION:한국산업기술기획평가원\nhttps://linkareer.com/acti
+ vity/353451
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353847@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:[접수 마감] [데이콘] 항만 문제해결을 위한 AI 기
+ 술 공모전(~11/2)
+URL:https://linkareer.com/activity/353847
+DESCRIPTION:데이콘 주식회사\nhttps://linkareer.com/activity/353847
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-350800@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:[접수 마감] 2026 스페이스 해커톤
+URL:https://linkareer.com/activity/350800
+DESCRIPTION:마이스피플\nhttps://linkareer.com/activity/350800
+END:VEVENT
+BEGIN:VEVENT
+UID:ctf-3418@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261106T100000Z
+DTEND:20261107T100000Z
+SUMMARY:HKCERT CTF 2026 (Qualifying Round)
+URL:https://ctftime.org/event/3418/
+DESCRIPTION:Black Bauhinia\, HKCERT\nhttps://ctftime.org/event/3418/
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-354705@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:[접수 마감] [데이콘] 국부펀드 KIC\, AI 에이전트 
+ 공모전
+URL:https://linkareer.com/activity/354705
+DESCRIPTION:한국투자공사\nhttps://linkareer.com/activity/354705
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-352004@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:[접수 마감] 2026 동남 버그바운티 대회
+URL:https://linkareer.com/activity/352004
+DESCRIPTION:파인더갭\nhttps://linkareer.com/activity/352004
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-342034@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:[접수 마감] [한국과학기술정보연구원] 2026 DATA·AI
+  분석 경진대회
+URL:https://linkareer.com/activity/342034
+DESCRIPTION:한국과학기술정보연구원\nhttps://linkareer.com/acti
+ vity/342034
+END:VEVENT
+END:VCALENDAR

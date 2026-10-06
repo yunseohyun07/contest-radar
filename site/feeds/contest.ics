@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:대회 레이더 · 공모전
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-354693@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:[접수 마감] 2026년 모두의 AI 라운지 거점 운영 사
+ 업 (수도권) (마이 AI 랩)
+URL:https://linkareer.com/activity/354693
+DESCRIPTION:과학기술정보통신부\nhttps://linkareer.com/activity/3
+ 54693
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-343089@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:[접수 마감] 제3회 미래융합인재 발굴 소프트웨어
+  챌린지
+URL:https://linkareer.com/activity/343089
+DESCRIPTION:잡포유\nhttps://linkareer.com/activity/343089
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-351992@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:[접수 마감] 제32회 전국 창의성 IT코딩 경시대회
+URL:https://linkareer.com/activity/351992
+DESCRIPTION:사단법인 한국학원총연합회 경기도지회\nhttps:
+ //linkareer.com/activity/351992
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-349058@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:[접수 마감] 제2회 ZYXCAD AX 경진대회
+URL:https://linkareer.com/activity/349058
+DESCRIPTION:직스테크놀로지\nhttps://linkareer.com/activity/349058
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-351358@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:[접수 마감] SW중심대학사업단 2026년도 제3회 초중
+ 고 SW 경진대회
+URL:https://linkareer.com/activity/351358
+DESCRIPTION:과학기술정보통신부\nhttps://linkareer.com/activity/3
+ 51358
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-352790@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[접수 마감] [KDT연계 공모전] AI/IT 실무 프로젝트 
+ 공모전! 5인 동반 팀모집 (~10/30)
+URL:https://linkareer.com/activity/352790
+DESCRIPTION:한국프로세스혁신협회\nhttps://linkareer.com/activit
+ y/352790
+END:VEVENT
+END:VCALENDAR

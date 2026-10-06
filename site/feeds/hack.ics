@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:대회 레이더 · 해커톤
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-353364@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:[접수 마감] 2026 SNU X Croche AI 앱 해커톤
+URL:https://linkareer.com/activity/353364
+DESCRIPTION:하이어에이아이\nhttps://linkareer.com/activity/353364
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353765@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:[접수 마감] 2026 우연한식탁 MVP 개발 해커톤
+URL:https://linkareer.com/activity/353765
+DESCRIPTION:주식회사 어치브모먼트\nhttps://linkareer.com/activi
+ ty/353765
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-351263@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:[접수 마감] [한국농수산식품유통공사] 2026 AI 농
+ 산물 가격예측 온라인 해커톤
+URL:https://linkareer.com/activity/351263
+DESCRIPTION:한국농수산식품유통공사\nhttps://linkareer.com/acti
+ vity/351263
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-355047@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:[접수 마감] 『2026 SVC Seoul AI 해커톤』 | 관광 AI 아
+ 이디어 도전
+URL:https://linkareer.com/activity/355047
+DESCRIPTION:앤에이솔루션(주)\nhttps://linkareer.com/activity/355047
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-350800@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:[접수 마감] 2026 스페이스 해커톤
+URL:https://linkareer.com/activity/350800
+DESCRIPTION:마이스피플\nhttps://linkareer.com/activity/350800
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+{
+  "name": "대회 레이더",
+  "short_name": "대회 레이더",
+  "description": "알고리즘 대회, 해커톤, IT 공모전, CTF·AI 대회를 한곳에서",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F6F7F9",
+  "theme_color": "#2563EB",
+  "lang": "ko",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"},
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}

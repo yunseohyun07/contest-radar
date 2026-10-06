@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:cf-2261@contest-radar
+DTSTAMP:20261006T030000Z
+DTSTART:20261017T143500Z
+DTEND:20261017T173500Z
+SUMMARY:WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)
+URL:https://codeforces.com/contests/2261
+DESCRIPTION:Codeforces\nhttps://codeforces.com/contests/2261
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 
+ 2)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: WorldQuant Round 1 (Codeforces Round Div. 1 + Div
+ . 2)
+END:VALARM
+END:VEVENT
+END:VCALENDAR
