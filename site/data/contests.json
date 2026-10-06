@@ -1,35 +1,35 @@
 {
- "updatedAt": "2026-10-06T12:57:01Z",
+ "updatedAt": "2026-10-06T13:27:36Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-10-06T12:57:01Z",
-   "lastSuccess": "2026-10-06T12:57:01Z"
+   "checkedAt": "2026-10-06T13:27:36Z",
+   "lastSuccess": "2026-10-06T13:27:36Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-10-06T12:57:01Z",
-   "lastSuccess": "2026-10-06T12:57:01Z"
+   "checkedAt": "2026-10-06T13:27:36Z",
+   "lastSuccess": "2026-10-06T13:27:36Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-06T12:57:01Z",
-   "lastSuccess": "2026-10-06T12:57:01Z"
+   "checkedAt": "2026-10-06T13:27:36Z",
+   "lastSuccess": "2026-10-06T13:27:36Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 43,
-   "checkedAt": "2026-10-06T12:57:01Z",
-   "lastSuccess": "2026-10-06T12:57:01Z"
+   "checkedAt": "2026-10-06T13:27:36Z",
+   "lastSuccess": "2026-10-06T13:27:36Z"
   },
   "링커리어": {
    "ok": true,
    "count": 29,
-   "checkedAt": "2026-10-06T12:57:01Z",
-   "lastSuccess": "2026-10-06T12:57:01Z"
+   "checkedAt": "2026-10-06T13:27:36Z",
+   "lastSuccess": "2026-10-06T13:27:36Z"
   }
  },
  "contests": [
