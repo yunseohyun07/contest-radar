@@ -1,96 +1,38 @@
 {
- "updatedAt": "2026-10-06T13:27:36Z",
+ "updatedAt": "2026-10-06T21:11:20Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-10-06T13:27:36Z",
-   "lastSuccess": "2026-10-06T13:27:36Z"
+   "checkedAt": "2026-10-06T21:11:20Z",
+   "lastSuccess": "2026-10-06T21:11:20Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-10-06T13:27:36Z",
-   "lastSuccess": "2026-10-06T13:27:36Z"
+   "checkedAt": "2026-10-06T21:11:20Z",
+   "lastSuccess": "2026-10-06T21:11:20Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-06T13:27:36Z",
-   "lastSuccess": "2026-10-06T13:27:36Z"
+   "checkedAt": "2026-10-06T21:11:20Z",
+   "lastSuccess": "2026-10-06T21:11:20Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 43,
-   "checkedAt": "2026-10-06T13:27:36Z",
-   "lastSuccess": "2026-10-06T13:27:36Z"
+   "checkedAt": "2026-10-06T21:11:20Z",
+   "lastSuccess": "2026-10-06T21:11:20Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 29,
-   "checkedAt": "2026-10-06T13:27:36Z",
-   "lastSuccess": "2026-10-06T13:27:36Z"
+   "count": 27,
+   "checkedAt": "2026-10-06T21:11:20Z",
+   "lastSuccess": "2026-10-06T21:11:20Z"
   }
  },
  "contests": [
-  {
-   "id": "lk-354287",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026 모두의 AI 라운지(수도권) <마이 AI 랩> 참여팀 공모",
-   "host": "이모션웨이브",
-   "url": "https://linkareer.com/activity/354287",
-   "kind": "접수 마감",
-   "date": "2026-10-06T14:59:59Z",
-   "start": null,
-   "end": "2026-10-06T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-354693",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026년 모두의 AI 라운지 거점 운영 사업 (수도권) (마이 AI 랩)",
-   "host": "과학기술정보통신부",
-   "url": "https://linkareer.com/activity/354693",
-   "kind": "접수 마감",
-   "date": "2026-10-06T14:59:59Z",
-   "start": null,
-   "end": "2026-10-06T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "cf-2275",
    "source": "Codeforces",
