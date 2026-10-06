@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:2026 Qiangwang Challenge on Cyber Mimic Defense Qualification
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ctf-3459@contest-radar
+DTSTAMP:20261006T125701Z
+DTSTART:20261031T020000Z
+DTEND:20261101T020000Z
+SUMMARY:2026 Qiangwang Challenge on Cyber Mimic Defense Qualification
+URL:https://ctftime.org/event/3459/
+DESCRIPTION:LoveFromMimic\nhttps://ctftime.org/event/3459/
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: 2026 Qiangwang Challenge on Cyber Mimic Defense Qua
+ lification
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: 2026 Qiangwang Challenge on Cyber Mimic Defense Q
+ ualification
+END:VALARM
+END:VEVENT
+END:VCALENDAR

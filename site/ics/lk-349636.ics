@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:2026 데이터·AI 혁신 챌린지 통합경진대회 <데
+ 이터 문제해결 부문> 참가자 모집
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-349636@contest-radar
+DTSTAMP:20261006T125701Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:[접수 마감] 2026 데이터·AI 혁신 챌린지 통합경진
+ 대회 <데이터 문제해결 부문> 참가자 모집
+URL:https://linkareer.com/activity/349636
+DESCRIPTION:AI데이터문제해결은행홍보사무국\nhttps://linkare
+ er.com/activity/349636
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: 2026 데이터·AI 혁신 챌린지 통합경진대
+ 회 <데이터 문제해결 부문> 참가자 모집
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: 2026 데이터·AI 혁신 챌린지 통합경진
+ 대회 <데이터 문제해결 부문> 참가자 모집
+END:VALARM
+END:VEVENT
+END:VCALENDAR

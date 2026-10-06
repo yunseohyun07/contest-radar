@@ -1,38 +1,67 @@
 {
- "updatedAt": "2026-10-06T03:00:00Z",
+ "updatedAt": "2026-10-06T12:57:01Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-10-06T03:00:00Z",
-   "lastSuccess": "2026-10-06T03:00:00Z"
+   "checkedAt": "2026-10-06T12:57:01Z",
+   "lastSuccess": "2026-10-06T12:57:01Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-10-06T03:00:00Z",
-   "lastSuccess": "2026-10-06T03:00:00Z"
+   "checkedAt": "2026-10-06T12:57:01Z",
+   "lastSuccess": "2026-10-06T12:57:01Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-06T03:00:00Z",
-   "lastSuccess": "2026-10-06T03:00:00Z"
+   "checkedAt": "2026-10-06T12:57:01Z",
+   "lastSuccess": "2026-10-06T12:57:01Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 10,
-   "checkedAt": "2026-10-06T03:00:00Z",
-   "lastSuccess": "2026-10-06T03:00:00Z"
+   "count": 43,
+   "checkedAt": "2026-10-06T12:57:01Z",
+   "lastSuccess": "2026-10-06T12:57:01Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 20,
-   "checkedAt": "2026-10-06T03:00:00Z",
-   "lastSuccess": "2026-10-06T03:00:00Z"
+   "count": 29,
+   "checkedAt": "2026-10-06T12:57:01Z",
+   "lastSuccess": "2026-10-06T12:57:01Z"
   }
  },
  "contests": [
+  {
+   "id": "lk-354287",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "2026 모두의 AI 라운지(수도권) <마이 AI 랩> 참여팀 공모",
+   "host": "이모션웨이브",
+   "url": "https://linkareer.com/activity/354287",
+   "kind": "접수 마감",
+   "date": "2026-10-06T14:59:59Z",
+   "start": null,
+   "end": "2026-10-06T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
   {
    "id": "lk-354693",
    "source": "링커리어",
@@ -154,10 +183,10 @@
     },
     {
      "label": "상금",
-     "value": "Total Prize Pool Worth ₹1,50,000+ Online — Global"
+     "value": "Total Prize Pool Worth ₹1,50,000+ Online — Global Top 5 teams — Cybersecurity C…"
     }
    ],
-   "summary": "ByteMe CTF 26 is a hybrid Jeopardy-style Capture The Flag competition organized by OWASP PCCOE and the Department of Computer Engineering, PCCOE, Pune.",
+   "summary": "ByteMe CTF 26 is a hybrid Jeopardy-style Capture The Flag competition organized by OWASP PCCOE and the Department of Computer Engineering, PCCOE, Pune. The event is designed for college students and provides hands-on exposure to practical cybersecurity through challenges across multiple domains, including OSINT, Web Security, Cryptography, Digital Forensics…",
    "tag": "CTF"
   },
   {
@@ -227,7 +256,7 @@
      "value": "45"
     }
    ],
-   "summary": "This is the fourth global CTF organized by employees of Blockhouse Technology Zagreb (tbtl.com).",
+   "summary": "This is the fourth global CTF organized by employees of Blockhouse Technology Zagreb (tbtl.com). It is also the second incarnation under our brand name - Fort ID (https://fortid.com/) - a privacy-first, secure, and eIDAS 2.0 compliant digital identity solution. The contest will be in the Jeopardy format, featuring all of the standard categories (web, crypto…",
    "tag": "CTF"
   },
   {
@@ -264,7 +293,81 @@
      "value": "원문 확인"
     }
    ],
-   "summary": "kBxAc CTF 2026 organized by team kBxAc.",
+   "summary": "kBxAc CTF 2026 organized by team kBxAc. Location: Online Format: Jeopardy CTF Website: https://ctf.kbxac.xyz/ Team Limit: No team limit NOTE: Register individually for now, team creation will be enabled soon Discord: https://discord.gg/g2QBSxarG LinkedIn: https://www.linkedin.com/company/kbxac/ Instagram: https://www.instagram.com/kbxac.real Website: https:…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3441",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "Cryovault 2026 Quals",
+   "host": "x6e.x65.x78.x75.x73",
+   "url": "https://ctftime.org/event/3441/",
+   "kind": "대회일",
+   "date": "2026-10-10T04:30:00Z",
+   "start": "2026-10-10T04:30:00Z",
+   "end": "2026-10-11T04:30:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": "1st Rs. 30,000 2nd Rs 20,000 3rd Rs 10,000 First consolation for the next 6 pla…"
+    }
+   ],
+   "summary": "Cryovault 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru. Discord : https://discord.gg/yMFMXh3raE This year's edition is split into two rounds: Online Qualifier. A 24-hour jeopardy-style CTF open to teams around the world. Offline Finals. T…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3446",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "KubSTU CTF",
+   "host": "Capybaras",
+   "url": "https://ctftime.org/event/3446/",
+   "kind": "대회일",
+   "date": "2026-10-10T07:00:00Z",
+   "start": "2026-10-10T07:00:00Z",
+   "end": "2026-10-11T13:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "30시간"
+    },
+    {
+     "label": "상금",
+     "value": "Participants compete in two brackets: Students and Other. Scoring and ranking a…"
+    }
+   ],
+   "summary": "English and Indian languages are present. For help — https://t.me/c/3892440940/5995 and https://discord.gg/kubstu KubSTU-2026-Autumn-Edition - an international 30-hour jeopardy CTF from Kuban State Technological University and the Capybaras team. 50+ challenges in Web, Crypto, Forensics, Stegano, OSINT and Misc. Last edition brought together 1,280 teams fro…",
    "tag": "CTF"
   },
   {
@@ -298,10 +401,10 @@
     },
     {
      "label": "상금",
-     "value": "1st place — ₸1,000,000 2nd place — ₸500,000"
+     "value": "1st place — ₸1,000,000 2nd place — ₸500,000 3rd place — ₸200,000 Total prize po…"
     }
    ],
-   "summary": "Narxoz CTF 2026 is an international, on-site, scenario-based Cyber Range CTF.",
+   "summary": "Narxoz CTF 2026 is an international, on-site, scenario-based Cyber Range CTF organized by NarXploit in cooperation with Narxoz University. Participants will operate in a realistic cyber range environment where they will analyze infrastructure, identify vulnerabilities, exploit weaknesses, develop attack chains, and capture flags while progressing through a…",
    "tag": "CTF"
   },
   {
@@ -428,6 +531,43 @@
     }
    ],
    "summary": ""
+  },
+  {
+   "id": "ctf-3354",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "GaianSpace CTF 2026",
+   "host": "GaianSpace",
+   "url": "https://ctftime.org/event/3354/",
+   "kind": "대회일",
+   "date": "2026-10-10T21:00:00Z",
+   "start": "2026-10-10T21:00:00Z",
+   "end": "2026-10-14T21:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "4일"
+    },
+    {
+     "label": "상금",
+     "value": "The top three teams and the best write-up will receive the following prizes: 1s…"
+    }
+   ],
+   "summary": "GaianSpace CTF, hosted by GaianSpace! Challenges to secure ground and space systems through Web, Pwn, Forensics, Reverse, Network, Crypto and more. Varied difficulties ensure fun for all skill levels. Hack the cosmos with us! Location: Online Event format: Jeopardy First ever CTF scheduled: Event start datetime: 2026.10.10 9:00pm (UTC) Event finish datetime…",
+   "tag": "CTF"
   },
   {
    "id": "lc-weekly-contest-523",
@@ -677,6 +817,64 @@
    "tag": null
   },
   {
+   "id": "lk-350821",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "KoMaP AI 경진대회",
+   "host": "주식회사 인터로이드",
+   "url": "https://linkareer.com/activity/350821",
+   "kind": "접수 마감",
+   "date": "2026-10-15T14:59:59Z",
+   "start": null,
+   "end": "2026-10-15T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI"
+  },
+  {
+   "id": "lk-350422",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "KoMaP AI 경진대회",
+   "host": "산업통상자원부",
+   "url": "https://linkareer.com/activity/350422",
+   "kind": "접수 마감",
+   "date": "2026-10-15T14:59:59Z",
+   "start": null,
+   "end": "2026-10-15T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI"
+  },
+  {
    "id": "atc-ahc073",
    "source": "AtCoder",
    "cat": "algo",
@@ -743,10 +941,10 @@
     },
     {
      "label": "상금",
-     "value": "The total prize pool is ₽300,000* plus limited-edition merchandise."
+     "value": "The total prize pool is ₽300,000* plus limited-edition merchandise. You can par…"
     }
    ],
-   "summary": "Solar’s first student cybersecurity competition.",
+   "summary": "Registration for SolarCTF is open ☀️ Solar’s first student cybersecurity competition is your chance to test your skills in practice, build a team, and compete for prizes. Key information: ✦ Teams of up to 5 people ✦ Start — October 17 at 12:00 PM (MSK) ✦ End — October 18 at 12:00 PM (MSK) ✦ 24 hours to complete the challenges Don’t have a team yet? Find tea…",
    "tag": "CTF"
   },
   {
@@ -787,7 +985,7 @@
      "value": "85.12"
     }
    ],
-   "summary": "**Securinets CTF Quals 2026** is an online Jeopardy-style CTF organized by **Securinets INSAT**.",
+   "summary": "**Securinets CTF Quals 2026** is an online Jeopardy-style CTF organized by **Securinets INSAT**. The **top 10 teams worldwide** and the **top 5 North African teams** will be invited to compete in the **finals in Tunis**. **Registration will open soon.** Join our Discord server: https://discord.gg/X5nSDvjSyc ☁️ Infrastructure sponsored by **goo.gle/ctfsponso…",
    "tag": "CTF"
   },
   {
@@ -821,6 +1019,47 @@
     }
    ],
    "summary": ""
+  },
+  {
+   "id": "ctf-3279",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "DEADFACE CTF 2026",
+   "host": "Cyber Hacktics",
+   "url": "https://ctftime.org/event/3279/",
+   "kind": "대회일",
+   "date": "2026-10-17T14:00:00Z",
+   "start": "2026-10-17T14:00:00Z",
+   "end": "2026-10-19T00:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "34시간"
+    },
+    {
+     "label": "상금",
+     "value": "1st Place - $300 2nd Place - $200 3rd Place - $100"
+    },
+    {
+     "label": "CTFtime 가중치",
+     "value": "35.39"
+    }
+   ],
+   "summary": "DEADFACE CTF features jeopardy-style challenges and is hosted by Cyber Hacktics and veterans of the United States Air Force in support of National Cyber Security Awareness Month.",
+   "tag": "CTF"
   },
   {
    "id": "cf-2261",
@@ -942,6 +1181,35 @@
    "tag": "AI"
   },
   {
+   "id": "lk-353721",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "[한국탄소산업진흥원] 2026 AI 영상 콘텐츠 공모전 「탄소, 다시 보다」",
+   "host": "주식회사 제이레퍼토리",
+   "url": "https://linkareer.com/activity/353721",
+   "kind": "접수 마감",
+   "date": "2026-10-19T14:59:59Z",
+   "start": null,
+   "end": "2026-10-19T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "ctf-3409",
    "source": "CTFtime",
    "cat": "ai",
@@ -972,15 +1240,73 @@
     },
     {
      "label": "상금",
-     "value": "- 1st place: $10000 - 2nd place: $5000"
+     "value": "- 1st place: $10000 - 2nd place: $5000 - 3rd place: $3000"
     },
     {
      "label": "CTFtime 가중치",
      "value": "49.5"
     }
    ],
-   "summary": "SAS CTF is an international competition for cybersecurity experts.",
+   "summary": "SAS CTF is an international competition for cybersecurity experts, held as a part of the Security Analyst Summit conference. The competition consists of an online Jeopardy qualification stage and on-site Attack-Defense finals. We are inviting Top 8 teams that completed the SAS CTF qualification round and 5 regional winners of Kaspersky{CTF} 2026 (https://lp…",
    "tag": "CTF"
+  },
+  {
+   "id": "lk-347448",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "2026 데이터+AI 혁신챌린지 데이터안심구역 경진대회",
+   "host": "과학기술정보통신부",
+   "url": "https://linkareer.com/activity/347448",
+   "kind": "접수 마감",
+   "date": "2026-10-22T14:59:59Z",
+   "start": null,
+   "end": "2026-10-22T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI"
+  },
+  {
+   "id": "lk-349636",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "2026 데이터·AI 혁신 챌린지 통합경진대회 <데이터 문제해결 부문> 참가자 모집",
+   "host": "AI데이터문제해결은행홍보사무국",
+   "url": "https://linkareer.com/activity/349636",
+   "kind": "접수 마감",
+   "date": "2026-10-22T14:59:59Z",
+   "start": null,
+   "end": "2026-10-22T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI"
   },
   {
    "id": "lk-349718",
@@ -1010,6 +1336,43 @@
    ],
    "summary": "",
    "tag": "AI"
+  },
+  {
+   "id": "ctf-3369",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "cruXipher 2026 - ATMoS '26, BITS Hyderabad",
+   "host": "CRUx BPHC",
+   "url": "https://ctftime.org/event/3369/",
+   "kind": "대회일",
+   "date": "2026-10-23T00:30:00Z",
+   "start": "2026-10-23T00:30:00Z",
+   "end": "2026-10-25T00:30:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "2일"
+    },
+    {
+     "label": "상금",
+     "value": "- 1st Place: 15,000 INR - 2nd Place: 9,000 INR - 3rd Place: 6,000 INR"
+    }
+   ],
+   "summary": "cruXipher: A development-style Capture-the-Flag competition where teams of people come together to solve challenges that involve the skills of problem-solving, programming, cybersecurity, and general knowledge of computers to rise to the top.",
+   "tag": "CTF"
   },
   {
    "id": "ctf-3340",
@@ -1042,7 +1405,7 @@
     },
     {
      "label": "상금",
-     "value": "1st place: $8,000 USD 2nd place: $4,000 USD 3rd place: $2,000 USD"
+     "value": "1st place: $8,000 USD 2nd place: $4,000 USD 3rd place: $2,000 USD Special award…"
     },
     {
      "label": "CTFtime 가중치",
@@ -1050,6 +1413,88 @@
     }
    ],
    "summary": "",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3464",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "h4ckc0n 2026",
+   "host": "d4rkc0de",
+   "url": "https://ctftime.org/event/3464/",
+   "kind": "대회일",
+   "date": "2026-10-23T15:30:00Z",
+   "start": "2026-10-23T15:30:00Z",
+   "end": "2026-10-24T15:30:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": "The total prize pool for h4ckc0n is ₹20,000 INR, distributed among the top thre…"
+    },
+    {
+     "label": "CTFtime 가중치",
+     "value": "24.23"
+    }
+   ],
+   "summary": "h4ckc0n is a 24-hour international Jeopardy-style Capture The Flag competition. Categories: Reverse Engineering, Web-exploitation, Forensics, AI/ML, Web3, OSINT, PWN, Cryptography, Miscellaneous The competition is designed to accommodate teams of varying skill levels, with a diverse challenge set covering multiple areas of cybersecurity. Duration: 24 hours…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3377",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "RSTCON 2026 CTF",
+   "host": "RSTCON",
+   "url": "https://ctftime.org/event/3377/",
+   "kind": "대회일",
+   "date": "2026-10-23T17:00:00Z",
+   "start": "2026-10-23T17:00:00Z",
+   "end": "2026-10-25T17:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "2일"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "CTFtime 가중치",
+     "value": "25"
+    }
+   ],
+   "summary": "Online/Hybrid RSTCON CTF will available online, but there will be some challenges on available on-site at the conference. RSTCON CTF is an on-site/online competition for RSTCON, which is an annual technical security and hacking conference hosted in Charlotte, NC. RSTCON focuses on cutting-edge research, exploitation, and tradecraft in the logistics, energy,…",
    "tag": "CTF"
   },
   {
@@ -1090,7 +1535,81 @@
      "value": "94.74"
     }
    ],
-   "summary": "Hack.lu CTF is organized by FluxFingers, the CTF team of Ruhr-University Bochum (Germany).",
+   "summary": "Hack.​lu CTF is organized by FluxFingers, the CTF team of Ruhr-University Bochum (Germany). This will be the 16th edition.",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3442",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "Cryovault 2026 Finals",
+   "host": "x6e.x65.x78.x75.x73",
+   "url": "https://ctftime.org/event/3442/",
+   "kind": "대회일",
+   "date": "2026-10-24T03:30:00Z",
+   "start": "2026-10-24T03:30:00Z",
+   "end": "2026-10-25T06:30:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "오프라인 · Bengaluru, India"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "27시간"
+    },
+    {
+     "label": "상금",
+     "value": "1st Rs. 30,000 2nd Rs 20,000 3rd Rs 10,000 First consolation for the next 6 pla…"
+    }
+   ],
+   "summary": "Cryovault 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru. Discord : https://discord.gg/yMFMXh3raE This year's edition is split into two rounds: Online Qualifier. A 24-hour jeopardy-style CTF open to teams around the world. Offline Finals. T…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3094",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "H7CTF 2026 Finals",
+   "host": "H7Tex",
+   "url": "https://ctftime.org/event/3094/",
+   "kind": "대회일",
+   "date": "2026-10-24T06:30:00Z",
+   "start": "2026-10-24T06:30:00Z",
+   "end": "2026-10-25T06:30:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Attack-Defense"
+    },
+    {
+     "label": "진행 방식",
+     "value": "오프라인 · Chennai, Tamil Nadu"
+    },
+    {
+     "label": "참가 자격",
+     "value": "예선 통과팀"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "H7CTF v3 Finals: An onsite cyber-security challenge hosted at SRMIST, bringing together the top teams from a unified global qualification round. Teams will compete in a real-world attack-defense environment, testing their capabilities across offensive and defensive domains.",
    "tag": "CTF"
   },
   {
@@ -1121,6 +1640,121 @@
    ],
    "summary": "",
    "tag": null
+  },
+  {
+   "id": "ctf-3443",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "Sudocrypt v16.0",
+   "host": "exunclan",
+   "url": "https://ctftime.org/event/3443/",
+   "kind": "대회일",
+   "date": "2026-10-27T03:30:00Z",
+   "start": "2026-10-27T03:30:00Z",
+   "end": "2026-10-28T15:30:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Hack quest"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "36시간"
+    },
+    {
+     "label": "상금",
+     "value": "With a prize pool of over $900 USD in previous iterations, as well as over $500…"
+    }
+   ],
+   "summary": "The technology club of DPS RK Puram, Exun Clan is returning with its eagerly anticipated annual International Capture the Flag (CTF) x Cryptic Hunt event. Sudocrypt v16.0 is an event where individual cryptic enthusiasts come together to take on the ultimate challenge, showcasing their skills and passion for cyber and cryptic challenges. It's an event that p…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3444",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)",
+   "host": "Srdnlen",
+   "url": "https://ctftime.org/event/3444/",
+   "kind": "대회일",
+   "date": "2026-10-29T09:00:00Z",
+   "start": "2026-10-29T09:00:00Z",
+   "end": "2026-10-29T17:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "오프라인 · Italy, Cagliari"
+    },
+    {
+     "label": "참가 자격",
+     "value": "예선 통과팀"
+    },
+    {
+     "label": "진행 시간",
+     "value": "8시간"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "CTFtime 가중치",
+     "value": "25"
+    }
+   ],
+   "summary": "The Sardinia Cyber Camp 2026 will bring the top 10 teams from the qualification round to compete live in Sardinia. Alongside the onsite CTF, the event will also host a cybersecurity fair and conference.",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3381",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "Hacker's Gambit 2026 (Round 2 – Grand Finale)",
+   "host": "JCOE Cyber Sentinels",
+   "url": "https://ctftime.org/event/3381/",
+   "kind": "대회일",
+   "date": "2026-10-30T06:30:00Z",
+   "start": "2026-10-30T06:30:00Z",
+   "end": "2026-10-31T06:30:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "오프라인 · Jaihind College of Engineering,At Post Kuran, Taluka Junnar, Pune - 410511, Maharashtra, India  (19°09'47.2\"N 73°54'52.2\"E)"
+    },
+    {
+     "label": "참가 자격",
+     "value": "예선 통과팀"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": "Compete for a total prize pool of ₹2,25,000, along with trophies, certificates,…"
+    }
+   ],
+   "summary": "The Grand Finale is the final stage of Hackers Gambit 2026, where the Top 15 teams selected from the Online Qualifier will compete for the championship title. This 24-hour, on-site Capture The Flag (CTF) competition is designed to simulate real-world cybersecurity scenarios and evaluate participants' ability to solve complex security challenges under pressu…",
+   "tag": "CTF"
   },
   {
    "id": "atc-ahc074",
@@ -1159,6 +1793,43 @@
    "summary": ""
   },
   {
+   "id": "ctf-3460",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "HI Cyber Con 2026 CTF",
+   "host": "HiddenInvestigations",
+   "url": "https://ctftime.org/event/3460/",
+   "kind": "대회일",
+   "date": "2026-10-30T14:00:00Z",
+   "start": "2026-10-30T14:00:00Z",
+   "end": "2026-11-01T14:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "2일"
+    },
+    {
+     "label": "상금",
+     "value": "USD 2,500 Cash Prize Pool 1st Place — $1,000 2nd Place — $700 3rd Place — $500…"
+    }
+   ],
+   "summary": "HI Cyber Con 2026 CTF is an international 48-hour Jeopardy-style Capture The Flag competition organized by Hidden Investigations. The competition features 70+ challenges covering web, forensics, steganography, network, crypto, binary exploitation, reverse engineering, AI/LLM, hardware, blockchain, OSINT, and misc. The CTF is fully online and open to teams o…",
+   "tag": "CTF"
+  },
+  {
    "id": "lk-353328",
    "source": "링커리어",
    "cat": "ai",
@@ -1186,6 +1857,35 @@
    ],
    "summary": "",
    "tag": "AI"
+  },
+  {
+   "id": "lk-349024",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "2026 해운·항만·물류 AX 아이디어 공모전",
+   "host": "한국해양진흥공사",
+   "url": "https://linkareer.com/activity/349024",
+   "kind": "접수 마감",
+   "date": "2026-10-30T14:59:59Z",
+   "start": null,
+   "end": "2026-10-30T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "lk-352790",
@@ -1217,6 +1917,80 @@
    "tag": null
   },
   {
+   "id": "ctf-3459",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "2026 Qiangwang Challenge on Cyber Mimic Defense Qualification",
+   "host": "LoveFromMimic",
+   "url": "https://ctftime.org/event/3459/",
+   "kind": "대회일",
+   "date": "2026-10-31T02:00:00Z",
+   "start": "2026-10-31T02:00:00Z",
+   "end": "2026-11-01T02:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": "Eligible teams will qualify for the on-site finals, which are planned to take p…"
+    }
+   ],
+   "summary": "The 2026 Qiangwang Challenge on Cyber Mimic Defense Qualification is the online qualifying round of the 9th Qiangwang International Elite Challenge on Cyber Mimic Defense. This team-based Jeopardy CTF features standard CTF challenges and selected challenges on endogenous security. Teams can register through the official event website. Eligible teams will be…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3469",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "Russian CTF Cup X Qualifier",
+   "host": "ctfcup",
+   "url": "https://ctftime.org/event/3469/",
+   "kind": "대회일",
+   "date": "2026-10-31T09:00:00Z",
+   "start": "2026-10-31T09:00:00Z",
+   "end": "2026-11-01T09:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "Russian CTF Cup X, Qualifier. https://ctfcup.ru/registration 12:00 UTC+3 (Moscow) 31 October - 12:00 UTC+3 (Moscow) 01 November. Online. The top 10 teams from each category (academic, mixed, school, and secondary vocational) will be invited to the final in December.",
+   "tag": "CTF"
+  },
+  {
    "id": "lk-353451",
    "source": "링커리어",
    "cat": "ai",
@@ -1227,6 +2001,64 @@
    "date": "2026-10-31T14:59:59Z",
    "start": null,
    "end": "2026-10-31T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI"
+  },
+  {
+   "id": "lk-327794",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "Fusion소프트웨어를 이용한 3D 모델링 디자인",
+   "host": "주식회사 엠듀",
+   "url": "https://linkareer.com/activity/327794",
+   "kind": "접수 마감",
+   "date": "2026-10-31T14:59:59Z",
+   "start": null,
+   "end": "2026-10-31T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-352987",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "제 3회 AI·디지털 융합 교육 콘텐츠 개발 경진대회 참가자 모집",
+   "host": "부산대학교",
+   "url": "https://linkareer.com/activity/352987",
+   "kind": "접수 마감",
+   "date": "2026-11-01T14:59:59Z",
+   "start": null,
+   "end": "2026-11-01T14:59:59Z",
    "allDay": true,
    "meta": [
     {
@@ -1334,14 +2166,199 @@
     },
     {
      "label": "상금",
-     "value": "원문 확인"
+     "value": "There are 2 rounds of the competition -> qualifying round and final round. The…"
     },
     {
      "label": "CTFtime 가중치",
      "value": "10.31"
     }
    ],
-   "summary": "HKCERT Capture The Flag 2026 is now in its sixth edition.",
+   "summary": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong Kong, featuring four categories: Secondary School, Tertiary, Open,…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3331",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "PINK+ CTF 2026",
+   "host": "PINK+",
+   "url": "https://ctftime.org/event/3331/",
+   "kind": "대회일",
+   "date": "2026-11-06T12:00:00Z",
+   "start": "2026-11-06T12:00:00Z",
+   "end": "2026-11-09T12:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "3일"
+    },
+    {
+     "label": "상금",
+     "value": "TBD Estimated 1100$ worth of prizes (including license prizes)"
+    }
+   ],
+   "summary": "The first iteration of PINK+ CTF. Explore a variety of hand crafted challenges with a focus on steganography! Discord: https://discord.gg/VuPqnhFxH4",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3333",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "CSCTF 2026",
+   "host": "Mirachron",
+   "url": "https://ctftime.org/event/3333/",
+   "kind": "대회일",
+   "date": "2026-11-06T13:00:00Z",
+   "start": "2026-11-06T13:00:00Z",
+   "end": "2026-11-08T13:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "2일"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "\"CSCTF 2026: Total Warfare\" is an international, online, free jeopardy-style CTF focused on realistic cybersecurity scenarios inspired by critical infrastructure, defense, and modern adversary tactics. Challenges cover web, pwn, crypto, reverse engineering, forensics, misc, Linux, Windows, and operational security, with scenarios connected to energy, teleco…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3339",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "SpookyCTF 2026",
+   "host": "NICC",
+   "url": "https://ctftime.org/event/3339/",
+   "kind": "대회일",
+   "date": "2026-11-06T17:00:00Z",
+   "start": "2026-11-06T17:00:00Z",
+   "end": "2026-11-07T17:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "EVENT TIME HAS BEEN SHIFTED TO START AND END 4 HOURS AFTER TIME LISTED ABOVE REGISTRATION IS NOW AVAILABLE! BOO!! Welcome to SpookyCTF 2026! Organized by the New Jersey Institute of Technology's Cyber Security Network (formerly known as NICC), this is our annual Halloween CTF event, open to all! We've made this CTF beginner-friendly, with a mix of harder ch…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3242",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "BlackAlps CTF 2026",
+   "host": "BlackAlps",
+   "url": "https://ctftime.org/event/3242/",
+   "kind": "대회일",
+   "date": "2026-11-06T18:15:00Z",
+   "start": "2026-11-06T18:15:00Z",
+   "end": "2026-11-06T22:30:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "오프라인 · Switzerland, Yverdon-les-Bains"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "4시간 15분"
+    },
+    {
+     "label": "상금",
+     "value": "We observe that the arrival of artificial intelligence (AI) has significantly a…"
+    }
+   ],
+   "summary": "The BlackAlps CTF will be held at the end of the BlackAlps conference in Yverdon-les-Bains in Switzerland. It's a CTF for all level including from beginner up to advanced team. The CTF will last 5 hours and be on site for about 300 people. There is no specific categories. Registration is mandatory. Welcome at 18:45. Start at 19:00. End at 23:30. Awards cere…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3455",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "Mimic",
+   "host": "Rare Byte Hub",
+   "url": "https://ctftime.org/event/3455/",
+   "kind": "대회일",
+   "date": "2026-11-07T12:00:00Z",
+   "start": "2026-11-07T12:00:00Z",
+   "end": "2026-11-08T12:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "Casual"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "Mimic is an online Jeopardy-style CTF by Rare Byte Hub. Some challenges are exactly what they look like, and some aren't. Figure out which is which. There's something for everyone, from beginners to experienced players. Teams of 1-4 members.",
    "tag": "CTF"
   },
   {
@@ -1374,6 +2391,47 @@
    "tag": "AI"
   },
   {
+   "id": "ctf-3410",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "CSAW CTF Final Round 2026",
+   "host": "NYUSEC",
+   "url": "https://ctftime.org/event/3410/",
+   "kind": "대회일",
+   "date": "2026-11-12T17:00:00Z",
+   "start": "2026-11-12T17:00:00Z",
+   "end": "2026-11-14T05:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "36시간"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "CTFtime 가중치",
+     "value": "1"
+    }
+   ],
+   "summary": "CSAW CTF is one of the oldest and biggest CTFs. Designed as an entry-level, jeopardy-style CTF, this competition is for students who are trying to break into the field of security, as well as for advanced students and industry professionals who want to practice their skills.",
+   "tag": "CTF"
+  },
+  {
    "id": "lk-352004",
    "source": "링커리어",
    "cat": "ai",
@@ -1403,6 +2461,351 @@
    "tag": "보안"
   },
   {
+   "id": "ctf-3082",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "Platypwn 2026",
+   "host": "Platypwnies",
+   "url": "https://ctftime.org/event/3082/",
+   "kind": "대회일",
+   "date": "2026-11-13T17:00:00Z",
+   "start": "2026-11-13T17:00:00Z",
+   "end": "2026-11-14T11:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "18시간"
+    },
+    {
+     "label": "상금",
+     "value": "See https://platypwnies.de/events/platypwn"
+    },
+    {
+     "label": "CTFtime 가중치",
+     "value": "37"
+    }
+   ],
+   "summary": "The Platypwn 2026 is an online Jeopardy CTF which offers easy challenges for beginners, but also medium and difficult challenges for advanced players. See https://platypwnies.de/events/platypwn for further details.",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3049",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "WolvCTF 2026",
+   "host": "w01verines",
+   "url": "https://ctftime.org/event/3049/",
+   "kind": "대회일",
+   "date": "2026-11-13T23:00:00Z",
+   "start": "2026-11-13T23:00:00Z",
+   "end": "2026-11-15T23:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "2일"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Spon…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3467",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "InIt CTF",
+   "host": "Hackers_In_India",
+   "url": "https://ctftime.org/event/3467/",
+   "kind": "대회일",
+   "date": "2026-11-14T15:30:00Z",
+   "start": "2026-11-14T15:30:00Z",
+   "end": "2026-11-14T23:30:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "Casual"
+    },
+    {
+     "label": "진행 시간",
+     "value": "8시간"
+    },
+    {
+     "label": "상금",
+     "value": "Finalized with sponsors — includes .xyz domain codes and vouchers/prizes from a…"
+    }
+   ],
+   "summary": "InIt CTF is HII's (Hackers in India) beginner-focused Capture The Flag event, free and open to participants across India and internationally. 8 hours, Jeopardy-style, solo or teams of up to 4, across Web, Crypto, Forensics, OSINT, and Misc — mostly easy/medium with a couple of harder challenges for experienced players. This edition is sponsored by .xyz, who…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3419",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "EyesOpenCTF 7th edition",
+   "host": "EyesOpen_Security",
+   "url": "https://ctftime.org/event/3419/",
+   "kind": "대회일",
+   "date": "2026-11-20T10:00:00Z",
+   "start": "2026-11-20T10:00:00Z",
+   "end": "2026-11-22T10:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "2일"
+    },
+    {
+     "label": "상금",
+     "value": "1st: 300 USD + 1 year ExamBoot subscription. (500 USD dedicated for the 1st Cam…"
+    }
+   ],
+   "summary": "EyesOpenCTF 2026 is a FREE CTF competition organized as part of the 7th edition of EOCON. This year, the competition goes far beyond a traditional CTF. You are not simply joining to solve isolated challenges. You are entering The Convergence, a live 48-hour cyber adventure in which reality itself is beginning to fracture. Across more than 40 challenges and…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3337",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "GlacierCTF 2026",
+   "host": "LosFuzzys",
+   "url": "https://ctftime.org/event/3337/",
+   "kind": "대회일",
+   "date": "2026-11-20T18:00:00Z",
+   "start": "2026-11-20T18:00:00Z",
+   "end": "2026-11-21T18:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "CTFtime 가중치",
+     "value": "73.17"
+    }
+   ],
+   "summary": "We're excited to announce GlacierCTF 2026 for its fifth edition, a 24-hour jeopardy CTF organized by LosFuzzys. Join our discord at: https://discord.gg/DFYnRAME23 Infra sponsored by goo.gle/ctfsponsorship",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3425",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "Outback Overflow",
+   "host": "HSCC",
+   "url": "https://ctftime.org/event/3425/",
+   "kind": "대회일",
+   "date": "2026-11-20T23:00:00Z",
+   "start": "2026-11-20T23:00:00Z",
+   "end": "2026-11-21T23:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "Outback Overflow is a free online jeopardy-style CTF built for high schoolers across Australia. Run by the High School Cybersecurity Community, it's designed to be a stepping stone for students getting into cyber security, whether you've never touched a terminal or you're already popping shells. Our goal is simple: grow the number of young people in cyber s…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3408",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "Seize da Flaq",
+   "host": "Seize da Flaq",
+   "url": "https://ctftime.org/event/3408/",
+   "kind": "대회일",
+   "date": "2026-11-21T06:30:00Z",
+   "start": "2026-11-21T06:30:00Z",
+   "end": "2026-11-22T02:30:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "오프라인 · Mathura, Uttar Pradesh, India"
+    },
+    {
+     "label": "참가 자격",
+     "value": "Casual"
+    },
+    {
+     "label": "진행 시간",
+     "value": "20시간"
+    },
+    {
+     "label": "상금",
+     "value": "Overall Pool Prize - 5,00,000 INR Cash Prizes - 30,000 INR Certificates, Swags,…"
+    }
+   ],
+   "summary": "Seize Da Flaq is the flagship national-level Capture The Flag (CTF) competition organized by Cyberonites Club, GLA University. The event is designed to challenge and showcase cybersecurity talent through real-world, hands-on security challenges across domains such as Web Security, Cryptography, Reverse Engineering, Binary Exploitation, Digital Forensics, OS…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3336",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "Crate-CTF 2026",
+   "host": "Crate-CTF",
+   "url": "https://ctftime.org/event/3336/",
+   "kind": "대회일",
+   "date": "2026-11-21T13:00:00Z",
+   "start": "2026-11-21T13:00:00Z",
+   "end": "2026-11-21T21:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "8시간"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "CTFtime 가중치",
+     "value": "37"
+    }
+   ],
+   "summary": "Crate-CTF is an annual Capture The Flag (CTF) competition organised by the Swedish Defence Research Agency in collaboration with the Swedish Armed Forces, designed to introduce high school and university students to the field of cybersecurity. This year we return for our seventh CTF, with challenges for all skill levels from beginners to seasoned CTF player…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3436",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "CyberSci Regional Qualifiers 2026-27",
+   "host": "CyberSciOrganizers",
+   "url": "https://ctftime.org/event/3436/",
+   "kind": "대회일",
+   "date": "2026-11-21T15:00:00Z",
+   "start": "2026-11-21T15:00:00Z",
+   "end": "2026-11-21T22:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "오프라인 · Onsite at 6 locations in Canada"
+    },
+    {
+     "label": "참가 자격",
+     "value": "학생"
+    },
+    {
+     "label": "진행 시간",
+     "value": "7시간"
+    },
+    {
+     "label": "상금",
+     "value": "Winners at Regionals get instant interviews and sometimes same-day job offers.…"
+    }
+   ],
+   "summary": "CyberSci is Canada's national Cyber Security Challenge for university and college students. - Think you've got an elite team of students? Come and prove it. Our winners will go on to compete against the best in the world. - Just starting out? This is the best way to learn and rise to the top. - Annual in-person events since 2016. (Online during Covid.) Over…",
+   "tag": "CTF"
+  },
+  {
    "id": "lk-342034",
    "source": "링커리어",
    "cat": "ai",
@@ -1430,6 +2833,125 @@
    ],
    "summary": "",
    "tag": "AI"
+  },
+  {
+   "id": "ctf-3386",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "BlackHat MEA CTF Final 2026",
+   "host": "SAFCSP",
+   "url": "https://ctftime.org/event/3386/",
+   "kind": "대회일",
+   "date": "2026-12-01T15:14:59Z",
+   "start": "2026-12-01T15:14:59Z",
+   "end": "2026-12-03T15:14:59Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "오프라인 · Riyadh, Saudi Arabia"
+    },
+    {
+     "label": "참가 자격",
+     "value": "예선 통과팀"
+    },
+    {
+     "label": "진행 시간",
+     "value": "2일"
+    },
+    {
+     "label": "상금",
+     "value": "Prize Pool Total Prize Pool: SAR 790,000 (Approx. USD 210,000) Overall Winners…"
+    }
+   ],
+   "summary": "Black Hat MEA Capture The Flag (CTF) 2026 ? The Black Hat MEA Capture The Flag (CTF) is the largest cybersecurity competition in the region and officially the largest Capture The Flag competition in the world, recognized with a Guinness World Record. Organized by the Saudi Federation for Cybersecurity, Programming and Drones (SAFCSP) in collaboration with B…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3367",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "niteCTF 2026",
+   "host": "Cryptonite",
+   "url": "https://ctftime.org/event/3367/",
+   "kind": "대회일",
+   "date": "2026-12-11T12:00:00Z",
+   "start": "2026-12-11T12:00:00Z",
+   "end": "2026-12-13T12:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "2일"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "CTFtime 가중치",
+     "value": "59"
+    }
+   ],
+   "summary": "niteCTF, hosted by Cryptonite, is designed to help students explore new & diverse areas of cybersecurity while providing a platform for experienced players to sharpen their skills. The CTF features a wide range of challenges spanning multiple domains including Hardware Security, Cryptography, Web Exploitation, Digital Forensics, Binary Exploitation, Reverse…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3062",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "ASIS CTF Finals 2026",
+   "host": "ASIS",
+   "url": "https://ctftime.org/event/3062/",
+   "kind": "대회일",
+   "date": "2026-12-27T14:00:00Z",
+   "start": "2026-12-27T14:00:00Z",
+   "end": "2026-12-28T14:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": ".:: TBA ::."
+    },
+    {
+     "label": "CTFtime 가중치",
+     "value": "99.38"
+    }
+   ],
+   "summary": "ASIS CTF Finals 2026",
+   "tag": "CTF"
   }
  ]
 }
