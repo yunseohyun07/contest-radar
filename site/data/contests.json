@@ -1,35 +1,35 @@
 {
- "updatedAt": "2026-10-06T21:11:20Z",
+ "updatedAt": "2026-10-07T09:18:37Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-10-06T21:11:20Z",
-   "lastSuccess": "2026-10-06T21:11:20Z"
+   "checkedAt": "2026-10-07T09:18:37Z",
+   "lastSuccess": "2026-10-07T09:18:37Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-10-06T21:11:20Z",
-   "lastSuccess": "2026-10-06T21:11:20Z"
+   "checkedAt": "2026-10-07T09:18:37Z",
+   "lastSuccess": "2026-10-07T09:18:37Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-06T21:11:20Z",
-   "lastSuccess": "2026-10-06T21:11:20Z"
+   "checkedAt": "2026-10-07T09:18:37Z",
+   "lastSuccess": "2026-10-07T09:18:37Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 43,
-   "checkedAt": "2026-10-06T21:11:20Z",
-   "lastSuccess": "2026-10-06T21:11:20Z"
+   "checkedAt": "2026-10-07T09:18:37Z",
+   "lastSuccess": "2026-10-07T09:18:37Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 27,
-   "checkedAt": "2026-10-06T21:11:20Z",
-   "lastSuccess": "2026-10-06T21:11:20Z"
+   "count": 28,
+   "checkedAt": "2026-10-07T09:18:37Z",
+   "lastSuccess": "2026-10-07T09:18:37Z"
   }
  },
  "contests": [
@@ -1555,10 +1555,39 @@
    "tag": "CTF"
   },
   {
+   "id": "lk-355264",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "[강릉과학산업진흥원] 2026 강원SW미래채움 AI 디지털 인재 페스티벌",
+   "host": "강릉과학산업진흥원",
+   "url": "https://linkareer.com/activity/355264",
+   "kind": "접수 마감",
+   "date": "2026-10-25T14:59:59Z",
+   "start": null,
+   "end": "2026-10-25T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "lk-355047",
    "source": "링커리어",
    "cat": "hack",
-   "title": "『2026 SVC Seoul AI 해커톤』 | 관광 AI 아이디어 도전",
+   "title": "『2026 SVC Seoul AI 해커톤』 | 하나투어 관광 AI 아이디어 도전",
    "host": "앤에이솔루션(주)",
    "url": "https://linkareer.com/activity/355047",
    "kind": "접수 마감",
