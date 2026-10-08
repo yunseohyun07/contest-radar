@@ -1,35 +1,35 @@
 {
- "updatedAt": "2026-10-07T21:12:03Z",
+ "updatedAt": "2026-10-08T09:18:28Z",
  "sources": {
   "Codeforces": {
    "ok": true,
-   "count": 4,
-   "checkedAt": "2026-10-07T21:12:03Z",
-   "lastSuccess": "2026-10-07T21:12:03Z"
+   "count": 5,
+   "checkedAt": "2026-10-08T09:18:28Z",
+   "lastSuccess": "2026-10-08T09:18:28Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-10-07T21:12:03Z",
-   "lastSuccess": "2026-10-07T21:12:03Z"
+   "checkedAt": "2026-10-08T09:18:28Z",
+   "lastSuccess": "2026-10-08T09:18:28Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-07T21:12:03Z",
-   "lastSuccess": "2026-10-07T21:12:03Z"
+   "checkedAt": "2026-10-08T09:18:28Z",
+   "lastSuccess": "2026-10-08T09:18:28Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 43,
-   "checkedAt": "2026-10-07T21:12:03Z",
-   "lastSuccess": "2026-10-07T21:12:03Z"
+   "checkedAt": "2026-10-08T09:18:28Z",
+   "lastSuccess": "2026-10-08T09:18:28Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 27,
-   "checkedAt": "2026-10-07T21:12:03Z",
-   "lastSuccess": "2026-10-07T21:12:03Z"
+   "count": 28,
+   "checkedAt": "2026-10-08T09:18:28Z",
+   "lastSuccess": "2026-10-08T09:18:28Z"
   }
  },
  "contests": [
@@ -696,6 +696,38 @@
    ],
    "summary": "",
    "tag": null
+  },
+  {
+   "id": "cf-2276",
+   "source": "Codeforces",
+   "cat": "algo",
+   "title": "Educational Codeforces Round 195 (Rated for Div. 2)",
+   "host": "Codeforces",
+   "url": "https://codeforces.com/contests/2276",
+   "kind": "대회일",
+   "date": "2026-10-14T14:35:00Z",
+   "start": "2026-10-14T14:35:00Z",
+   "end": "2026-10-14T16:35:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "2시간"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나 (Div. 2)"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
   },
   {
    "id": "lk-350821",
@@ -2159,6 +2191,35 @@
    ],
    "summary": "\"CSCTF 2026: Total Warfare\" is an international, online, free jeopardy-style CTF focused on realistic cybersecurity scenarios inspired by critical infrastructure, defense, and modern adversary tactics. Challenges cover web, pwn, crypto, reverse engineering, forensics, misc, Linux, Windows, and operational security, with scenarios connected to energy, teleco…",
    "tag": "CTF"
+  },
+  {
+   "id": "lk-355771",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "구름톤 아레나 2026 — 전국 프로그래밍 챔피언십 안내",
+   "host": "주식회사 구름",
+   "url": "https://linkareer.com/activity/355771",
+   "kind": "접수 마감",
+   "date": "2026-11-06T14:59:59Z",
+   "start": null,
+   "end": "2026-11-06T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "ctf-3339",
