@@ -1,35 +1,35 @@
 {
- "updatedAt": "2026-10-08T09:18:28Z",
+ "updatedAt": "2026-10-08T21:12:52Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-10-08T09:18:28Z",
-   "lastSuccess": "2026-10-08T09:18:28Z"
+   "checkedAt": "2026-10-08T21:12:52Z",
+   "lastSuccess": "2026-10-08T21:12:52Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-10-08T09:18:28Z",
-   "lastSuccess": "2026-10-08T09:18:28Z"
+   "checkedAt": "2026-10-08T21:12:52Z",
+   "lastSuccess": "2026-10-08T21:12:52Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-08T09:18:28Z",
-   "lastSuccess": "2026-10-08T09:18:28Z"
+   "checkedAt": "2026-10-08T21:12:52Z",
+   "lastSuccess": "2026-10-08T21:12:52Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 43,
-   "checkedAt": "2026-10-08T09:18:28Z",
-   "lastSuccess": "2026-10-08T09:18:28Z"
+   "count": 42,
+   "checkedAt": "2026-10-08T21:12:52Z",
+   "lastSuccess": "2026-10-08T21:12:52Z"
   },
   "링커리어": {
    "ok": true,
    "count": 28,
-   "checkedAt": "2026-10-08T09:18:28Z",
-   "lastSuccess": "2026-10-08T09:18:28Z"
+   "checkedAt": "2026-10-08T21:12:52Z",
+   "lastSuccess": "2026-10-08T21:12:52Z"
   }
  },
  "contests": [
@@ -524,12 +524,12 @@
    "kind": "대회일",
    "date": "2026-10-11T18:35:00Z",
    "start": "2026-10-11T18:35:00Z",
-   "end": "2026-10-11T21:05:00Z",
+   "end": "2026-10-11T20:35:00Z",
    "allDay": false,
    "meta": [
     {
      "label": "진행 시간",
-     "value": "2시간 30분"
+     "value": "2시간"
     },
     {
      "label": "진행 방식",
@@ -556,12 +556,12 @@
    "kind": "대회일",
    "date": "2026-10-11T18:35:00Z",
    "start": "2026-10-11T18:35:00Z",
-   "end": "2026-10-11T21:05:00Z",
+   "end": "2026-10-11T20:35:00Z",
    "allDay": false,
    "meta": [
     {
      "label": "진행 시간",
-     "value": "2시간 30분"
+     "value": "2시간"
     },
     {
      "label": "진행 방식",
@@ -1326,47 +1326,6 @@
     }
    ],
    "summary": "",
-   "tag": "CTF"
-  },
-  {
-   "id": "ctf-3464",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "h4ckc0n 2026",
-   "host": "d4rkc0de",
-   "url": "https://ctftime.org/event/3464/",
-   "kind": "대회일",
-   "date": "2026-10-23T15:30:00Z",
-   "start": "2026-10-23T15:30:00Z",
-   "end": "2026-10-24T15:30:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "진행 시간",
-     "value": "24시간"
-    },
-    {
-     "label": "상금",
-     "value": "The total prize pool for h4ckc0n is ₹20,000 INR, distributed among the top thre…"
-    },
-    {
-     "label": "CTFtime 가중치",
-     "value": "24.23"
-    }
-   ],
-   "summary": "h4ckc0n is a 24-hour international Jeopardy-style Capture The Flag competition. Categories: Reverse Engineering, Web-exploitation, Forensics, AI/ML, Web3, OSINT, PWN, Cryptography, Miscellaneous The competition is designed to accommodate teams of varying skill levels, with a diverse challenge set covering multiple areas of cybersecurity. Duration: 24 hours…",
    "tag": "CTF"
   },
   {
