@@ -7,15 +7,16 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:lk-349024@contest-radar
-DTSTAMP:20261008T211252Z
+UID:ck-202609100022@contest-radar
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:[접수 마감] 2026 해운·항만·물류 AX 아이디어 공
  모전
-URL:https://linkareer.com/activity/349024
-DESCRIPTION:한국해양진흥공사\nhttps://linkareer.com/activity/3490
- 24
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0314100
+ 01&str_no=202609100022
+DESCRIPTION:한국해양진흥공사\nhttps://www.contestkorea.com/sub/vi
+ ew.php?int_gbn=1&Txt_bcode=031410001&str_no=202609100022
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D

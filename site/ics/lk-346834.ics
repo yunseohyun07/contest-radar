@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:제 2회 직스캐드 AX 공모전 - Design Your Dreams with
+  AX (#CAD설계\, #영상)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-346834@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:[접수 마감] 제 2회 직스캐드 AX 공모전 - Design Your 
+ Dreams with AX (#CAD설계\, #영상)
+URL:https://linkareer.com/activity/346834
+DESCRIPTION:(주)직스테크놀로지\nhttps://linkareer.com/activity/34
+ 6834
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: 제 2회 직스캐드 AX 공모전 - Design Your Dr
+ eams with AX (#CAD설계\, #영상)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: 제 2회 직스캐드 AX 공모전 - Design Your 
+ Dreams with AX (#CAD설계\, #영상)
+END:VALARM
+END:VEVENT
+END:VCALENDAR

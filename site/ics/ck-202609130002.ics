@@ -7,13 +7,16 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:lk-350422@contest-radar
-DTSTAMP:20261008T211252Z
+UID:ck-202609130002@contest-radar
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:[접수 마감] KoMaP AI 경진대회
-URL:https://linkareer.com/activity/350422
-DESCRIPTION:산업통상자원부\nhttps://linkareer.com/activity/350422
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609130002
+DESCRIPTION:산업통상부\,한국산업기술진흥원\nhttps://www.con
+ testkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609130
+ 002
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D

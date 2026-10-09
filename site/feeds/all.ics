@@ -8,7 +8,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:ctf-3438@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261009T043000Z
 DTEND:20261009T123000Z
 SUMMARY:ByteMe CTF 26
@@ -16,18 +16,32 @@ URL:https://ctftime.org/event/3438/
 DESCRIPTION:OWASP_PCCOE-CORE\nhttps://ctftime.org/event/3438/
 END:VEVENT
 BEGIN:VEVENT
-UID:lk-351992@contest-radar
-DTSTAMP:20261008T211252Z
+UID:ck-202609230057@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:[접수 마감] 디자인-부산2026 <디자인해커톤> 참가
+ 자 모집
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609230057
+DESCRIPTION:부산광역시\nhttps://www.contestkorea.com/sub/view.php?in
+ t_gbn=1&Txt_bcode=030310001&str_no=202609230057
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609160066@contest-radar
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:[접수 마감] 제32회 전국 창의성 IT코딩 경시대회
-URL:https://linkareer.com/activity/351992
-DESCRIPTION:사단법인 한국학원총연합회 경기도지회\nhttps:
- //linkareer.com/activity/351992
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609160066
+DESCRIPTION:사단법인 한국학원총연합회 경기도지회 / 경
+ 기도 컴퓨터교육협의회\nhttps://www.contestkorea.com/sub/view.ph
+ p?int_gbn=1&Txt_bcode=030310001&str_no=202609160066
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3440@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261009T180000Z
 DTEND:20261011T180000Z
 SUMMARY:FortID CTF 2026
@@ -36,7 +50,7 @@ DESCRIPTION:TBTL\nhttps://ctftime.org/event/3440/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3456@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261009T183000Z
 DTEND:20261010T183000Z
 SUMMARY:kBxAc CTF 2026
@@ -45,7 +59,7 @@ DESCRIPTION:kBxAc\nhttps://ctftime.org/event/3456/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3441@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261010T043000Z
 DTEND:20261011T043000Z
 SUMMARY:Cryovault 2026 Quals
@@ -54,7 +68,7 @@ DESCRIPTION:x6e.x65.x78.x75.x73\nhttps://ctftime.org/event/3441/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3446@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261010T070000Z
 DTEND:20261011T130000Z
 SUMMARY:KubSTU CTF
@@ -63,7 +77,7 @@ DESCRIPTION:Capybaras\nhttps://ctftime.org/event/3446/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3437@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261010T100000Z
 DTEND:20261010T180000Z
 SUMMARY:Narxoz CTF
@@ -72,7 +86,7 @@ DESCRIPTION:NarXploit\nhttps://ctftime.org/event/3437/
 END:VEVENT
 BEGIN:VEVENT
 UID:atc-arc232@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261010T120000Z
 DTEND:20261010T143000Z
 SUMMARY:AtCoder Regular Contest++ 232
@@ -81,7 +95,7 @@ DESCRIPTION:AtCoder\nhttps://atcoder.jp/contests/arc232
 END:VEVENT
 BEGIN:VEVENT
 UID:lc-biweekly-contest-193@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261010T143000Z
 DTEND:20261010T160000Z
 SUMMARY:LeetCode Biweekly Contest 193
@@ -89,8 +103,18 @@ URL:https://leetcode.com/contest/biweekly-contest-193
 DESCRIPTION:LeetCode\nhttps://leetcode.com/contest/biweekly-contest-193
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-353594@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:[접수 마감] 2026 SNU X Croche AI 앱 해커톤
+URL:https://linkareer.com/activity/353594
+DESCRIPTION:하이어에이아이 / 서울대학교 창업지원단\nhttp
+ s://linkareer.com/activity/353594
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-353364@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:[접수 마감] 2026 SNU X Croche AI 앱 해커톤
@@ -98,8 +122,18 @@ URL:https://linkareer.com/activity/353364
 DESCRIPTION:하이어에이아이\nhttps://linkareer.com/activity/353364
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-335523@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:[접수 마감] [Muzig AI] AI 음악·BGM 공모전
+URL:https://linkareer.com/activity/335523
+DESCRIPTION:아티움그룹 주식회사 (Muzig AI)\nhttps://linkareer.co
+ m/activity/335523
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2271@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261010T150500Z
 DTEND:20261010T180500Z
 SUMMARY:DeepInfra Round 1 (Codeforces Round 1126\, Div. 1 + Div. 2)
@@ -108,7 +142,7 @@ DESCRIPTION:Codeforces\nhttps://codeforces.com/contests/2271
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3354@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261010T210000Z
 DTEND:20261014T210000Z
 SUMMARY:GaianSpace CTF 2026
@@ -117,7 +151,7 @@ DESCRIPTION:GaianSpace\nhttps://ctftime.org/event/3354/
 END:VEVENT
 BEGIN:VEVENT
 UID:lc-weekly-contest-523@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261011T023000Z
 DTEND:20261011T040000Z
 SUMMARY:LeetCode Weekly Contest 523
@@ -126,7 +160,7 @@ DESCRIPTION:LeetCode\nhttps://leetcode.com/contest/weekly-contest-523
 END:VEVENT
 BEGIN:VEVENT
 UID:atc-abc479@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261011T120000Z
 DTEND:20261011T134000Z
 SUMMARY:AtCoder Beginner Contest 479
@@ -134,8 +168,28 @@ URL:https://atcoder.jp/contests/abc479
 DESCRIPTION:AtCoder\nhttps://atcoder.jp/contests/abc479
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-354979@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:[접수 마감] 4.16생명안전비엔날레 생명안전 AI숏
+ 폼 공모전
+URL:https://linkareer.com/activity/354979
+DESCRIPTION:4.16재단 / ANE 광개토\nhttps://linkareer.com/activity/35
+ 4979
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353536@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:[접수 마감] orhena AI 콘테스트 (주제 자유)
+URL:https://linkareer.com/activity/353536
+DESCRIPTION:orhena\nhttps://linkareer.com/activity/353536
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2273@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261011T183500Z
 DTEND:20261011T203500Z
 SUMMARY:Codeforces Round (Div. 1)
@@ -144,7 +198,7 @@ DESCRIPTION:Codeforces\nhttps://codeforces.com/contests/2273
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2274@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261011T183500Z
 DTEND:20261011T203500Z
 SUMMARY:Codeforces Round (Div. 2)
@@ -153,7 +207,7 @@ DESCRIPTION:Codeforces\nhttps://codeforces.com/contests/2274
 END:VEVENT
 BEGIN:VEVENT
 UID:atc-aalc001@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261012T040000Z
 DTEND:20261012T090000Z
 SUMMARY:AAL Contest 001: Let's use segtree!
@@ -161,8 +215,71 @@ URL:https://atcoder.jp/contests/aalc001
 DESCRIPTION:AtCoder\nhttps://atcoder.jp/contests/aalc001
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-349739@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[접수 마감] 2026 AI 단편영화 창작 지원 프로그램 (
+ 청소년/청년)
+URL:https://linkareer.com/activity/349739
+DESCRIPTION:재단법인 스마일게이트 퓨처랩\nhttps://linkareer.
+ com/activity/349739
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-342142@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[접수 마감] 2026 청주영상위원회 AI 영상 공모전
+URL:https://linkareer.com/activity/342142
+DESCRIPTION:청주시\nhttps://linkareer.com/activity/342142
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-350683@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[접수 마감] 2026년 인공지능(AI) 활용 청소년활동 
+ 안전공모전
+URL:https://linkareer.com/activity/350683
+DESCRIPTION:한국청소년활동진흥원\nhttps://linkareer.com/activit
+ y/350683
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353380@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[접수 마감] 2026년 제1회 AMT AI 작곡대회
+URL:https://linkareer.com/activity/353380
+DESCRIPTION:AI뮤직타운\nhttps://linkareer.com/activity/353380
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609210027@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[접수 마감] [방송미디어통신위원회] 생성형 AI 위
+ 험성 찾기 이벤트 시즌3
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609210027
+DESCRIPTION:방송미디어통신위원회\nhttps://www.contestkorea.com/
+ sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609210027
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-352202@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[접수 마감] [방송미디어통신위원회] 생성형AI 위
+ 험성 찾기 이벤트
+URL:https://linkareer.com/activity/352202
+DESCRIPTION:한국정보통신진흥협회\nhttps://linkareer.com/activit
+ y/352202
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-353996@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:[접수 마감] 【국립강원전문과학관】 AI 경진대회
@@ -172,18 +289,40 @@ DESCRIPTION:국립강원전문과학관\nhttps://linkareer.com/activity/3
  53996
 END:VEVENT
 BEGIN:VEVENT
-UID:lk-353765@contest-radar
-DTSTAMP:20261008T211252Z
+UID:lk-354077@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:[접수 마감] 제1회 AMT AI 작곡대회 챌린지
+URL:https://linkareer.com/activity/354077
+DESCRIPTION:프롬프트뱅크\nhttps://linkareer.com/activity/354077
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609220013@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:[접수 마감] 2026 고용24 국민참여 AI 고용서비스 발
+ 굴 온라인 해커톤
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0314100
+ 01&str_no=202609220013
+DESCRIPTION:한국고용정보원\nhttps://www.contestkorea.com/sub/view.
+ php?int_gbn=1&Txt_bcode=031410001&str_no=202609220013
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609300003@contest-radar
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:[접수 마감] 2026 우연한식탁 MVP 개발 해커톤
-URL:https://linkareer.com/activity/353765
-DESCRIPTION:주식회사 어치브모먼트\nhttps://linkareer.com/activi
- ty/353765
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609300003
+DESCRIPTION:어치브모먼트\nhttps://www.contestkorea.com/sub/view.php
+ ?int_gbn=1&Txt_bcode=030310001&str_no=202609300003
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-351263@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:[접수 마감] [한국농수산식품유통공사] 2026 AI 농
@@ -193,8 +332,28 @@ DESCRIPTION:한국농수산식품유통공사\nhttps://linkareer.com/acti
  vity/351263
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-354688@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:[접수 마감] 롯데몰 벨리타운 청량리 : AI 뮤직 공
+ 모전
+URL:https://linkareer.com/activity/354688
+DESCRIPTION:롯데백화점\nhttps://linkareer.com/activity/354688
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-354686@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:[접수 마감] 롯데몰 벨리타운 청량리 : AI 뮤직 공
+ 모전
+URL:https://linkareer.com/activity/354686
+DESCRIPTION:롯데백화점\nhttps://linkareer.com/activity/354686
+END:VEVENT
+BEGIN:VEVENT
 UID:cf-2276@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261014T143500Z
 DTEND:20261014T163500Z
 SUMMARY:Educational Codeforces Round 195 (Rated for Div. 2)
@@ -202,27 +361,117 @@ URL:https://codeforces.com/contests/2276
 DESCRIPTION:Codeforces\nhttps://codeforces.com/contests/2276
 END:VEVENT
 BEGIN:VEVENT
-UID:lk-350821@contest-radar
-DTSTAMP:20261008T211252Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:[접수 마감] KoMaP AI 경진대회
-URL:https://linkareer.com/activity/350821
-DESCRIPTION:주식회사 인터로이드\nhttps://linkareer.com/activity/
- 350821
+UID:lk-352976@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:[접수 마감] [네이버플러스 스토어] 넾다세일 AI 
+ 광고제
+URL:https://linkareer.com/activity/352976
+DESCRIPTION:네이버플러스 스토어\nhttps://linkareer.com/activity/
+ 352976
 END:VEVENT
 BEGIN:VEVENT
-UID:lk-350422@contest-radar
-DTSTAMP:20261008T211252Z
+UID:ck-202609220031@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:[접수 마감] 2026 수영 전국 대학생 로컬 콘텐츠 개
+ 발 경진대회
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0314100
+ 01&str_no=202609220031
+DESCRIPTION:수영구청\nhttps://www.contestkorea.com/sub/view.php?int_g
+ bn=1&Txt_bcode=031410001&str_no=202609220031
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609130002@contest-radar
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:[접수 마감] KoMaP AI 경진대회
-URL:https://linkareer.com/activity/350422
-DESCRIPTION:산업통상자원부\nhttps://linkareer.com/activity/350422
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609130002
+DESCRIPTION:산업통상부\,한국산업기술진흥원\nhttps://www.con
+ testkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609130
+ 002
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-342268@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:[접수 마감] 제1회 BIFAN Ⅹ 더만타스토리 AI 숏폼 
+ 드라마 대본 공모전
+URL:https://linkareer.com/activity/342268
+DESCRIPTION:사단법인 부천국제판타스틱영화제 조직위원
+ 회\nhttps://linkareer.com/activity/342268
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353118@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:[접수 마감] 충청북도 과학여행 이야기 AI 이미지
+ ‧영상 공모전
+URL:https://linkareer.com/activity/353118
+DESCRIPTION:충북과학문화거점센터\nhttps://linkareer.com/activit
+ y/353118
+END:VEVENT
+BEGIN:VEVENT
+UID:annual-icpc-seoul-0@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261018
+SUMMARY:[인터넷 예선] ICPC 서울 리저널 인터넷 예선
+URL:https://icpckorea.org/
+DESCRIPTION:ICPC Korea\nhttps://icpckorea.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-348257@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:[접수 마감] 2026 국립과천과학관 AI 활용 숏폼 공
+ 모전
+URL:https://linkareer.com/activity/348257
+DESCRIPTION:국립과천과학관\nhttps://linkareer.com/activity/348257
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202610010034@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:[접수 마감] 2026년 K-푸드테크 해커톤 대회
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0314100
+ 01&str_no=202610010034
+DESCRIPTION:경상북도\, 포항시\nhttps://www.contestkorea.com/sub/vi
+ ew.php?int_gbn=1&Txt_bcode=031410001&str_no=202610010034
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-345896@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:[접수 마감] 2026년도 메타버스 학교안전문화 확산
+  공모전
+URL:https://linkareer.com/activity/345896
+DESCRIPTION:서울특별시학교안전공제회\nhttps://linkareer.com/a
+ ctivity/345896
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-354410@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:[접수 마감] [대구경북첨단의료산업진흥재단] 2026
+  K-MEDI AI 혁신 아이디어 챌린지
+URL:https://linkareer.com/activity/354410
+DESCRIPTION:대구경북첨단의료산업진흥재단\nhttps://linkareer
+ .com/activity/354410
 END:VEVENT
 BEGIN:VEVENT
 UID:atc-ahc073@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261017T060000Z
 DTEND:20261017T100000Z
 SUMMARY:AtCoder Heuristic Contest 073
@@ -231,7 +480,7 @@ DESCRIPTION:AtCoder\nhttps://atcoder.jp/contests/ahc073
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3471@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261017T090000Z
 DTEND:20261018T090000Z
 SUMMARY:SOLAR CTF 2026
@@ -240,7 +489,7 @@ DESCRIPTION:SOLARCTF\nhttps://ctftime.org/event/3471/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3364@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261017T090000Z
 DTEND:20261018T210000Z
 SUMMARY:Securinets CTF Quals 2026
@@ -249,7 +498,7 @@ DESCRIPTION:Securinets\nhttps://ctftime.org/event/3364/
 END:VEVENT
 BEGIN:VEVENT
 UID:atc-abc480@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261017T120000Z
 DTEND:20261017T134000Z
 SUMMARY:AtCoder Beginner Contest 480
@@ -258,7 +507,7 @@ DESCRIPTION:AtCoder\nhttps://atcoder.jp/contests/abc480
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3279@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261017T140000Z
 DTEND:20261019T000000Z
 SUMMARY:DEADFACE CTF 2026
@@ -267,7 +516,7 @@ DESCRIPTION:Cyber Hacktics\nhttps://ctftime.org/event/3279/
 END:VEVENT
 BEGIN:VEVENT
 UID:cf-2261@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261017T143500Z
 DTEND:20261017T173500Z
 SUMMARY:WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)
@@ -275,17 +524,84 @@ URL:https://codeforces.com/contests/2261
 DESCRIPTION:Codeforces\nhttps://codeforces.com/contests/2261
 END:VEVENT
 BEGIN:VEVENT
-UID:lk-349058@contest-radar
-DTSTAMP:20261008T211252Z
+UID:ck-202609160044@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:[접수 마감] 2026 AI 농산물 가격예측 해커톤
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609160044
+DESCRIPTION:한국농수산식품유통공사 (aT)\nhttps://www.contestko
+ rea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609160044
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-350826@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:[접수 마감] 2026 화성특례시 AI CF 공모전 「제6회 
+ 별별화성 Awards」
+URL:https://linkareer.com/activity/350826
+DESCRIPTION:화성특례시\nhttps://linkareer.com/activity/350826
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609210010@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:[접수 마감] WFK 해외봉사단 커리어개발 우수사례 
+ 공모전
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609210010
+DESCRIPTION:KOICA (한국국제협력단)\nhttps://www.contestkorea.com/s
+ ub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609210010
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-351309@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:[접수 마감] 「2026 별별화성 Awards」화성특례시 AI 
+ CF 공모전
+URL:https://linkareer.com/activity/351309
+DESCRIPTION:화성특례시\nhttps://linkareer.com/activity/351309
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-346834@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:[접수 마감] 제 2회 직스캐드 AX 공모전 - Design Your 
+ Dreams with AX (#CAD설계\, #영상)
+URL:https://linkareer.com/activity/346834
+DESCRIPTION:(주)직스테크놀로지\nhttps://linkareer.com/activity/34
+ 6834
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202608310001@contest-radar
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:[접수 마감] 제2회 ZYXCAD AX 경진대회
-URL:https://linkareer.com/activity/349058
-DESCRIPTION:직스테크놀로지\nhttps://linkareer.com/activity/349058
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202608310001
+DESCRIPTION:(주)직스테크놀로지\nhttps://www.contestkorea.com/sub/
+ view.php?int_gbn=1&Txt_bcode=030310001&str_no=202608310001
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-351991@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:[접수 마감] 2026 고성 해양심층수 AI브랜드 영상 
+ 공모전
+URL:https://linkareer.com/activity/351991
+DESCRIPTION:(재)해양심층수산업고성진흥원\nhttps://linkareer.
+ com/activity/351991
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-351358@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:[접수 마감] SW중심대학사업단 2026년도 제3회 초중
@@ -295,18 +611,20 @@ DESCRIPTION:과학기술정보통신부\nhttps://linkareer.com/activity/3
  51358
 END:VEVENT
 BEGIN:VEVENT
-UID:lk-353657@contest-radar
-DTSTAMP:20261008T211252Z
+UID:ck-202609290038@contest-radar
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:[접수 마감] [데이콘]합성 미세구조 기반 재료 물
- 성 예측 AI 경진대회(~10/19)
-URL:https://linkareer.com/activity/353657
-DESCRIPTION:데이콘 주식회사\nhttps://linkareer.com/activity/353657
+ 성 예측 AI 경진대회
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609290038
+DESCRIPTION:데이콘\nhttps://www.contestkorea.com/sub/view.php?int_gbn=
+ 1&Txt_bcode=030310001&str_no=202609290038
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-353721@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:[접수 마감] [한국탄소산업진흥원] 2026 AI 영상 콘
@@ -316,8 +634,19 @@ DESCRIPTION:주식회사 제이레퍼토리\nhttps://linkareer.com/activi
  ty/353721
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-351593@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:[접수 마감] [해양심층수산업 고성진흥원] 2026 고
+ 성 해양심층수 브랜드 AI 영상 공모전
+URL:https://linkareer.com/activity/351593
+DESCRIPTION:해양심층수산업 고성진흥원\nhttps://linkareer.com/
+ activity/351593
+END:VEVENT
+BEGIN:VEVENT
 UID:ctf-3409@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261020T030000Z
 DTEND:20261020T140000Z
 SUMMARY:SAS CTF 2026 Finals
@@ -325,8 +654,41 @@ URL:https://ctftime.org/event/3409/
 DESCRIPTION:SAS CREW\nhttps://ctftime.org/event/3409/
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-352999@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:[접수 마감] 한강버스 운항 1주년 AI 영상 & 사진 
+ 공모전
+URL:https://linkareer.com/activity/352999
+DESCRIPTION:한강버스\nhttps://linkareer.com/activity/352999
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202608180058@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:[접수 마감] 2026 AI·디지털 네이티브 토론대회
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202608180058
+DESCRIPTION:과학기술정보통신부\nhttps://www.contestkorea.com/sub
+ /view.php?int_gbn=1&Txt_bcode=030310001&str_no=202608180058
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609010086@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:[접수 마감] 2026 데이터+AI 혁신챌린지 ‘데이터안
+ 심구역 경진대회’ 참가자 모집 안내
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609010086
+DESCRIPTION:과학기술정보통신부\nhttps://www.contestkorea.com/sub
+ /view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609010086
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-347448@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:[접수 마감] 2026 데이터+AI 혁신챌린지 데이터안심
@@ -337,7 +699,7 @@ DESCRIPTION:과학기술정보통신부\nhttps://linkareer.com/activity/3
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-349636@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:[접수 마감] 2026 데이터·AI 혁신 챌린지 통합경진
@@ -347,8 +709,19 @@ DESCRIPTION:AI데이터문제해결은행홍보사무국\nhttps://linkare
  er.com/activity/349636
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-347433@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:[접수 마감] AI와 함께하는 교통문제 해결을 위한 
+ 데이터 분석 공모전
+URL:https://linkareer.com/activity/347433
+DESCRIPTION:재단법인 숲과나눔\nhttps://linkareer.com/activity/347
+ 433
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-349718@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:[접수 마감] [총상금 2\,750만원] 2026 데이터+AI 혁신
@@ -357,8 +730,20 @@ URL:https://linkareer.com/activity/349718
 DESCRIPTION:(주)프리하라\nhttps://linkareer.com/activity/349718
 END:VEVENT
 BEGIN:VEVENT
+UID:ck-202609140019@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:[접수 마감] 총상금 2\,750만원｜2026 데이터+AI혁신
+ 챌린지 데이터안심구역 경진대회 참가자 모집
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609140019
+DESCRIPTION:과학기술정보통신부\nhttps://www.contestkorea.com/sub
+ /view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609140019
+END:VEVENT
+BEGIN:VEVENT
 UID:ctf-3369@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261023T003000Z
 DTEND:20261025T003000Z
 SUMMARY:cruXipher 2026 - ATMoS '26\, BITS Hyderabad
@@ -367,7 +752,7 @@ DESCRIPTION:CRUx BPHC\nhttps://ctftime.org/event/3369/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3340@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261023T140000Z
 DTEND:20261025T140000Z
 SUMMARY:HITCON CTF 2026
@@ -375,8 +760,42 @@ URL:https://ctftime.org/event/3340/
 DESCRIPTION:HITCON\nhttps://ctftime.org/event/3340/
 END:VEVENT
 BEGIN:VEVENT
+UID:ck-202609290040@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:[접수 마감] 2026 CWNU SW-DNA² 챌린지 대학생 AI·SW 경
+ 진대회
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0314100
+ 01&str_no=202609290040
+DESCRIPTION:국립창원대학교\nhttps://www.contestkorea.com/sub/view.
+ php?int_gbn=1&Txt_bcode=031410001&str_no=202609290040
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353405@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:[접수 마감] 2026 충북영상자서전 [사랑나눔 스마
+ 트 AI 영상자서전 공모전]
+URL:https://linkareer.com/activity/353405
+DESCRIPTION:충청북도\nhttps://linkareer.com/activity/353405
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609140065@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:[접수 마감] 공공 웹사이트 불법광고 탐지 도구 
+ 개발 공모전
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609140065
+DESCRIPTION:행정안전부\nhttps://www.contestkorea.com/sub/view.php?in
+ t_gbn=1&Txt_bcode=030310001&str_no=202609140065
+END:VEVENT
+BEGIN:VEVENT
 UID:ctf-3377@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261023T170000Z
 DTEND:20261025T170000Z
 SUMMARY:RSTCON 2026 CTF
@@ -385,7 +804,7 @@ DESCRIPTION:RSTCON\nhttps://ctftime.org/event/3377/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3207@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261023T180000Z
 DTEND:20261025T180000Z
 SUMMARY:Hack.lu CTF 2026
@@ -394,7 +813,7 @@ DESCRIPTION:FluxFingers\nhttps://ctftime.org/event/3207/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3442@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261024T033000Z
 DTEND:20261025T063000Z
 SUMMARY:Cryovault 2026 Finals
@@ -403,7 +822,7 @@ DESCRIPTION:x6e.x65.x78.x75.x73\nhttps://ctftime.org/event/3442/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3094@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261024T063000Z
 DTEND:20261025T063000Z
 SUMMARY:H7CTF 2026 Finals
@@ -411,8 +830,17 @@ URL:https://ctftime.org/event/3094/
 DESCRIPTION:H7Tex\nhttps://ctftime.org/event/3094/
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-350244@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:[접수 마감] 2026 AI 활용 저작권 콘텐츠 공모전
+URL:https://linkareer.com/activity/350244
+DESCRIPTION:문화체육관광부\nhttps://linkareer.com/activity/350244
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-355264@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:[접수 마감] [강릉과학산업진흥원] 2026 강원SW미래
@@ -422,8 +850,19 @@ DESCRIPTION:강릉과학산업진흥원\nhttps://linkareer.com/activity/3
  55264
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-353062@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:[접수 마감] [드론플레이x곰랩] 드론 영상•사진 
+ 공모전
+URL:https://linkareer.com/activity/353062
+DESCRIPTION:주식회사 곰앤컴퍼니\nhttps://linkareer.com/activity/
+ 353062
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-355047@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:[접수 마감] 『2026 SVC Seoul AI 해커톤』 | 하나투어 
@@ -433,7 +872,7 @@ DESCRIPTION:앤에이솔루션(주)\nhttps://linkareer.com/activity/355047
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3443@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261027T033000Z
 DTEND:20261028T153000Z
 SUMMARY:Sudocrypt v16.0
@@ -441,8 +880,36 @@ URL:https://ctftime.org/event/3443/
 DESCRIPTION:exunclan\nhttps://ctftime.org/event/3443/
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-349585@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:[접수 마감] 2026 대구정원박람회 AI 아트 챌린지
+URL:https://linkareer.com/activity/349585
+DESCRIPTION:아이엠월드\nhttps://linkareer.com/activity/349585
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-355261@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:[접수 마감] [하이라이트TV] 제7회 하이라이트TV AI 
+ 공모전
+URL:https://linkareer.com/activity/355261
+DESCRIPTION:하이라이트TV\nhttps://linkareer.com/activity/355261
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-355291@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:[접수 마감] 제7회 하이라이트TV AI 공모전
+URL:https://linkareer.com/activity/355291
+DESCRIPTION:서울에스티비(주)\nhttps://linkareer.com/activity/355291
+END:VEVENT
+BEGIN:VEVENT
 UID:ctf-3444@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261029T090000Z
 DTEND:20261029T170000Z
 SUMMARY:Srdnlen CTF 2026 Finals (Sardinia Cyber Camp)
@@ -451,7 +918,7 @@ DESCRIPTION:Srdnlen\nhttps://ctftime.org/event/3444/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3381@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261030T063000Z
 DTEND:20261031T063000Z
 SUMMARY:Hacker's Gambit 2026 (Round 2 – Grand Finale)
@@ -460,7 +927,7 @@ DESCRIPTION:JCOE Cyber Sentinels\nhttps://ctftime.org/event/3381/
 END:VEVENT
 BEGIN:VEVENT
 UID:atc-ahc074@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261030T100000Z
 DTEND:20261109T100000Z
 SUMMARY:HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)
@@ -469,7 +936,7 @@ DESCRIPTION:AtCoder\nhttps://atcoder.jp/contests/ahc074
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3460@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261030T140000Z
 DTEND:20261101T140000Z
 SUMMARY:HI Cyber Con 2026 CTF
@@ -478,7 +945,7 @@ DESCRIPTION:HiddenInvestigations\nhttps://ctftime.org/event/3460/
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-353328@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:[접수 마감] 2026 POSTECH OIBC 빅데이터 경진대회
@@ -486,19 +953,91 @@ URL:https://linkareer.com/activity/353328
 DESCRIPTION:에이치에너지\nhttps://linkareer.com/activity/353328
 END:VEVENT
 BEGIN:VEVENT
-UID:lk-349024@contest-radar
-DTSTAMP:20261008T211252Z
+UID:lk-354265@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[접수 마감] 2026 자선냄비 나눔 AI 영상공모전
+URL:https://linkareer.com/activity/354265
+DESCRIPTION:구세군\nhttps://linkareer.com/activity/354265
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-299678@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[접수 마감] 2026 제4회 충청남도 드론 영상 및 사
+ 진 공모전
+URL:https://linkareer.com/activity/299678
+DESCRIPTION:충청남도\nhttps://linkareer.com/activity/299678
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609100022@contest-radar
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:[접수 마감] 2026 해운·항만·물류 AX 아이디어 공
  모전
-URL:https://linkareer.com/activity/349024
-DESCRIPTION:한국해양진흥공사\nhttps://linkareer.com/activity/3490
- 24
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0314100
+ 01&str_no=202609100022
+DESCRIPTION:한국해양진흥공사\nhttps://www.contestkorea.com/sub/vi
+ ew.php?int_gbn=1&Txt_bcode=031410001&str_no=202609100022
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-354289@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[접수 마감] 2026년 양자내성암호 전환 경진대회·
+ 해커톤
+URL:https://linkareer.com/activity/354289
+DESCRIPTION:(주)컬처메이커스\nhttps://linkareer.com/activity/354289
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-354272@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[접수 마감] 2026년 양자내성암호 전환 경진대회·
+ 해커톤
+URL:https://linkareer.com/activity/354272
+DESCRIPTION:과학기술정보통신부/한국인터넷진흥원\nhttps:/
+ /linkareer.com/activity/354272
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-350891@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[접수 마감] 2026년 완주군 사진·AI영상 공모전
+URL:https://linkareer.com/activity/350891
+DESCRIPTION:완주군\nhttps://linkareer.com/activity/350891
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353269@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[접수 마감] [BytePlus x AI-Kive] Seedance2.5 AI 시리즈 제
+ 작지원 공모전
+URL:https://linkareer.com/activity/353269
+DESCRIPTION:BytePlus / 스튜디오프리윌루전\,AI-Kive\nhttps://link
+ areer.com/activity/353269
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353237@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[접수 마감] [BytePlus x AI-Kive] Seedance2.5 AI 시리즈 제
+ 작지원 공모전
+URL:https://linkareer.com/activity/353237
+DESCRIPTION:(주)스튜디오프리윌루전\nhttps://linkareer.com/activ
+ ity/353237
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-352790@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:[접수 마감] [KDT연계 공모전] AI/IT 실무 프로젝트 
@@ -508,8 +1047,18 @@ DESCRIPTION:한국프로세스혁신협회\nhttps://linkareer.com/activit
  y/352790
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-338313@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[접수 마감] 제1회 경상남도 드론 영상 및 사진 공
+ 모전
+URL:https://linkareer.com/activity/338313
+DESCRIPTION:경상남도청\nhttps://linkareer.com/activity/338313
+END:VEVENT
+BEGIN:VEVENT
 UID:ctf-3459@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261031T020000Z
 DTEND:20261101T020000Z
 SUMMARY:2026 Qiangwang Challenge on Cyber Mimic Defense Qualification
@@ -518,7 +1067,7 @@ DESCRIPTION:LoveFromMimic\nhttps://ctftime.org/event/3459/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3469@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261031T090000Z
 DTEND:20261101T090000Z
 SUMMARY:Russian CTF Cup X Qualifier
@@ -526,8 +1075,44 @@ URL:https://ctftime.org/event/3469/
 DESCRIPTION:ctfcup\nhttps://ctftime.org/event/3469/
 END:VEVENT
 BEGIN:VEVENT
+UID:ck-202608110037@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[접수 마감] 2026 생성형 AI 창작 공모전 - AI로 그려
+ 낸 가족 이야기
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202608110037
+DESCRIPTION:디지털리터러시협회\nhttps://www.contestkorea.com/sub
+ /view.php?int_gbn=1&Txt_bcode=030310001&str_no=202608110037
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609010094@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[접수 마감] 2026 제주 관광 데이터 활용사례 공모
+ 전
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609010094
+DESCRIPTION:제주특별자치도\nhttps://www.contestkorea.com/sub/view.
+ php?int_gbn=1&Txt_bcode=030310001&str_no=202609010094
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202610070008@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[접수 마감] 2026 제주 관광 데이터 활용사례 공모
+ 전
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0314100
+ 01&str_no=202610070008
+DESCRIPTION:제주특별자치도\nhttps://www.contestkorea.com/sub/view.
+ php?int_gbn=1&Txt_bcode=031410001&str_no=202610070008
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-353451@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:[접수 마감] 2026년 AI 라이프 솔루션 챌린지
@@ -536,8 +1121,52 @@ DESCRIPTION:한국산업기술기획평가원\nhttps://linkareer.com/acti
  vity/353451
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-348400@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[접수 마감] 2026년 국가정책연구포털 AI 쇼츠 영상
+ 공모전
+URL:https://linkareer.com/activity/348400
+DESCRIPTION:경제·인문사회연구회\nhttps://linkareer.com/activity
+ /348400
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-349047@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[접수 마감] 2026년「국가정책연구포털 AI 쇼츠 영
+ 상공모전」
+URL:https://linkareer.com/activity/349047
+DESCRIPTION:경제인문사회연구회\nhttps://linkareer.com/activity/3
+ 49047
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-355331@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[접수 마감] AI 뮤직비디오 제작 이벤트 <모두의 
+ 프로듀서>
+URL:https://linkareer.com/activity/355331
+DESCRIPTION:한국정보통신기술협회\nhttps://linkareer.com/activit
+ y/355331
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-348838@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[접수 마감] AI와 소방안전의 융합\, 일상을 지키
+ 는 재난안전 숏폼 공모전
+URL:https://linkareer.com/activity/348838
+DESCRIPTION:세종사이버대학교 소방방재학과·소방행정학
+ 과\nhttps://linkareer.com/activity/348838
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-327794@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:[접수 마감] Fusion소프트웨어를 이용한 3D 모델링 
@@ -546,8 +1175,96 @@ URL:https://linkareer.com/activity/327794
 DESCRIPTION:주식회사 엠듀\nhttps://linkareer.com/activity/327794
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-344250@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[접수 마감] Meta와 함께하는 AI 페스티벌 – AI로 
+ 그려낸 가족 이야기
+URL:https://linkareer.com/activity/344250
+DESCRIPTION:디지털리터러시협회\nhttps://linkareer.com/activity/3
+ 44250
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353155@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[접수 마감] [시립노원청소년미래진로센터] 제2회
+  인공지능 활용 우수사례 공모전
+URL:https://linkareer.com/activity/353155
+DESCRIPTION:시립노원청소년미래진로센터\nhttps://linkareer.co
+ m/activity/353155
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609020018@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[접수 마감] 전국민 AI활용 사례 공모전 시즌3
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609020018
+DESCRIPTION:과학기술정보통신부\nhttps://www.contestkorea.com/sub
+ /view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609020018
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-323822@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[접수 마감] 제1회 대한민국 AI창작문학상 공모
+URL:https://linkareer.com/activity/323822
+DESCRIPTION:문예살롱\nhttps://linkareer.com/activity/323822
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-355523@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[접수 마감] 제28회 말 사진·AI 이미지 공모전 「
+ 찰나의 말\, 영원한 이야기」
+URL:https://linkareer.com/activity/355523
+DESCRIPTION:한국마사회\nhttps://linkareer.com/activity/355523
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609290002@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:[접수 마감] 2026 전국 대학생 SW 창업아이디어톤
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609290002
+DESCRIPTION:한양대 ERICA SW중심대학사업단\nhttps://www.contestk
+ orea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609290002
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609280004@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:[접수 마감] 2026년 제천시 AI 활용 데이터 분석 아
+ 이디어 공모전
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0314100
+ 01&str_no=202609280004
+DESCRIPTION:충청북도 제천시\nhttps://www.contestkorea.com/sub/view
+ .php?int_gbn=1&Txt_bcode=031410001&str_no=202609280004
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609240003@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:[접수 마감] 제 3회 AI 디지털 융합 교육 콘텐츠 개
+ 발 경진대회
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609240003
+DESCRIPTION:부산대학교\, 부산교육대학교\, 부산에듀테크
+ 소프트랩\,AIEDAP 경남권역 사업지원단\nhttps://www.contestkor
+ ea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609240003
+END:VEVENT
+BEGIN:VEVENT
 UID:lk-352987@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:[접수 마감] 제 3회 AI·디지털 융합 교육 콘텐츠 
@@ -556,27 +1273,41 @@ URL:https://linkareer.com/activity/352987
 DESCRIPTION:부산대학교\nhttps://linkareer.com/activity/352987
 END:VEVENT
 BEGIN:VEVENT
-UID:lk-353847@contest-radar
-DTSTAMP:20261008T211252Z
+UID:ck-202609300018@contest-radar
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:[접수 마감] [데이콘] 항만 문제해결을 위한 AI 기
- 술 공모전(~11/2)
-URL:https://linkareer.com/activity/353847
-DESCRIPTION:데이콘 주식회사\nhttps://linkareer.com/activity/353847
+ 술 공모전
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609300018
+DESCRIPTION:해양수산부\nhttps://www.contestkorea.com/sub/view.php?in
+ t_gbn=1&Txt_bcode=030310001&str_no=202609300018
 END:VEVENT
 BEGIN:VEVENT
-UID:lk-350800@contest-radar
-DTSTAMP:20261008T211252Z
+UID:ck-202609150046@contest-radar
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[접수 마감] 2026 스페이스 해커톤
-URL:https://linkareer.com/activity/350800
-DESCRIPTION:마이스피플\nhttps://linkareer.com/activity/350800
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609150046
+DESCRIPTION:우주항공청\nhttps://www.contestkorea.com/sub/view.php?in
+ t_gbn=1&Txt_bcode=030310001&str_no=202609150046
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-344683@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:[접수 마감] AI 달인 100 챌린지
+URL:https://linkareer.com/activity/344683
+DESCRIPTION:과학기술정보통신부\nhttps://linkareer.com/activity/3
+ 44683
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3418@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261106T100000Z
 DTEND:20261107T100000Z
 SUMMARY:HKCERT CTF 2026 (Qualifying Round)
@@ -585,7 +1316,7 @@ DESCRIPTION:Black Bauhinia\, HKCERT\nhttps://ctftime.org/event/3418/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3331@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261106T120000Z
 DTEND:20261109T120000Z
 SUMMARY:PINK+ CTF 2026
@@ -594,7 +1325,7 @@ DESCRIPTION:PINK+\nhttps://ctftime.org/event/3331/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3333@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261106T130000Z
 DTEND:20261108T130000Z
 SUMMARY:CSCTF 2026
@@ -603,7 +1334,7 @@ DESCRIPTION:Mirachron\nhttps://ctftime.org/event/3333/
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-355771@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:[접수 마감] 구름톤 아레나 2026 — 전국 프로그래
@@ -613,7 +1344,7 @@ DESCRIPTION:주식회사 구름\nhttps://linkareer.com/activity/355771
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3339@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261106T170000Z
 DTEND:20261107T170000Z
 SUMMARY:SpookyCTF 2026
@@ -622,7 +1353,7 @@ DESCRIPTION:NICC\nhttps://ctftime.org/event/3339/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3242@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261106T181500Z
 DTEND:20261106T223000Z
 SUMMARY:BlackAlps CTF 2026
@@ -631,7 +1362,7 @@ DESCRIPTION:BlackAlps\nhttps://ctftime.org/event/3242/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3455@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261107T120000Z
 DTEND:20261108T120000Z
 SUMMARY:Mimic
@@ -639,18 +1370,103 @@ URL:https://ctftime.org/event/3455/
 DESCRIPTION:Rare Byte Hub\nhttps://ctftime.org/event/3455/
 END:VEVENT
 BEGIN:VEVENT
-UID:lk-354705@contest-radar
-DTSTAMP:20261008T211252Z
+UID:lk-351976@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:[접수 마감] 2026 대한지방행정공제회 생성형 AI 콘
+ 텐츠 공모전
+URL:https://linkareer.com/activity/351976
+DESCRIPTION:대한지방행정공제회\nhttps://linkareer.com/activity/3
+ 51976
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-351460@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:[접수 마감] 2026년 제4회 청소년 안전 AI 영상 공모
+ 전
+URL:https://linkareer.com/activity/351460
+DESCRIPTION:서울특별시립청소년활동진흥센터\nhttps://linkar
+ eer.com/activity/351460
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-351172@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:[접수 마감] 2026년 제4회 청소년 안전 AI 영상 공모
+ 전
+URL:https://linkareer.com/activity/351172
+DESCRIPTION:서울특별시립청소년활동진흥센터 / 서울특별
+ 시립청소년활동진흥센터\nhttps://linkareer.com/activity/351172
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-351589@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:[접수 마감] [의정부도시공사] AI 혁신 아이디어 
+ 공모전
+URL:https://linkareer.com/activity/351589
+DESCRIPTION:의정부도시공사\nhttps://linkareer.com/activity/351589
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609170026@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:[접수 마감] 의정부도시공사 AI 혁신 아이디어 공
+ 모전
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0314100
+ 01&str_no=202609170026
+DESCRIPTION:의정부도시공사\nhttps://www.contestkorea.com/sub/view.
+ php?int_gbn=1&Txt_bcode=031410001&str_no=202609170026
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-354946@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:[접수 마감] 2026 제 2회 퓨리얼 AI 콘테스트
+URL:https://linkareer.com/activity/354946
+DESCRIPTION:피코그램\nhttps://linkareer.com/activity/354946
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-351840@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:[접수 마감] 제 3회 송파 글로벌 AI영화음악 축제
+URL:https://linkareer.com/activity/351840
+DESCRIPTION:AI영화조직위원회 / AI융합산업협회\, Global K\nht
+ tps://linkareer.com/activity/351840
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202610010016@contest-radar
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:[접수 마감] [데이콘] 국부펀드 KIC\, AI 에이전트 
  공모전
-URL:https://linkareer.com/activity/354705
-DESCRIPTION:한국투자공사\nhttps://linkareer.com/activity/354705
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202610010016
+DESCRIPTION:한국투자공사\nhttps://www.contestkorea.com/sub/view.php
+ ?int_gbn=1&Txt_bcode=030310001&str_no=202610010016
+END:VEVENT
+BEGIN:VEVENT
+UID:annual-icpc-seoul-1@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+SUMMARY:[본선] ICPC 서울 리저널 본선
+URL:https://icpckorea.org/
+DESCRIPTION:ICPC Korea\nhttps://icpckorea.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3410@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261112T170000Z
 DTEND:20261114T050000Z
 SUMMARY:CSAW CTF Final Round 2026
@@ -659,7 +1475,7 @@ DESCRIPTION:NYUSEC\nhttps://ctftime.org/event/3410/
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-352004@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:[접수 마감] 2026 동남 버그바운티 대회
@@ -667,8 +1483,29 @@ URL:https://linkareer.com/activity/352004
 DESCRIPTION:파인더갭\nhttps://linkareer.com/activity/352004
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-353862@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:[접수 마감] 5극3특 성장엔진 미래지도 AI 영상 공
+ 모전
+URL:https://linkareer.com/activity/353862
+DESCRIPTION:한국산업기술진흥원\nhttps://linkareer.com/activity/3
+ 53862
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-350361@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:[접수 마감] AI 활용 옥외광고 간판 디자인 공모전
+URL:https://linkareer.com/activity/350361
+DESCRIPTION:한국지방재정공제회 한국옥외광고센터\nhttps:/
+ /linkareer.com/activity/350361
+END:VEVENT
+BEGIN:VEVENT
 UID:ctf-3082@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261113T170000Z
 DTEND:20261114T110000Z
 SUMMARY:Platypwn 2026
@@ -677,7 +1514,7 @@ DESCRIPTION:Platypwnies\nhttps://ctftime.org/event/3082/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3049@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261113T230000Z
 DTEND:20261115T230000Z
 SUMMARY:WolvCTF 2026
@@ -686,7 +1523,7 @@ DESCRIPTION:w01verines\nhttps://ctftime.org/event/3049/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3467@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261114T153000Z
 DTEND:20261114T233000Z
 SUMMARY:InIt CTF
@@ -694,8 +1531,42 @@ URL:https://ctftime.org/event/3467/
 DESCRIPTION:Hackers_In_India\nhttps://ctftime.org/event/3467/
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-343445@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:[접수 마감] 2026 AI 캐릭터창작공모전
+URL:https://linkareer.com/activity/343445
+DESCRIPTION:(사)캐릭터디자인협회\nhttps://linkareer.com/activity
+ /343445
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202609160045@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:[접수 마감] 제1회 전국 대학생 AI 재무설계 콘테
+ 스트 'AFPK 영 플래너 챌린지 2026'
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609160045
+DESCRIPTION:(사)한국재무설계협회\, 한국FP학회\nhttps://www.c
+ ontestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=2026091
+ 60045
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-355507@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:[접수 마감] 제2회 AI전자그림책 공모전 'AI 이야기
+  숲'
+URL:https://linkareer.com/activity/355507
+DESCRIPTION:사단법인 한국독서문화재단\nhttps://linkareer.com/
+ activity/355507
+END:VEVENT
+BEGIN:VEVENT
 UID:ctf-3419@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261120T100000Z
 DTEND:20261122T100000Z
 SUMMARY:EyesOpenCTF 7th edition
@@ -704,7 +1575,7 @@ DESCRIPTION:EyesOpen_Security\nhttps://ctftime.org/event/3419/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3337@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261120T180000Z
 DTEND:20261121T180000Z
 SUMMARY:GlacierCTF 2026
@@ -713,7 +1584,7 @@ DESCRIPTION:LosFuzzys\nhttps://ctftime.org/event/3337/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3425@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261120T230000Z
 DTEND:20261121T230000Z
 SUMMARY:Outback Overflow
@@ -722,7 +1593,7 @@ DESCRIPTION:HSCC\nhttps://ctftime.org/event/3425/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3408@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261121T063000Z
 DTEND:20261122T023000Z
 SUMMARY:Seize da Flaq
@@ -731,7 +1602,7 @@ DESCRIPTION:Seize da Flaq\nhttps://ctftime.org/event/3408/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3336@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261121T130000Z
 DTEND:20261121T210000Z
 SUMMARY:Crate-CTF 2026
@@ -740,7 +1611,7 @@ DESCRIPTION:Crate-CTF\nhttps://ctftime.org/event/3336/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3436@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261121T150000Z
 DTEND:20261121T220000Z
 SUMMARY:CyberSci Regional Qualifiers 2026-27
@@ -749,7 +1620,7 @@ DESCRIPTION:CyberSciOrganizers\nhttps://ctftime.org/event/3436/
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-342034@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:[접수 마감] [한국과학기술정보연구원] 2026 DATA·AI
@@ -759,8 +1630,19 @@ DESCRIPTION:한국과학기술정보연구원\nhttps://linkareer.com/acti
  vity/342034
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-314144@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[접수 마감] 2026 통영관광개발공사 제5회 통영관
+ 광 전국사진 공모전
+URL:https://linkareer.com/activity/314144
+DESCRIPTION:통영관광개발공사\nhttps://linkareer.com/activity/3141
+ 44
+END:VEVENT
+BEGIN:VEVENT
 UID:ctf-3386@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261201T151459Z
 DTEND:20261203T151459Z
 SUMMARY:BlackHat MEA CTF Final 2026
@@ -769,7 +1651,7 @@ DESCRIPTION:SAFCSP\nhttps://ctftime.org/event/3386/
 END:VEVENT
 BEGIN:VEVENT
 UID:ctf-3367@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261211T120000Z
 DTEND:20261213T120000Z
 SUMMARY:niteCTF 2026
@@ -777,12 +1659,45 @@ URL:https://ctftime.org/event/3367/
 DESCRIPTION:Cryptonite\nhttps://ctftime.org/event/3367/
 END:VEVENT
 BEGIN:VEVENT
+UID:lk-350248@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:[접수 마감] 제6회 플라이하이 AI 패션 디자인 고
+ 교 콘테스트
+URL:https://linkareer.com/activity/350248
+DESCRIPTION:(주)라사라패션교육개발\nhttps://linkareer.com/activ
+ ity/350248
+END:VEVENT
+BEGIN:VEVENT
 UID:ctf-3062@contest-radar
-DTSTAMP:20261008T211252Z
+DTSTAMP:20261009T004826Z
 DTSTART:20261227T140000Z
 DTEND:20261228T140000Z
 SUMMARY:ASIS CTF Finals 2026
 URL:https://ctftime.org/event/3062/
 DESCRIPTION:ASIS\nhttps://ctftime.org/event/3062/
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-353664@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:[접수 마감] 2026 CWNU SW-DNA² 챌린지 대학생 AI·SW 경
+ 진대회
+URL:https://linkareer.com/activity/353664
+DESCRIPTION:주식회사 휘테커\nhttps://linkareer.com/activity/353664
+END:VEVENT
+BEGIN:VEVENT
+UID:ck-202608270057@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:[접수 마감] 제32회 도시연구세미나 발표공모 - AI
+ 와 도시
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202608270057
+DESCRIPTION:인천연구원\nhttps://www.contestkorea.com/sub/view.php?in
+ t_gbn=1&Txt_bcode=030310001&str_no=202608270057
 END:VEVENT
 END:VCALENDAR

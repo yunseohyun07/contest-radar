@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:AI와 소방안전의 융합\, 일상을 지키는 재난안
+ 전 숏폼 공모전
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-348838@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[접수 마감] AI와 소방안전의 융합\, 일상을 지키
+ 는 재난안전 숏폼 공모전
+URL:https://linkareer.com/activity/348838
+DESCRIPTION:세종사이버대학교 소방방재학과·소방행정학
+ 과\nhttps://linkareer.com/activity/348838
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: AI와 소방안전의 융합\, 일상을 지키는 
+ 재난안전 숏폼 공모전
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: AI와 소방안전의 융합\, 일상을 지키
+ 는 재난안전 숏폼 공모전
+END:VALARM
+END:VEVENT
+END:VCALENDAR

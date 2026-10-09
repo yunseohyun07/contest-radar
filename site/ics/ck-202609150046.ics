@@ -7,13 +7,15 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:lk-350800@contest-radar
-DTSTAMP:20261008T211252Z
+UID:ck-202609150046@contest-radar
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:[접수 마감] 2026 스페이스 해커톤
-URL:https://linkareer.com/activity/350800
-DESCRIPTION:마이스피플\nhttps://linkareer.com/activity/350800
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609150046
+DESCRIPTION:우주항공청\nhttps://www.contestkorea.com/sub/view.php?in
+ t_gbn=1&Txt_bcode=030310001&str_no=202609150046
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D

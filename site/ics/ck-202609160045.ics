@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:제1회 전국 대학생 AI 재무설계 콘테스트 'AFPK 
+ 영 플래너 챌린지 2026'
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ck-202609160045@contest-radar
+DTSTAMP:20261009T004826Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:[접수 마감] 제1회 전국 대학생 AI 재무설계 콘테
+ 스트 'AFPK 영 플래너 챌린지 2026'
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609160045
+DESCRIPTION:(사)한국재무설계협회\, 한국FP학회\nhttps://www.c
+ ontestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=2026091
+ 60045
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: 제1회 전국 대학생 AI 재무설계 콘테스
+ 트 'AFPK 영 플래너 챌린지 2026'
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: 제1회 전국 대학생 AI 재무설계 콘테
+ 스트 'AFPK 영 플래너 챌린지 2026'
+END:VALARM
+END:VEVENT
+END:VCALENDAR

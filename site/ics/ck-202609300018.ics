@@ -2,31 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//contest-radar//KO
 CALSCALE:GREGORIAN
-X-WR-CALNAME:[데이콘] 항만 문제해결을 위한 AI 기술 공모
- 전(~11/2)
+X-WR-CALNAME:[데이콘] 항만 문제해결을 위한 AI 기술 공모전
 X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:lk-353847@contest-radar
-DTSTAMP:20261008T211252Z
+UID:ck-202609300018@contest-radar
+DTSTAMP:20261009T004826Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:[접수 마감] [데이콘] 항만 문제해결을 위한 AI 기
- 술 공모전(~11/2)
-URL:https://linkareer.com/activity/353847
-DESCRIPTION:데이콘 주식회사\nhttps://linkareer.com/activity/353847
+ 술 공모전
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202609300018
+DESCRIPTION:해양수산부\nhttps://www.contestkorea.com/sub/view.php?in
+ t_gbn=1&Txt_bcode=030310001&str_no=202609300018
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D
 DESCRIPTION:3일 전: [데이콘] 항만 문제해결을 위한 AI 기술
-  공모전(~11/2)
+  공모전
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
 DESCRIPTION:하루 전: [데이콘] 항만 문제해결을 위한 AI 기
- 술 공모전(~11/2)
+ 술 공모전
 END:VALARM
 END:VEVENT
 END:VCALENDAR
