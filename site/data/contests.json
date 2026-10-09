@@ -1,87 +1,50 @@
 {
- "updatedAt": "2026-10-09T00:48:26Z",
+ "updatedAt": "2026-10-09T09:18:52Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-10-09T00:48:26Z",
-   "lastSuccess": "2026-10-09T00:48:26Z"
+   "checkedAt": "2026-10-09T09:18:52Z",
+   "lastSuccess": "2026-10-09T09:18:52Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-10-09T00:48:26Z",
-   "lastSuccess": "2026-10-09T00:48:26Z"
+   "checkedAt": "2026-10-09T09:18:52Z",
+   "lastSuccess": "2026-10-09T09:18:52Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-09T00:48:26Z",
-   "lastSuccess": "2026-10-09T00:48:26Z"
+   "checkedAt": "2026-10-09T09:18:52Z",
+   "lastSuccess": "2026-10-09T09:18:52Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 42,
-   "checkedAt": "2026-10-09T00:48:26Z",
-   "lastSuccess": "2026-10-09T00:48:26Z"
+   "count": 41,
+   "checkedAt": "2026-10-09T09:18:52Z",
+   "lastSuccess": "2026-10-09T09:18:52Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 102,
-   "checkedAt": "2026-10-09T00:48:26Z",
-   "lastSuccess": "2026-10-09T00:48:26Z"
+   "count": 103,
+   "checkedAt": "2026-10-09T09:18:52Z",
+   "lastSuccess": "2026-10-09T09:18:52Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 31,
-   "checkedAt": "2026-10-09T00:48:26Z",
-   "lastSuccess": "2026-10-09T00:48:26Z"
+   "checkedAt": "2026-10-09T09:18:52Z",
+   "lastSuccess": "2026-10-09T09:18:52Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-09T00:48:26Z",
-   "lastSuccess": "2026-10-09T00:48:26Z"
+   "checkedAt": "2026-10-09T09:18:52Z",
+   "lastSuccess": "2026-10-09T09:18:52Z"
   }
  },
  "contests": [
-  {
-   "id": "ctf-3438",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "ByteMe CTF 26",
-   "host": "OWASP_PCCOE-CORE",
-   "url": "https://ctftime.org/event/3438/",
-   "kind": "대회일",
-   "date": "2026-10-09T04:30:00Z",
-   "start": "2026-10-09T04:30:00Z",
-   "end": "2026-10-09T12:30:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "개인 참가"
-    },
-    {
-     "label": "진행 시간",
-     "value": "8시간"
-    },
-    {
-     "label": "상금",
-     "value": "Total Prize Pool Worth ₹1,50,000+ Online — Global Top 5 teams — Cybersecurity C…"
-    }
-   ],
-   "summary": "ByteMe CTF 26 is a hybrid Jeopardy-style Capture The Flag competition organized by OWASP PCCOE and the Department of Computer Engineering, PCCOE, Pune. The event is designed for college students and provides hands-on exposure to practical cybersecurity through challenges across multiple domains, including OSINT, Web Security, Cryptography, Digital Forensics…",
-   "tag": "CTF"
-  },
   {
    "id": "ck-202609230057",
    "source": "콘테스트코리아",
@@ -3040,6 +3003,35 @@
    "date": "2026-10-25T14:59:59Z",
    "start": null,
    "end": "2026-10-25T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-355879",
+   "source": "링커리어",
+   "cat": "hack",
+   "title": "2026 동남권 멀티도메인 모빌리티 비즈니스 해커톤",
+   "host": "마이스플랜즈",
+   "url": "https://linkareer.com/activity/355879",
+   "kind": "접수 마감",
+   "date": "2026-10-26T14:59:59Z",
+   "start": null,
+   "end": "2026-10-26T14:59:59Z",
    "allDay": true,
    "meta": [
     {
