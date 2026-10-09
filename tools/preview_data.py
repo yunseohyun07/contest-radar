@@ -15,7 +15,10 @@ import collect as C  # noqa: E402
 from test_collect import fixture_sources  # noqa: E402
 
 now = datetime(2026, 10, 6, 3, 0, tzinfo=timezone.utc)
-data = C.collect(now, sources=fixture_sources())
+sources = fixture_sources()
+sources["연례 대회"] = C.SOURCES["연례 대회"]
+data = C.collect(now, sources=sources)
+data["annual"] = C.load_annual()
 C.DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
 C.DATA_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
 C.write_calendars(data["contests"], now)

@@ -202,7 +202,7 @@
     var box = document.getElementById('list');
     if (!box) return;
     var items = filtered();
-    var html = sourceWarnings() + reminder();
+    var html = sourceWarnings() + reminder() + (state.filter === 'all' && !state.query ? annualSeasonNotice() : '');
     if (!items.length) {
       html += '<div class="empty"><strong>' + (state.query ? '검색 결과가 없어요' : '예정된 대회가 없어요') + '</strong>' +
         (state.query ? '다른 단어로 검색하거나 종류를 "전체"로 바꿔 보세요.' : '내일 다시 확인해 보세요.') + '</div>';
@@ -343,7 +343,7 @@
     }
     var s = status(c);
     var countText = s.live ? '지금 진행 중이에요' : s.over ? (c.allDay ? '접수가 마감됐어요' : '대회가 끝났어요')
-      : (c.kind === '접수 마감' ? '접수 마감' : '대회 시작') + (s.n === 0 ? ' 오늘이에요' : '까지 ' + s.n + '일 남았어요');
+      : (c.kind === '접수 마감' ? '접수 마감' : c.kind && c.kind !== '대회일' ? c.kind : '대회 시작') + (s.n === 0 ? ' 오늘이에요' : '까지 ' + s.n + '일 남았어요');
 
     var facts = (c.meta || []).map(function (f) {
       var unknown = f.value === '원문 확인';
@@ -351,7 +351,17 @@
     }).join('');
 
     var tl;
-    if (c.allDay) {
+    if (c.timeline && c.timeline.length) {
+      var nowD = new Date();
+      tl = c.timeline.map(function (t) {
+        var st = dt(t.start), en = dt(t.end);
+        var same = dayKey(st) === dayKey(en);
+        var past = en < nowD, cur = c.kind === t.label || (c.kind === '접수 마감' && t.label === '접수');
+        return '<div class="tl' + (past ? ' past' : '') + '"><span class="pt' + (cur ? ' on ' + esc(c.cat) : '') + '"></span><div class="txt">' +
+          (cur ? '<strong>' + esc(t.label) + '</strong>' : '<span>' + esc(t.label) + '</span>') +
+          '<span class="when">' + esc(fmtDay(st) + (same ? '' : ' ~ ' + fmtDay(en))) + '</span></div></div>';
+      }).join('') + '<p style="font-size:13px;color:var(--muted)">일정은 바뀔 수 있으니 공식 사이트에서 꼭 확인하세요.</p>';
+    } else if (c.allDay) {
       tl = '<div class="tl"><span class="pt on ' + esc(c.cat) + '"></span><div class="txt"><strong>접수 마감</strong><span class="when">' + esc(fmtDay(dt(c.date))) + '</span></div></div>' +
         '<p style="font-size:13px;color:var(--muted)">대회·발표 일정은 원래 사이트에서 확인해 주세요.</p>';
     } else {
@@ -385,6 +395,83 @@
       '</div></div>';
   }
 
+  // ------------------------------------------------------------ 연례 대회
+  function monthsText(ms) {
+    if (!ms || !ms.length) return '';
+    var sorted = ms.slice().sort(function (a, b) { return a - b; });
+    var runs = [], st = sorted[0], pv = sorted[0];
+    for (var i = 1; i <= sorted.length; i++) {
+      var m = sorted[i];
+      if (m === pv + 1) { pv = m; continue; }
+      runs.push(st === pv ? st + '' : st + '~' + pv);
+      st = pv = m;
+    }
+    return runs.join(', ') + '월';
+  }
+  function kstDayStart(ymd) { return new Date(ymd + 'T00:00:00+09:00'); }
+  function kstDayEnd(ymd) { return new Date(ymd + 'T23:59:59+09:00'); }
+  function annualInfo(a) {
+    var now = new Date();
+    var evs = (a.events || []).map(function (e, i) { return { e: e, i: i }; });
+    var next = evs.filter(function (x) { return kstDayEnd(x.e.end || x.e.start) >= now; })[0];
+    if (next) {
+      var s = kstDayStart(next.e.start), e = kstDayEnd(next.e.end || next.e.start);
+      var live = s <= now;
+      var n = daysFromToday(s);
+      var range = fmtDay(s) + (next.e.end && next.e.end !== next.e.start ? ' ~ ' + fmtDay(kstDayStart(next.e.end)) : '');
+      return { state: 'next', label: next.e.label, range: range, id: 'annual-' + a.id + '-' + next.i,
+        badge: live ? { text: '진행 중', cls: 'live' } : { text: n <= 0 ? 'D-day' : 'D-' + n, cls: n <= 3 ? 'urgent' : '' } };
+    }
+    var m = kst(now).m, nextM = m % 12 + 1;
+    var soon = (a.months || []).indexOf(m) !== -1 || (a.months || []).indexOf(nextM) !== -1;
+    return { state: soon ? 'soon' : 'off' };
+  }
+  function annualSeasonNotice() {
+    var list = (state.data && state.data.annual) || [];
+    var soon = list.filter(function (a) { return annualInfo(a).state === 'soon'; });
+    if (!soon.length) return '';
+    var names = soon.map(function (a) { return esc(a.title) + '(보통 ' + esc(monthsText(a.months)) + ')'; }).join(', ');
+    return '<div class="notice remind" role="status">' + I.bell + '<span>연례 대회 시즌이 다가와요: ' + names +
+      '. 아직 올해 일정이 안 나왔으니 <a href="#/annual">공식 사이트에서 공고를 확인</a>해 보세요.</span></div>';
+  }
+  function renderAnnual() {
+    var list = ((state.data && state.data.annual) || []).slice();
+    var order = { next: 0, soon: 1, off: 2 };
+    list.sort(function (a, b) {
+      var ia = annualInfo(a), ib = annualInfo(b);
+      if (order[ia.state] !== order[ib.state]) return order[ia.state] - order[ib.state];
+      return (a.months[0] || 13) - (b.months[0] || 13);
+    });
+    var html = list.map(function (a) {
+      var info = annualInfo(a);
+      var when;
+      if (info.state === 'next') {
+        when = '<span class="dday ' + info.badge.cls + '">' + esc(info.badge.text) + '</span><span><strong>' + esc(info.label) + '</strong> · ' + esc(info.range) + '</span>';
+      } else if (info.state === 'soon') {
+        when = '<span class="season soon">곧 시즌</span><span>보통 ' + esc(monthsText(a.months)) + ' · 공고를 확인해 보세요</span>';
+      } else {
+        when = '<span class="season off">올해 일정 끝</span><span>보통 ' + esc(monthsText(a.months)) + '에 열려요</span>';
+      }
+      var fakeTag = { cat: a.cat, tag: a.tag };
+      return '<article class="annual">' +
+        '<div class="card-meta">' + tagHtml(fakeTag) + '<span>' + esc(a.host === '원문 확인' ? '' : a.host) + '</span></div>' +
+        '<h3>' + esc(a.title) + '</h3>' +
+        (a.about ? '<p class="about">' + esc(a.about) + '</p>' : '') +
+        '<div class="when-row">' + when + '</div>' +
+        '<div class="actions">' +
+          (info.state === 'next' ? '<a class="btn" href="#/c/' + encodeURIComponent(info.id) + '">일정·알림 보기</a>' : '') +
+          '<a class="btn" href="' + esc(safeUrl(a.url)) + '" target="_blank" rel="noopener">공식 사이트' + I.out + '</a>' +
+        '</div>' +
+      '</article>';
+    }).join('');
+    view.innerHTML =
+      '<header class="top"><div class="top-row"><h1 class="page-title">대학생 연례 대회</h1><span class="updated">' + list.length + '개</span></div></header>' +
+      '<section class="list">' + annualSeasonNotice() +
+        (html || '<div class="empty"><strong>연례 대회 목록이 비어 있어요</strong></div>') +
+        '<p class="foot-note">매년 열리는 대회예요. 일정은 해마다 바뀌니 꼭 공식 사이트에서 확인하세요. 날짜가 정해진 일정은 목록과 캘린더에도 나오고, 별표로 저장할 수 있어요.</p>' +
+      '</section>';
+  }
+
   function googleUrl(c) {
     function z(d) { return d.toISOString().replace(/[-:]/g, '').replace(/\.\d{3}/, ''); }
     var dates;
@@ -408,7 +495,7 @@
     var prev = lastRoute;
     if (prev) state.scroll[prev] = window.scrollY;
     lastRoute = h;
-    var tab = h.indexOf('/calendar') === 0 ? 'calendar' : h.indexOf('/saved') === 0 ? 'saved' : h.indexOf('/c/') === 0 ? null : 'list';
+    var tab = h.indexOf('/calendar') === 0 ? 'calendar' : h.indexOf('/saved') === 0 ? 'saved' : h.indexOf('/annual') === 0 ? 'annual' : h.indexOf('/c/') === 0 ? null : 'list';
     document.body.classList.toggle('detail', !tab);
     Array.prototype.forEach.call(document.querySelectorAll('.tabbar a'), function (a) {
       if (a.getAttribute('data-tab') === tab) a.setAttribute('aria-current', 'page');
@@ -425,6 +512,7 @@
     if (!tab) { renderDetail(decodeURIComponent(h.slice(3))); document.title = '대회 정보 · 대회 레이더'; }
     else if (tab === 'calendar') { renderCalendar(); document.title = '캘린더 · 대회 레이더'; }
     else if (tab === 'saved') { renderSaved(); document.title = '관심 대회 · 대회 레이더'; }
+    else if (tab === 'annual') { renderAnnual(); document.title = '연례 대회 · 대회 레이더'; }
     else { renderList(); document.title = '대회 레이더'; }
 
     var y = (tab === 'list' && state.scroll[h]) || 0;
@@ -497,11 +585,38 @@
   });
 
   // ------------------------------------------------------------ start
-  function init() {
-    fetch('data/contests.json', { cache: 'no-cache' })
+  // 데이터를 받아온다. 홈 화면 앱은 며칠씩 꺼지지 않고 메모리에 남아 있을 수 있어서,
+  // 앱으로 돌아올 때마다(그리고 켜져 있는 동안 30분마다) 새 데이터를 다시 확인한다.
+  var lastFetch = 0;
+  function loadData(silent) {
+    lastFetch = Date.now();
+    return fetch('data/contests.json?t=' + Date.now(), { cache: 'no-store' })
       .then(function (r) { if (!r.ok) throw new Error('서버 응답 ' + r.status); return r.json(); })
-      .then(function (d) { state.data = d; refreshSaved(); route(); })
-      .catch(function (e) { state.error = '인터넷 연결을 확인해 주세요. (' + e.message + ')'; route(); });
+      .then(function (d) {
+        var changed = !state.data || state.data.updatedAt !== d.updatedAt;
+        state.data = d;
+        state.error = null;
+        refreshSaved();
+        if (!silent) { route(); return; }
+        if (changed && !(document.activeElement && document.activeElement.id === 'q')) {
+          var y = window.scrollY;
+          route();
+          window.scrollTo(0, y);
+        }
+      })
+      .catch(function (e) {
+        if (silent && state.data) return; // 이미 보여주는 데이터가 있으면 조용히 넘어간다
+        state.error = '인터넷 연결을 확인해 주세요. (' + e.message + ')';
+        route();
+      });
   }
+  function init() { loadData(false); }
+  function refreshIfStale() {
+    if (document.visibilityState === 'visible' && Date.now() - lastFetch > 5 * 60 * 1000) loadData(true);
+  }
+  document.addEventListener('visibilitychange', refreshIfStale);
+  window.addEventListener('pageshow', function (e) { if (e.persisted) refreshIfStale(); });
+  window.addEventListener('focus', refreshIfStale);
+  setInterval(refreshIfStale, 30 * 60 * 1000);
   init();
 })();

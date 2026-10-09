@@ -211,7 +211,20 @@ main { flex: 1; padding-bottom: calc(84px + env(safe-area-inset-bottom)); outlin
 body.detail .tabbar { display: none; }
 
 /* ---------- tab bar ---------- */
-.tabbar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 6; background: var(--surface); border-top: 1px solid var(--line); display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); padding: 6px max(8px, calc((100vw - 720px) / 2)) calc(8px + env(safe-area-inset-bottom)); }
+.tabbar { position: fixed; left: 0; right: 0; bottom: 0; z-index: 6; background: var(--surface); border-top: 1px solid var(--line); display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); padding: 6px max(8px, calc((100vw - 720px) / 2)) calc(8px + env(safe-area-inset-bottom)); }
 .tabbar a { display: flex; flex-direction: column; align-items: center; gap: 3px; padding: 6px 0; min-height: 50px; text-decoration: none; color: var(--muted); font-size: 12px; font-weight: 500; border-radius: 12px; }
 .tabbar a[aria-current="page"] { color: var(--accent-ink); font-weight: 700; }
 .tabbar a[aria-current="page"][data-tab="saved"] svg { fill: currentColor; }
+
+/* ---------- annual ---------- */
+.annual { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 16px; display: flex; flex-direction: column; gap: 8px; }
+.annual h3 { margin: 0; font-size: 16px; font-weight: 600; line-height: 1.35; }
+.annual .about { margin: 0; font-size: 13px; color: var(--muted); }
+.annual .when-row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; font-size: 14px; }
+.annual .actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 2px; }
+.annual .actions .btn { height: 44px; font-size: 14px; flex: 1 1 140px; }
+.season { font-size: 12px; font-weight: 700; padding: 4px 8px; border-radius: 8px; white-space: nowrap; }
+.season.soon { background: var(--hack-bg); color: var(--hack-fg); }
+.season.off { background: var(--surface-2); color: var(--muted); }
+.tl .pt.now { box-shadow: none; }
+.tl.past { opacity: .55; }

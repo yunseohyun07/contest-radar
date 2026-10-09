@@ -23,6 +23,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT / "site"
 DATA_FILE = SITE / "data" / "contests.json"
+ANNUAL_FILE = ROOT / "collector" / "annual.json"
 
 KST = timezone(timedelta(hours=9))
 JST = KST  # 일본 표준시는 한국 시간과 같다
@@ -233,14 +234,15 @@ def parse_ctftime(items: list[dict]) -> list[dict]:
 _EN = r"(?<![A-Za-z])(?:AI|AX|IT|ICT|SW|S/W|CTF|LLM|DATA|DACON|App|APP)(?![A-Za-z])"
 IT_WORDS = re.compile(
     _EN + r"|인공지능|소프트웨어|코딩|프로그래밍|알고리즘|해커톤|[Hh]ackathon|개발|앱|어플|데이터|보안|해킹|버그바운티|"
-    r"메타버스|로봇|게임|웹|블록체인|클라우드|디지털|데이콘|머신러닝|딥러닝|에이전트|자율주행|드론|핀테크"
+    r"메타버스|로봇|게임 ?개발|게임잼|웹 ?(사이트|서비스|개발)|웹앱|블록체인|클라우드|디지털 ?전환|데이콘|머신러닝|딥러닝|"
+    r"에이전트|자율주행|드론|핀테크|아이디어톤|정보올림피아드|SW|ICT"
 )
 NO_PRIZE = re.compile(r"^\s*(TBD|TBA|TDB|N/?A|-|to be (announced|determined).*)\s*$", re.I | re.S)
 
 
 def classify_kr(title: str) -> tuple[str, str | None]:
     """국내 공모전 제목으로 종류(cat)와 작은 태그를 정한다."""
-    if re.search(r"해커톤|hackathon", title, re.I):
+    if re.search(r"해커톤|아이디어톤|hackathon|게임잼", title, re.I):
         return "hack", None
     if re.search(r"보안|해킹|CTF|버그바운티", title, re.I):
         return "ai", "보안"
@@ -252,20 +254,25 @@ def classify_kr(title: str) -> tuple[str, str | None]:
 
 
 def linkareer(now: datetime) -> list[dict]:
-    out, seen = [], set()
-    for page in range(1, 6):
-        url = (
-            "https://linkareer.com/list/contest?filterBy_categoryIDs=35&filterType=CATEGORY"
-            f"&orderBy_direction=DESC&orderBy_field=CREATED_AT&page={page}"
-        )
-        items = parse_linkareer(http_get(url))
+    """접수 중인 링커리어 공모전 전체(모든 분야)를 훑고, IT 관련 제목만 남긴다.
+
+    처음에는 '과학/공학' 분야만 봤는데, IT 대회가 '기획/아이디어' 같은 다른 분야에도
+    올라와서 빠지는 게 있었다. 전체가 700개 정도라 40페이지 안쪽이다.
+    """
+    out, seen, raw_seen = [], set(), set()
+    for page in range(1, 61):
+        url = f"https://linkareer.com/list/contest?orderBy_direction=DESC&orderBy_field=CREATED_AT&page={page}"
+        html_text = http_get(url)
+        ids = set(re.findall(r'"Activity:(\d+)"', html_text))
+        if not ids or ids <= raw_seen:
+            break  # 마지막 페이지를 지났다
+        raw_seen |= ids
+        items = parse_linkareer(html_text)
         new = [c for c in items if c["id"] not in seen]
-        if not new:
-            break
         for c in new:
             seen.add(c["id"])
         out.extend(new)
-        time.sleep(1.5)  # 사이트에 부담 주지 않게 천천히
+        time.sleep(1.2)  # 사이트에 부담 주지 않게 천천히
     return out
 
 
@@ -278,6 +285,8 @@ def parse_linkareer(page: str) -> list[dict]:
     for v in state.values():
         if not isinstance(v, dict) or v.get("__typename") != "Activity":
             continue
+        if v.get("activityTypeID") not in (None, 3, "3"):
+            continue  # 공모전(3)이 아닌 대외활동 등은 뺀다
         title = clean_text(v.get("title") or "", 200)
         if not title or not IT_WORDS.search(title) or not v.get("recruitCloseAt"):
             continue
@@ -298,13 +307,145 @@ def parse_linkareer(page: str) -> list[dict]:
     return out
 
 
+# 콘테스트코리아: '학문·과학·IT', '아이디어·건축·창업' 분야에서 접수 중인 대회를 마감 순으로 가져온다.
+CK_CODES = {"030310001": "학문·과학·IT", "031410001": "아이디어·건축·창업"}
+CK_TARGET_OK = re.compile(r"대학|누구나|일반|제한 ?없음|청년")
+
+
+def contestkorea(now: datetime) -> list[dict]:
+    out, seen = [], set()
+    for code in CK_CODES:
+        url = (f"https://www.contestkorea.com/sub/list.php?int_gbn=1&Txt_bcode={code}"
+               "&Txt_sortkey=a.str_aedate&Txt_sortword=asc&displayrow=200&page=1")
+        for c in parse_contestkorea(http_get(url), now):
+            if c["id"] not in seen:
+                seen.add(c["id"])
+                out.append(c)
+        time.sleep(1.5)
+    return out
+
+
+def _ck_date(mmdd: str, now: datetime, ref: datetime | None = None) -> datetime:
+    """'10.31' 처럼 연도 없는 날짜를 기준 날짜와 가장 가까운 연도로 바꾼다."""
+    m, d = (int(x) for x in mmdd.split("."))
+    ref = ref or now.astimezone(KST)
+    cands = []
+    for y in (ref.year - 1, ref.year, ref.year + 1):
+        try:
+            cands.append(datetime(y, m, d, tzinfo=KST))
+        except ValueError:
+            pass
+    return min(cands, key=lambda c: abs((c - ref).total_seconds()))
+
+
+def parse_contestkorea(page: str, now: datetime) -> list[dict]:
+    i = page.find('class="list_style_2"')
+    if i == -1:
+        raise RuntimeError("콘테스트코리아 목록(list_style_2)을 찾지 못했어요 (사이트 구조 변경?)")
+    end = page.find('class="pagination', i)
+    seg = page[i:end if end != -1 else None]
+    out = []
+    for block in seg.split('<div class="title">')[1:]:
+        m_id = re.search(r"str_no=(\d+)", block)
+        m_code = re.search(r"Txt_bcode=(\d+)", block)
+        m_title = re.search(r'class="txt">(.*?)</span>', block, re.S)
+        m_acc = re.search(r"<em>접수</em>\s*(\d\d\.\d\d)\s*~\s*(\d\d\.\d\d)", block)
+        if not (m_id and m_title and m_acc):
+            continue
+        title = clean_text(re.sub(r"<[^>]+>", "", m_title.group(1)), 200)
+        host = clean_text(re.sub(r"<[^>]+>", "", (re.search(r"<strong>주최</strong>\s*\.\s*(.*?)</li>", block, re.S) or [None, ""])[1]), 120) or "원문 확인"
+        target = re.sub(r"\s*,\s*", ", ", clean_text(re.sub(r"<[^>]+>", "", (re.search(r"<strong>대상</strong>\s*\.\s*(.*?)</li>", block, re.S) or [None, ""])[1]), 120))
+        if not IT_WORDS.search(title):
+            continue
+        if target and not CK_TARGET_OK.search(target):
+            continue  # 초·중·고생 전용 대회는 뺀다
+        a_start = _ck_date(m_acc.group(1), now)
+        a_end = _ck_date(m_acc.group(2), now, ref=a_start + timedelta(days=60))
+        if a_end < a_start:
+            a_end = a_end.replace(year=a_end.year + 1)
+        close = a_end + timedelta(days=1, seconds=-1)
+        timeline = [{"label": "접수", "start": iso(a_start), "end": iso(close)}]
+        m_rev = re.search(r"<em>심사</em>\s*(\d\d\.\d\d)\s*~\s*(\d\d\.\d\d)", block)
+        if m_rev:
+            r0 = _ck_date(m_rev.group(1), now, ref=a_end)
+            r1 = _ck_date(m_rev.group(2), now, ref=r0 + timedelta(days=30))
+            timeline.append({"label": "심사", "start": iso(r0), "end": iso(r1 + timedelta(days=1, seconds=-1))})
+        m_ann = re.search(r"<em>발표</em>\s*(\d\d\.\d\d)", block)
+        if m_ann:
+            a0 = _ck_date(m_ann.group(1), now, ref=a_end)
+            timeline.append({"label": "발표", "start": iso(a0), "end": iso(a0 + timedelta(days=1, seconds=-1))})
+        paid = "유료" in block
+        cat, tag = classify_kr(title)
+        out.append(make(
+            id=f"ck-{m_id.group(1)}", source="콘테스트코리아", cat=cat, tag=tag, title=title, host=host,
+            url=f"https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode={m_code.group(1) if m_code else '030310001'}&str_no={m_id.group(1)}",
+            kind="접수 마감", date=iso(close), start=None, end=iso(close), allDay=True, timeline=timeline,
+            meta=[
+                {"label": "참가 대상", "value": target or "원문 확인"},
+                {"label": "참가비", "value": "유료" if paid else "원문 확인"},
+                {"label": "상금", "value": "원문 확인"},
+                {"label": "팀 구성", "value": "원문 확인"},
+            ],
+        ))
+    return out
+
+
+def _norm_title(t: str) -> str:
+    t = re.sub(r"\[[^\]]*\]|【[^】]*】|\([^)]*\)|（[^）]*）|<[^>]*>|＜[^＞]*＞", "", t)
+    return re.sub(r"[^0-9A-Za-z가-힣]", "", t).lower()
+
+
+def dedupe_kr(contests: list[dict]) -> list[dict]:
+    """링커리어와 콘테스트코리아에 같은 대회가 함께 올라오면 하나만 남긴다 (콘테스트코리아 쪽 정보가 더 자세함)."""
+    ck = {}
+    for c in contests:
+        if c["source"] == "콘테스트코리아":
+            ck.setdefault(_norm_title(c["title"]), []).append(c)
+    out = []
+    for c in contests:
+        if c["source"] == "링커리어":
+            twins = ck.get(_norm_title(c["title"]), [])
+            d = datetime.fromisoformat(c["date"].replace("Z", "+00:00"))
+            if any(abs((datetime.fromisoformat(t["date"].replace("Z", "+00:00")) - d).days) <= 3 for t in twins):
+                continue
+        out.append(c)
+    return out
+
+
+def load_annual() -> list[dict]:
+    """직접 관리하는 연례 대회 목록 (collector/annual.json)."""
+    return json.loads(ANNUAL_FILE.read_text(encoding="utf-8"))["items"]
+
+
+def annual_events(items: list[dict]) -> list[dict]:
+    """연례 대회 중 날짜가 정해진 일정을 목록에 넣을 대회로 바꾼다."""
+    out = []
+    for a in items:
+        timeline = []
+        for ev in a.get("events", []):
+            s = datetime.strptime(ev["start"], "%Y-%m-%d").replace(tzinfo=KST)
+            e = datetime.strptime(ev.get("end") or ev["start"], "%Y-%m-%d").replace(tzinfo=KST) + timedelta(days=1, seconds=-1)
+            timeline.append({"label": ev["label"], "start": iso(s), "end": iso(e)})
+        for i, (ev, t) in enumerate(zip(a.get("events", []), timeline)):
+            out.append(make(
+                id=f"annual-{a['id']}-{i}", source="연례 대회", cat=a["cat"], tag="연례",
+                title=f"{a['title']} {ev['label']}", host=a["host"], url=a["url"], kind=ev["label"],
+                date=t["start"], start=t["start"], end=t["end"], allDay=True,
+                meta=list(a.get("meta", [])), summary=a.get("about", ""), timeline=timeline,
+            ))
+    return out
+
+
 SOURCES = {
     "Codeforces": lambda now: codeforces(),
     "AtCoder": lambda now: atcoder(),
     "LeetCode": lambda now: leetcode(),
     "CTFtime": ctftime,
     "링커리어": linkareer,
+    "콘테스트코리아": contestkorea,
+    "연례 대회": lambda now: annual_events(load_annual()),
 }
+ALLOW_EMPTY = {"연례 대회"}  # 올해 일정이 다 끝나면 0개가 정상
 
 
 # ---------------------------------------------------------------- calendar files
@@ -335,8 +476,10 @@ def ics_dt(s: str) -> str:
 def ics_event(c: dict, stamp: str, alarms: bool) -> list[str]:
     lines = ["BEGIN:VEVENT", f"UID:{c['id']}@contest-radar", f"DTSTAMP:{stamp}"]
     if c.get("allDay"):
-        d = datetime.fromisoformat(c["date"].replace("Z", "+00:00")).astimezone(KST).date()
-        lines += [f"DTSTART;VALUE=DATE:{d:%Y%m%d}", f"DTEND;VALUE=DATE:{d + timedelta(days=1):%Y%m%d}"]
+        def kday(v):
+            return datetime.fromisoformat(v.replace("Z", "+00:00")).astimezone(KST).date()
+        d0, d1 = kday(c.get("start") or c["date"]), kday(c.get("end") or c["date"])
+        lines += [f"DTSTART;VALUE=DATE:{d0:%Y%m%d}", f"DTEND;VALUE=DATE:{max(d0, d1) + timedelta(days=1):%Y%m%d}"]
         summary = f"[{c['kind']}] {c['title']}"
     else:
         lines += [f"DTSTART:{ics_dt(c['start'])}", f"DTEND:{ics_dt(c['end'] or c['start'])}"]
@@ -392,7 +535,7 @@ def collect(now: datetime | None = None, sources: dict | None = None, previous: 
     for name, fn in sources.items():
         try:
             items = fn(now)
-            if not items and prev_by_source.get(name):
+            if not items and prev_by_source.get(name) and name not in ALLOW_EMPTY:
                 # 갑자기 0개면 구조가 바뀐 것일 수 있으니 의심한다
                 raise RuntimeError("대회가 0개로 나왔어요 (사이트 구조 변경 가능성)")
             status[name] = {"ok": True, "count": len(items), "checkedAt": iso(now), "lastSuccess": iso(now)}
@@ -415,7 +558,7 @@ def collect(now: datetime | None = None, sources: dict | None = None, previous: 
         end = datetime.fromisoformat((c.get("end") or c["date"]).replace("Z", "+00:00"))
         if end >= lo and d <= hi:
             uniq[c["id"]] = c
-    result = sorted(uniq.values(), key=lambda c: (c["date"], c["title"]))
+    result = sorted(dedupe_kr(list(uniq.values())), key=lambda c: (c["date"], c["title"]))
     return {"updatedAt": iso(now), "sources": status, "contests": result}
 
 
@@ -429,6 +572,7 @@ def main() -> int:
             previous = {}
     print("대회 수집 시작")
     data = collect(now, previous=previous)
+    data["annual"] = load_annual()
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     DATA_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
     write_calendars(data["contests"], now)

@@ -1,0 +1,123 @@
+{
+  "_설명": "매년 열리는 대학생 대회 목록. 직접 고치는 파일이에요. 새 일정이 공지되면 events에 추가하세요 (날짜는 한국 날짜, YYYY-MM-DD). months는 보통 열리는(접수 포함) 달이에요.",
+  "items": [
+    {
+      "id": "icpc-seoul",
+      "title": "ICPC 서울 리저널",
+      "cat": "algo",
+      "host": "ICPC Korea",
+      "url": "https://icpckorea.org/",
+      "months": [9, 10, 11],
+      "about": "세계 대학생 프로그래밍 대회(ICPC)의 한국 지역 대회. 인터넷 예선 후 본선을 치러요.",
+      "meta": [
+        {"label": "참가 자격", "value": "대학(원)생"},
+        {"label": "팀 구성", "value": "같은 학교 3명"},
+        {"label": "진행 방식", "value": "예선 온라인 · 본선 오프라인"}
+      ],
+      "events": [
+        {"label": "인터넷 예선", "start": "2026-10-16", "end": "2026-10-17"},
+        {"label": "본선", "start": "2026-11-13", "end": "2026-11-14"}
+      ],
+      "checked": "2026-10-07",
+      "sourceUrl": "https://icpckorea.org/archives/3458"
+    },
+    {
+      "id": "ucpc",
+      "title": "UCPC 전국 대학생 프로그래밍 대회",
+      "cat": "algo",
+      "host": "전국 대학생 프로그래밍 대회 동아리 연합",
+      "url": "https://2026.ucpc.me/",
+      "months": [6, 7],
+      "about": "여름에 열리는 대학생 팀 알고리즘 대회. ICPC 준비 연습 무대로 많이 나가요.",
+      "meta": [
+        {"label": "참가 자격", "value": "원문 확인"},
+        {"label": "팀 구성", "value": "원문 확인"},
+        {"label": "진행 방식", "value": "예선 온라인 · 본선 오프라인"}
+      ],
+      "events": [
+        {"label": "참가 접수", "start": "2026-06-05", "end": "2026-06-22"},
+        {"label": "예선", "start": "2026-06-27", "end": "2026-06-27"},
+        {"label": "본선", "start": "2026-07-12", "end": "2026-07-12"}
+      ],
+      "checked": "2026-10-07",
+      "sourceUrl": "https://2026.ucpc.me/"
+    },
+    {
+      "id": "scpc",
+      "title": "SCPC 삼성 대학생 프로그래밍 챌린지",
+      "cat": "algo",
+      "host": "삼성전자",
+      "url": "https://research.samsung.com/scpc",
+      "months": [6, 7, 8],
+      "about": "알고리즘 부문과 AI 부문이 있어요. 수상하면 삼성전자 채용 우대 혜택이 있어요.",
+      "meta": [
+        {"label": "참가 자격", "value": "대학(원)생 누구나 (학년·전공 무관)"},
+        {"label": "부문", "value": "알고리즘 · AI"},
+        {"label": "진행 방식", "value": "예선 온라인 · 본선 오프라인"}
+      ],
+      "events": [
+        {"label": "참가 접수", "start": "2026-06-11", "end": "2026-07-05"},
+        {"label": "알고리즘 1차 예선", "start": "2026-07-10", "end": "2026-07-11"},
+        {"label": "알고리즘 2차 예선", "start": "2026-08-01", "end": "2026-08-01"},
+        {"label": "알고리즘 본선", "start": "2026-08-28", "end": "2026-08-28"}
+      ],
+      "checked": "2026-10-07",
+      "sourceUrl": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%A0%9C12%ED%9A%8C-%EB%8C%80%ED%95%99%EC%83%9D-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%B1%8C%EB%A6%B0%EC%A7%80scpc-%EC%B0%B8%EA%B0%80%EC%9E%90"
+    },
+    {
+      "id": "codegate",
+      "title": "Codegate 해킹방어대회",
+      "cat": "ai",
+      "tag": "보안",
+      "host": "Codegate",
+      "url": "https://www.codegate.org/",
+      "months": [2, 3],
+      "about": "국제 해킹방어대회. 청소년부·대학생부·일반부로 나뉘어 열려요.",
+      "meta": [{"label": "참가 자격", "value": "대학생부 있음"}],
+      "events": [],
+      "checked": "2026-10-07",
+      "sourceUrl": "https://theori.io/ko/blog/ctf-hacking-competition-schedule"
+    },
+    {
+      "id": "cce",
+      "title": "사이버공격방어대회 (CCE)",
+      "cat": "ai",
+      "tag": "보안",
+      "host": "원문 확인",
+      "url": "https://theori.io/ko/blog/ctf-hacking-competition-schedule",
+      "months": [7, 8],
+      "about": "국내 대표 공격·방어 보안 대회. 2026년에는 8월에 열렸어요.",
+      "meta": [],
+      "events": [],
+      "checked": "2026-10-07",
+      "sourceUrl": "https://theori.io/ko/blog/ctf-hacking-competition-schedule"
+    },
+    {
+      "id": "whitehat",
+      "title": "화이트햇 콘테스트",
+      "cat": "ai",
+      "tag": "보안",
+      "host": "원문 확인",
+      "url": "https://theori.io/ko/blog/ctf-hacking-competition-schedule",
+      "months": [8, 9],
+      "about": "국내 해킹방어대회. 2026년에는 9월에 열렸어요.",
+      "meta": [],
+      "events": [],
+      "checked": "2026-10-07",
+      "sourceUrl": "https://theori.io/ko/blog/ctf-hacking-competition-schedule"
+    },
+    {
+      "id": "oss",
+      "title": "오픈소스 개발자대회",
+      "cat": "contest",
+      "host": "한국오픈소스협회",
+      "url": "https://osscontest.kr/",
+      "months": [5, 6, 7],
+      "about": "오픈소스 SW를 직접 개발해서 내는 대회. 2026년에는 7월 중순에 접수가 마감됐어요.",
+      "meta": [{"label": "진행 방식", "value": "온라인 접수"}],
+      "events": [],
+      "checked": "2026-10-07",
+      "sourceUrl": "https://swuniv.kr/38/?bmode=view&idx=171852041"
+    }
+  ]
+}

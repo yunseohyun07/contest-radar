@@ -176,6 +176,7 @@ def fixture_sources():
         "LeetCode": lambda now: C.parse_leetcode(json.loads((FIX / "leetcode.json").read_text())["data"]["upcomingContests"]),
         "CTFtime": lambda now: C.parse_ctftime(json.loads((FIX / "ctftime.json").read_text())),
         "링커리어": lambda now: C.parse_linkareer((FIX / "linkareer_page1.html").read_text()),
+        "콘테스트코리아": lambda now: C.parse_contestkorea((FIX / "contestkorea.html").read_text(), now),
     }
 
 
@@ -197,7 +198,11 @@ class SnapshotTests(unittest.TestCase):
         self.assertNotIn("lk-353034", self.by_id)  # 승강기 공모전
         self.assertNotIn("lk-344134", self.by_id)  # 논문 공모전
         self.assertNotIn("lk-350237", self.by_id)  # 스피치 대회
-        self.assertEqual(self.by_id["lk-351992"]["cat"], "contest")  # IT코딩 경시대회
+        self.assertNotIn("lk-351992", self.by_id)  # IT코딩 경시대회: 콘테스트코리아와 중복이라 하나만
+        self.assertEqual(self.by_id["ck-202609160066"]["cat"], "contest")
+        self.assertTrue(C.IT_WORDS.search("[대구경북첨단의료산업진흥재단] 2026 K-MEDI AI 혁신 아이디어 챌린지"))
+        self.assertFalse(C.IT_WORDS.search("웹툰 공모전"))
+        self.assertFalse(C.IT_WORDS.search("디지털 성범죄 예방 UCC 공모전"))
         self.assertEqual(self.by_id["lk-353364"]["cat"], "hack")
         self.assertEqual(self.by_id["lk-353657"]["cat"], "ai")
         self.assertEqual(self.by_id["lk-352004"]["tag"], "보안")
@@ -214,3 +219,74 @@ class SnapshotTests(unittest.TestCase):
     def test_sorted_by_date(self):
         dates = [c["date"] for c in self.data["contests"]]
         self.assertEqual(dates, sorted(dates))
+
+
+class AnnualTests(unittest.TestCase):
+    def test_annual_file_is_valid(self):
+        items = C.load_annual()
+        self.assertGreaterEqual(len(items), 5)
+        for a in items:
+            for k in ("id", "title", "cat", "host", "url", "months", "events"):
+                self.assertIn(k, a, a.get("id"))
+            self.assertIn(a["cat"], ("algo", "hack", "contest", "ai"))
+            self.assertTrue(all(1 <= m <= 12 for m in a["months"]))
+            for ev in a["events"]:
+                datetime.strptime(ev["start"], "%Y-%m-%d")
+                self.assertLessEqual(ev["start"], ev.get("end") or ev["start"])
+
+    def test_annual_events_dates_in_kst(self):
+        items = [{"id": "x", "title": "ICPC", "cat": "algo", "host": "h", "url": "https://x", "months": [10],
+                  "events": [{"label": "인터넷 예선", "start": "2026-10-16", "end": "2026-10-17"}]}]
+        c = C.annual_events(items)[0]
+        self.assertEqual(c["start"], "2026-10-15T15:00:00Z")  # 10.16 00:00 KST
+        self.assertEqual(c["end"], "2026-10-17T14:59:59Z")    # 10.17 23:59:59 KST
+        self.assertEqual(c["title"], "ICPC 인터넷 예선")
+        self.assertEqual(c["tag"], "연례")
+        self.assertEqual(len(c["timeline"]), 1)
+        text = C.ics_calendar("t", [c], "20261006T000000Z", alarms=False)
+        self.assertIn("DTSTART;VALUE=DATE:20261016", text)
+        self.assertIn("DTEND;VALUE=DATE:20261018", text)
+
+    def test_annual_empty_is_not_failure(self):
+        prev = {"contests": [C.make(id="annual-x-0", source="연례 대회", date="2026-05-01T00:00:00Z")]}
+        data = C.collect(NOW, sources={"연례 대회": lambda now: []}, previous=prev)
+        self.assertTrue(data["sources"]["연례 대회"]["ok"])
+        self.assertEqual(data["contests"], [])
+
+
+class ContestKoreaTests(unittest.TestCase):
+    def setUp(self):
+        html = (FIX / "contestkorea.html").read_text()
+        self.by_id = {c["id"]: c for c in C.parse_contestkorea(html, NOW)}
+
+    def test_filters(self):
+        self.assertIn("ck-202609160066", self.by_id)      # IT코딩 경시대회 (대학생 포함)
+        self.assertIn("ck-202609290002", self.by_id)      # 사용자가 알려준 대회
+        self.assertNotIn("ck-202610060078", self.by_id)   # 영어 말하기: IT 아님
+        self.assertNotIn("ck-202699990001", self.by_id)   # 초·중학생 전용
+
+    def test_fields(self):
+        c = self.by_id["ck-202609290002"]
+        self.assertEqual(c["cat"], "hack")  # 아이디어톤
+        self.assertEqual(c["host"], "한양대 ERICA SW중심대학사업단")
+        self.assertEqual(c["date"], "2026-11-01T14:59:59Z")  # 11.01 23:59:59 KST
+        self.assertEqual(c["meta"][0]["value"], "대학생, 대학원생")
+        self.assertEqual([t["label"] for t in c["timeline"]], ["접수", "심사"])
+        self.assertEqual(c["timeline"][1]["start"], "2026-11-05T15:00:00Z")
+        self.assertIn("str_no=202609290002", c["url"])
+
+    def test_year_rollover_and_paid(self):
+        c = self.by_id["ck-202605150099"]
+        self.assertEqual(c["date"], "2027-01-16T14:59:59Z")
+        self.assertEqual(c["meta"][1]["value"], "유료")
+
+    def test_structure_change(self):
+        with self.assertRaises(RuntimeError):
+            C.parse_contestkorea("<html></html>", NOW)
+
+    def test_dedupe_with_linkareer(self):
+        ck = self.by_id["ck-202609160066"]
+        lk = C.make(id="lk-1", source="링커리어", title="[경기도] 제32회 전국 창의성 IT코딩 경시대회", date="2026-10-09T14:59:59Z")
+        other = C.make(id="lk-2", source="링커리어", title="다른 대회", date="2026-10-09T14:59:59Z")
+        ids = [c["id"] for c in C.dedupe_kr([ck, lk, other])]
+        self.assertEqual(ids, ["ck-202609160066", "lk-2"])
