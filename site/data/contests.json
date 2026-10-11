@@ -1,82 +1,50 @@
 {
- "updatedAt": "2026-10-10T21:10:28Z",
+ "updatedAt": "2026-10-11T09:16:47Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 4,
-   "checkedAt": "2026-10-10T21:10:28Z",
-   "lastSuccess": "2026-10-10T21:10:28Z"
+   "checkedAt": "2026-10-11T09:16:47Z",
+   "lastSuccess": "2026-10-11T09:16:47Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-10-10T21:10:28Z",
-   "lastSuccess": "2026-10-10T21:10:28Z"
+   "checkedAt": "2026-10-11T09:16:47Z",
+   "lastSuccess": "2026-10-11T09:16:47Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-10-10T21:10:28Z",
-   "lastSuccess": "2026-10-10T21:10:28Z"
+   "checkedAt": "2026-10-11T09:16:47Z",
+   "lastSuccess": "2026-10-11T09:16:47Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 40,
-   "checkedAt": "2026-10-10T21:10:28Z",
-   "lastSuccess": "2026-10-10T21:10:28Z"
+   "checkedAt": "2026-10-11T09:16:47Z",
+   "lastSuccess": "2026-10-11T09:16:47Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 98,
-   "checkedAt": "2026-10-10T21:10:28Z",
-   "lastSuccess": "2026-10-10T21:10:28Z"
+   "count": 99,
+   "checkedAt": "2026-10-11T09:16:47Z",
+   "lastSuccess": "2026-10-11T09:16:47Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 29,
-   "checkedAt": "2026-10-10T21:10:28Z",
-   "lastSuccess": "2026-10-10T21:10:28Z"
+   "checkedAt": "2026-10-11T09:16:47Z",
+   "lastSuccess": "2026-10-11T09:16:47Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-10T21:10:28Z",
-   "lastSuccess": "2026-10-10T21:10:28Z"
+   "checkedAt": "2026-10-11T09:16:47Z",
+   "lastSuccess": "2026-10-11T09:16:47Z"
   }
  },
  "contests": [
-  {
-   "id": "lc-weekly-contest-523",
-   "source": "LeetCode",
-   "cat": "algo",
-   "title": "LeetCode Weekly Contest 523",
-   "host": "LeetCode",
-   "url": "https://leetcode.com/contest/weekly-contest-523",
-   "kind": "대회일",
-   "date": "2026-10-11T02:30:00Z",
-   "start": "2026-10-11T02:30:00Z",
-   "end": "2026-10-11T04:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "1시간 30분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
   {
    "id": "atc-abc479",
    "source": "AtCoder",
@@ -1315,6 +1283,38 @@
    "summary": ""
   },
   {
+   "id": "lc-weekly-contest-524",
+   "source": "LeetCode",
+   "cat": "algo",
+   "title": "LeetCode Weekly Contest 524",
+   "host": "LeetCode",
+   "url": "https://leetcode.com/contest/weekly-contest-524",
+   "kind": "대회일",
+   "date": "2026-10-18T02:30:00Z",
+   "start": "2026-10-18T02:30:00Z",
+   "end": "2026-10-18T04:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "1시간 30분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
+  },
+  {
    "id": "ck-202609160044",
    "source": "콘테스트코리아",
    "cat": "hack",
@@ -2437,6 +2437,35 @@
    ],
    "summary": "This is the BSides Peoria CTF for 2026! It is our inaugural CTF, covering web, pwn, crypto, forensics, reversing, and fullpwn. It is held exclusively on site, at Bradley University, in Peoria, IL. A conference attendee pass is needed, and can be purchased at https://bsidespeoria.com/tickets/. The maximum team size for this competition is 2. The AI policy is…",
    "tag": "CTF"
+  },
+  {
+   "id": "lk-355927",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "2026 AI 플랫폼 구축 경진대회 : AI Platform Build Challenge",
+   "host": "데이콘 주식회사",
+   "url": "https://linkareer.com/activity/355927",
+   "kind": "접수 마감",
+   "date": "2026-10-25T14:59:59Z",
+   "start": null,
+   "end": "2026-10-25T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI"
   },
   {
    "id": "lk-350244",
