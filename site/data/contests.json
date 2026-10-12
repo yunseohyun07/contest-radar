@@ -1,82 +1,50 @@
 {
- "updatedAt": "2026-10-11T21:11:02Z",
+ "updatedAt": "2026-10-12T09:20:47Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-11T21:11:02Z",
-   "lastSuccess": "2026-10-11T21:11:02Z"
+   "checkedAt": "2026-10-12T09:20:47Z",
+   "lastSuccess": "2026-10-12T09:20:47Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-10-11T21:11:02Z",
-   "lastSuccess": "2026-10-11T21:11:02Z"
+   "checkedAt": "2026-10-12T09:20:47Z",
+   "lastSuccess": "2026-10-12T09:20:47Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-10-11T21:11:02Z",
-   "lastSuccess": "2026-10-11T21:11:02Z"
+   "checkedAt": "2026-10-12T09:20:47Z",
+   "lastSuccess": "2026-10-12T09:20:47Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 40,
-   "checkedAt": "2026-10-11T21:11:02Z",
-   "lastSuccess": "2026-10-11T21:11:02Z"
+   "checkedAt": "2026-10-12T09:20:47Z",
+   "lastSuccess": "2026-10-12T09:20:47Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 97,
-   "checkedAt": "2026-10-11T21:11:02Z",
-   "lastSuccess": "2026-10-11T21:11:02Z"
+   "count": 101,
+   "checkedAt": "2026-10-12T09:20:47Z",
+   "lastSuccess": "2026-10-12T09:20:47Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 29,
-   "checkedAt": "2026-10-11T21:11:02Z",
-   "lastSuccess": "2026-10-11T21:11:02Z"
+   "count": 30,
+   "checkedAt": "2026-10-12T09:20:47Z",
+   "lastSuccess": "2026-10-12T09:20:47Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-11T21:11:02Z",
-   "lastSuccess": "2026-10-11T21:11:02Z"
+   "checkedAt": "2026-10-12T09:20:47Z",
+   "lastSuccess": "2026-10-12T09:20:47Z"
   }
  },
  "contests": [
-  {
-   "id": "atc-aalc001",
-   "source": "AtCoder",
-   "cat": "algo",
-   "title": "AAL Contest 001: Let's use segtree!",
-   "host": "AtCoder",
-   "url": "https://atcoder.jp/contests/aalc001",
-   "kind": "대회일",
-   "date": "2026-10-12T04:00:00Z",
-   "start": "2026-10-12T04:00:00Z",
-   "end": "2026-10-12T09:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "5시간"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "레이팅 범위",
-     "value": "Unrated"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
   {
    "id": "lk-349739",
    "source": "링커리어",
@@ -2285,6 +2253,88 @@
    "tag": "CTF"
   },
   {
+   "id": "atc-arc233",
+   "source": "AtCoder",
+   "cat": "algo",
+   "title": "AtCoder Regular Contest++ 233",
+   "host": "AtCoder",
+   "url": "https://atcoder.jp/contests/arc233",
+   "kind": "대회일",
+   "date": "2026-10-25T12:00:00Z",
+   "start": "2026-10-25T12:00:00Z",
+   "end": "2026-10-25T14:30:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "2시간 30분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "레이팅 범위",
+     "value": "1600 - 2999"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
+  },
+  {
+   "id": "ck-202610110007",
+   "source": "콘테스트코리아",
+   "cat": "ai",
+   "title": "2026 AI 플랫폼 구축 경진대회",
+   "host": "서울대학교 앵커사업단(캠퍼스타운 사업)",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610110007",
+   "kind": "접수 마감",
+   "date": "2026-10-25T14:59:59Z",
+   "start": null,
+   "end": "2026-10-25T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI",
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-09-29T15:00:00Z",
+     "end": "2026-10-25T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-11-01T15:00:00Z",
+     "end": "2026-11-27T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-11-26T15:00:00Z",
+     "end": "2026-11-27T14:59:59Z"
+    }
+   ]
+  },
+  {
    "id": "lk-355927",
    "source": "링커리어",
    "cat": "ai",
@@ -3356,6 +3406,35 @@
    "tag": null
   },
   {
+   "id": "lk-356125",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "2026년 제2회 AMT AI 작곡대회 – K-POP 챌린지",
+   "host": "프롬프트뱅크",
+   "url": "https://linkareer.com/activity/356125",
+   "kind": "접수 마감",
+   "date": "2026-10-31T14:59:59Z",
+   "start": null,
+   "end": "2026-10-31T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI"
+  },
+  {
    "id": "lk-349047",
    "source": "링커리어",
    "cat": "contest",
@@ -3619,6 +3698,35 @@
    "date": "2026-10-31T14:59:59Z",
    "start": null,
    "end": "2026-10-31T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-356021",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "2026 슈퍼코더 AI 면접 대회",
+   "host": "주식회사 세컨드팀",
+   "url": "https://linkareer.com/activity/356021",
+   "kind": "접수 마감",
+   "date": "2026-11-01T14:59:59Z",
+   "start": null,
+   "end": "2026-11-01T14:59:59Z",
    "allDay": true,
    "meta": [
     {
@@ -5391,7 +5499,7 @@
      "value": "77.38"
     }
    ],
-   "summary": "BackdoorCTF is the flagship event of InfoSecIITR. Categories will include Pwn, Rev, Web, Crypto, Blockchain, Forensics Discord invite for the competition is https://discord.gg/chHtsSTQ2 Supported by our Sponsors: Sponsors for BackdoorCTF 2026 will be announced soon. Happy Hacking!",
+   "summary": "BackdoorCTF is the flagship event of InfoSecIITR. Categories will include Pwn, Rev, Web, Crypto, Forensics, Misc Discord invite for the competition is https://discord.gg/chHtsSTQ2 Supported by our Sponsors: Sponsors for BackdoorCTF 2026 will be announced soon. Happy Hacking!",
    "tag": "CTF"
   },
   {
