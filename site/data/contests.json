@@ -1,237 +1,50 @@
 {
- "updatedAt": "2026-10-13T09:20:06Z",
+ "updatedAt": "2026-10-13T21:20:51Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 3,
-   "checkedAt": "2026-10-13T09:20:06Z",
-   "lastSuccess": "2026-10-13T09:20:06Z"
+   "checkedAt": "2026-10-13T21:20:51Z",
+   "lastSuccess": "2026-10-13T21:20:51Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-10-13T09:20:06Z",
-   "lastSuccess": "2026-10-13T09:20:06Z"
+   "checkedAt": "2026-10-13T21:20:51Z",
+   "lastSuccess": "2026-10-13T21:20:51Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-10-13T09:20:06Z",
-   "lastSuccess": "2026-10-13T09:20:06Z"
+   "checkedAt": "2026-10-13T21:20:51Z",
+   "lastSuccess": "2026-10-13T21:20:51Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 40,
-   "checkedAt": "2026-10-13T09:20:06Z",
-   "lastSuccess": "2026-10-13T09:20:06Z"
+   "checkedAt": "2026-10-13T21:20:51Z",
+   "lastSuccess": "2026-10-13T21:20:51Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 98,
-   "checkedAt": "2026-10-13T09:20:06Z",
-   "lastSuccess": "2026-10-13T09:20:06Z"
+   "count": 93,
+   "checkedAt": "2026-10-13T21:20:51Z",
+   "lastSuccess": "2026-10-13T21:20:51Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 32,
-   "checkedAt": "2026-10-13T09:20:06Z",
-   "lastSuccess": "2026-10-13T09:20:06Z"
+   "count": 30,
+   "checkedAt": "2026-10-13T21:20:51Z",
+   "lastSuccess": "2026-10-13T21:20:51Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-13T09:20:06Z",
-   "lastSuccess": "2026-10-13T09:20:06Z"
+   "checkedAt": "2026-10-13T21:20:51Z",
+   "lastSuccess": "2026-10-13T21:20:51Z"
   }
  },
  "contests": [
-  {
-   "id": "ck-202609220013",
-   "source": "콘테스트코리아",
-   "cat": "hack",
-   "title": "2026 고용24 국민참여 AI 고용서비스 발굴 온라인 해커톤",
-   "host": "한국고용정보원",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609220013",
-   "kind": "접수 마감",
-   "date": "2026-10-13T14:59:59Z",
-   "start": null,
-   "end": "2026-10-13T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "일반인, 해당자 ▶"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-09-20T15:00:00Z",
-     "end": "2026-10-13T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-10-13T15:00:00Z",
-     "end": "2026-11-27T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-26T15:00:00Z",
-     "end": "2026-11-27T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "ck-202609300003",
-   "source": "콘테스트코리아",
-   "cat": "hack",
-   "title": "2026 우연한식탁 MVP 개발 해커톤",
-   "host": "어치브모먼트",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609300003",
-   "kind": "접수 마감",
-   "date": "2026-10-13T14:59:59Z",
-   "start": null,
-   "end": "2026-10-13T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "대학생, 대학원생, 일반인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-09-29T15:00:00Z",
-     "end": "2026-10-13T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-10-21T15:00:00Z",
-     "end": "2026-10-28T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-09-28T15:00:00Z",
-     "end": "2026-09-29T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-351263",
-   "source": "링커리어",
-   "cat": "hack",
-   "title": "[한국농수산식품유통공사] 2026 AI 농산물 가격예측 온라인 해커톤",
-   "host": "한국농수산식품유통공사",
-   "url": "https://linkareer.com/activity/351263",
-   "kind": "접수 마감",
-   "date": "2026-10-13T14:59:59Z",
-   "start": null,
-   "end": "2026-10-13T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-354688",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "롯데몰 벨리타운 청량리 : AI 뮤직 공모전",
-   "host": "롯데백화점",
-   "url": "https://linkareer.com/activity/354688",
-   "kind": "접수 마감",
-   "date": "2026-10-13T14:59:59Z",
-   "start": null,
-   "end": "2026-10-13T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-354686",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "롯데몰 벨리타운 청량리 : AI 뮤직 공모전",
-   "host": "롯데백화점",
-   "url": "https://linkareer.com/activity/354686",
-   "kind": "접수 마감",
-   "date": "2026-10-13T14:59:59Z",
-   "start": null,
-   "end": "2026-10-13T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "cf-2276",
    "source": "Codeforces",
@@ -690,7 +503,7 @@
      "value": "85.12"
     }
    ],
-   "summary": "Securinets CTF Quals 2026 is an online Jeopardy-style Capture the Flag (CTF) competition organized by Securinets INSAT. The top 10 teams worldwide and the top 10 teams from the MENA region will qualify to compete in the onsite finals in Tunis, Tunisia. Registration opens soon! Join our Discord server: https://discord.gg/X5nSDvjSyc ☁️ Infrastructure sponsore…",
+   "summary": "Securinets CTF Quals 2026 is an online Jeopardy-style Capture the Flag competition organized by Securinets INSAT, Tunisia. Qualifiers: October 17–18, 2026 | Online | 36 hours | Jeopardy Finals: December 12–13, 2026 | Onsite at INSAT, Tunis, Tunisia Qualification: The top 10 international teams and the top 10 teams from the MENA region will qualify for the o…",
    "tag": "CTF"
   },
   {
@@ -770,7 +583,7 @@
    "id": "cf-2261",
    "source": "Codeforces",
    "cat": "algo",
-   "title": "WorldQuant Round 1 (Codeforces Round Div. 1 + Div. 2)",
+   "title": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
    "host": "Codeforces",
    "url": "https://codeforces.com/contests/2261",
    "kind": "대회일",
