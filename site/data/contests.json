@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-10-12T21:11:40Z",
+ "updatedAt": "2026-10-13T09:20:06Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 3,
-   "checkedAt": "2026-10-12T21:11:40Z",
-   "lastSuccess": "2026-10-12T21:11:40Z"
+   "checkedAt": "2026-10-13T09:20:06Z",
+   "lastSuccess": "2026-10-13T09:20:06Z"
   },
   "AtCoder": {
    "ok": true,
-   "count": 5,
-   "checkedAt": "2026-10-12T21:11:40Z",
-   "lastSuccess": "2026-10-12T21:11:40Z"
+   "count": 7,
+   "checkedAt": "2026-10-13T09:20:06Z",
+   "lastSuccess": "2026-10-13T09:20:06Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-10-12T21:11:40Z",
-   "lastSuccess": "2026-10-12T21:11:40Z"
+   "checkedAt": "2026-10-13T09:20:06Z",
+   "lastSuccess": "2026-10-13T09:20:06Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 40,
-   "checkedAt": "2026-10-12T21:11:40Z",
-   "lastSuccess": "2026-10-12T21:11:40Z"
+   "checkedAt": "2026-10-13T09:20:06Z",
+   "lastSuccess": "2026-10-13T09:20:06Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 94,
-   "checkedAt": "2026-10-12T21:11:40Z",
-   "lastSuccess": "2026-10-12T21:11:40Z"
+   "count": 98,
+   "checkedAt": "2026-10-13T09:20:06Z",
+   "lastSuccess": "2026-10-13T09:20:06Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 29,
-   "checkedAt": "2026-10-12T21:11:40Z",
-   "lastSuccess": "2026-10-12T21:11:40Z"
+   "count": 32,
+   "checkedAt": "2026-10-13T09:20:06Z",
+   "lastSuccess": "2026-10-13T09:20:06Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-12T21:11:40Z",
-   "lastSuccess": "2026-10-12T21:11:40Z"
+   "checkedAt": "2026-10-13T09:20:06Z",
+   "lastSuccess": "2026-10-13T09:20:06Z"
   }
  },
  "contests": [
@@ -292,56 +292,6 @@
    ],
    "summary": "",
    "tag": null
-  },
-  {
-   "id": "ck-202609220031",
-   "source": "콘테스트코리아",
-   "cat": "contest",
-   "title": "2026 수영 전국 대학생 로컬 콘텐츠 개발 경진대회",
-   "host": "수영구청",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609220031",
-   "kind": "접수 마감",
-   "date": "2026-10-15T14:59:59Z",
-   "start": null,
-   "end": "2026-10-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "대학생"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-09-21T15:00:00Z",
-     "end": "2026-10-15T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-10-08T15:00:00Z",
-     "end": "2026-11-20T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-19T15:00:00Z",
-     "end": "2026-11-20T14:59:59Z"
-    }
-   ]
   },
   {
    "id": "ck-202609130002",
@@ -1005,35 +955,6 @@
    ]
   },
   {
-   "id": "lk-351309",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "「2026 별별화성 Awards」화성특례시 AI CF 공모전",
-   "host": "화성특례시",
-   "url": "https://linkareer.com/activity/351309",
-   "kind": "접수 마감",
-   "date": "2026-10-18T14:59:59Z",
-   "start": null,
-   "end": "2026-10-18T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
    "id": "lk-346834",
    "source": "링커리어",
    "cat": "contest",
@@ -1148,6 +1069,35 @@
    "title": "SW중심대학사업단 2026년도 제3회 초중고 SW 경진대회",
    "host": "과학기술정보통신부",
    "url": "https://linkareer.com/activity/351358",
+   "kind": "접수 마감",
+   "date": "2026-10-19T14:59:59Z",
+   "start": null,
+   "end": "2026-10-19T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-356516",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "[경상북도/김천대학교] 2026 경상북도 K-U시티 청년 AI영상제",
+   "host": "경상북도청",
+   "url": "https://linkareer.com/activity/356516",
    "kind": "접수 마감",
    "date": "2026-10-19T14:59:59Z",
    "start": null,
@@ -1842,14 +1792,14 @@
     },
     {
      "label": "상금",
-     "value": "원문 확인"
+     "value": "1st - RSTCON Hard Hats & Next Year Tickets 2nd - Conference Shirt & Bottlecap B…"
     },
     {
      "label": "CTFtime 가중치",
      "value": "25"
     }
    ],
-   "summary": "Online/Hybrid RSTCON CTF will available online, but there will be some challenges on available on-site at the conference. RSTCON CTF is an on-site/online competition for RSTCON, which is an annual technical security and hacking conference hosted in Charlotte, NC. RSTCON focuses on cutting-edge research, exploitation, and tradecraft in the logistics, energy,…",
+   "summary": "Online/Hybrid RSTCON CTF will available online, but there will be some challenges only available on-site at the conference. RSTCON CTF is an on-site/online competition for RSTCON, which is an annual technical security and hacking conference hosted in Charlotte, NC. RSTCON focuses on cutting-edge research, exploitation, and tradecraft in the logistics, energ…",
    "tag": "CTF"
   },
   {
@@ -2145,6 +2095,35 @@
    "tag": null
   },
   {
+   "id": "lk-356294",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "2026 초·중·고 AI 디지털콘텐츠 경진대회",
+   "host": "연암공과대학교",
+   "url": "https://linkareer.com/activity/356294",
+   "kind": "접수 마감",
+   "date": "2026-10-25T14:59:59Z",
+   "start": null,
+   "end": "2026-10-25T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI"
+  },
+  {
    "id": "lk-355264",
    "source": "링커리어",
    "cat": "contest",
@@ -2232,6 +2211,56 @@
    "tag": null
   },
   {
+   "id": "ck-202610120052",
+   "source": "콘테스트코리아",
+   "cat": "hack",
+   "title": "나랏돈 50조 찾기 프로젝트 : 나라장터 해커톤",
+   "host": "개혁신당",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610120052",
+   "kind": "접수 마감",
+   "date": "2026-10-25T14:59:59Z",
+   "start": null,
+   "end": "2026-10-25T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-10-11T15:00:00Z",
+     "end": "2026-10-25T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-10-11T15:00:00Z",
+     "end": "2026-10-25T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-11-01T15:00:00Z",
+     "end": "2026-11-02T14:59:59Z"
+    }
+   ]
+  },
+  {
    "id": "cf-2272",
    "source": "Codeforces",
    "cat": "algo",
@@ -2264,12 +2293,12 @@
    "summary": ""
   },
   {
-   "id": "lk-355879",
-   "source": "링커리어",
+   "id": "ck-202610090005",
+   "source": "콘테스트코리아",
    "cat": "hack",
    "title": "2026 동남권 멀티도메인 모빌리티 비즈니스 해커톤",
-   "host": "마이스플랜즈",
-   "url": "https://linkareer.com/activity/355879",
+   "host": "산업통상부, 부산광역시, 울산광역시, 경상남도",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610090005",
    "kind": "접수 마감",
    "date": "2026-10-26T14:59:59Z",
    "start": null,
@@ -2277,11 +2306,15 @@
    "allDay": true,
    "meta": [
     {
-     "label": "상금",
+     "label": "참가 대상",
+     "value": "대학생, 대학원생, 일반인"
+    },
+    {
+     "label": "참가비",
      "value": "원문 확인"
     },
     {
-     "label": "참가 자격",
+     "label": "상금",
      "value": "원문 확인"
     },
     {
@@ -2290,7 +2323,24 @@
     }
    ],
    "summary": "",
-   "tag": null
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-10-08T15:00:00Z",
+     "end": "2026-10-26T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-10-26T15:00:00Z",
+     "end": "2026-10-29T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-10-29T15:00:00Z",
+     "end": "2026-10-30T14:59:59Z"
+    }
+   ]
   },
   {
    "id": "ctf-3443",
@@ -2323,7 +2373,7 @@
     },
     {
      "label": "상금",
-     "value": "With a prize pool of over $900 USD in previous iterations, as well as over $500…"
+     "value": "This year’s prize pool stands at $900 USD, along with plenty of goodies for the…"
     }
    ],
    "summary": "The technology club of DPS RK Puram, Exun Clan is returning with its eagerly anticipated annual International Capture the Flag (CTF) x Cryptic Hunt event. Sudocrypt v16.0 is an event where individual cryptic enthusiasts come together to take on the ultimate challenge, showcasing their skills and passion for cyber and cryptic challenges. It's an event that p…",
@@ -2980,6 +3030,38 @@
    ],
    "summary": "Russian CTF Cup X, Qualifier. https://ctfcup.ru/registration 12:00 UTC+3 (Moscow) 31 October - 12:00 UTC+3 (Moscow) 01 November. Online. The top 10 teams from each category (academic, mixed, school, and secondary vocational) will be invited to the final in December.",
    "tag": "CTF"
+  },
+  {
+   "id": "atc-abc482",
+   "source": "AtCoder",
+   "cat": "algo",
+   "title": "AtCoder Beginner Contest 482",
+   "host": "AtCoder",
+   "url": "https://atcoder.jp/contests/abc482",
+   "kind": "대회일",
+   "date": "2026-10-31T12:00:00Z",
+   "start": "2026-10-31T12:00:00Z",
+   "end": "2026-10-31T13:40:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "1시간 40분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "레이팅 범위",
+     "value": "- 1999"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
   },
   {
    "id": "ck-202608110037",
@@ -3749,6 +3831,51 @@
    ]
   },
   {
+   "id": "ck-202610120068",
+   "source": "콘테스트코리아",
+   "cat": "contest",
+   "title": "2026 충남 로컬메이드 제품개발 공모전",
+   "host": "선문대학교 앵커사업단, 식품공학·영양학부",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610120068",
+   "kind": "접수 마감",
+   "date": "2026-11-04T14:59:59Z",
+   "start": null,
+   "end": "2026-11-04T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "고등학생, 대학생"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-10-07T15:00:00Z",
+     "end": "2026-11-04T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-11-05T15:00:00Z",
+     "end": "2026-11-06T14:59:59Z"
+    }
+   ]
+  },
+  {
    "id": "ck-202609150046",
    "source": "콘테스트코리아",
    "cat": "hack",
@@ -4034,6 +4161,38 @@
    ],
    "summary": "The BlackAlps CTF will be held at the end of the BlackAlps conference in Yverdon-les-Bains in Switzerland. It's a CTF for all level including from beginner up to advanced team. The CTF will last 5 hours and be on site for about 300 people. There is no specific categories. Registration is mandatory. Welcome at 18:45. Start at 19:00. End at 23:30. Awards cere…",
    "tag": "CTF"
+  },
+  {
+   "id": "atc-abc483",
+   "source": "AtCoder",
+   "cat": "algo",
+   "title": "AtCoder Beginner Contest 483",
+   "host": "AtCoder",
+   "url": "https://atcoder.jp/contests/abc483",
+   "kind": "대회일",
+   "date": "2026-11-07T12:00:00Z",
+   "start": "2026-11-07T12:00:00Z",
+   "end": "2026-11-07T13:40:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "1시간 40분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "레이팅 범위",
+     "value": "- 1999"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
   },
   {
    "id": "ctf-3455",
@@ -4796,6 +4955,56 @@
    ],
    "summary": "EyesOpenCTF 2026 is a FREE CTF competition organized as part of the 7th edition of EOCON. This year, the competition goes far beyond a traditional CTF. You are not simply joining to solve isolated challenges. You are entering The Convergence, a live 48-hour cyber adventure in which reality itself is beginning to fracture. Across more than 40 challenges and…",
    "tag": "CTF"
+  },
+  {
+   "id": "ck-202610120053",
+   "source": "콘테스트코리아",
+   "cat": "contest",
+   "title": "2026 대구광역시 기후·환경·탄소중립 공공데이터 AI 활용대회",
+   "host": "대구광역시 탄소중립지원센터",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610120053",
+   "kind": "접수 마감",
+   "date": "2026-11-20T14:59:59Z",
+   "start": null,
+   "end": "2026-11-20T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-10-11T15:00:00Z",
+     "end": "2026-11-20T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-11-19T15:00:00Z",
+     "end": "2026-11-27T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-12-03T15:00:00Z",
+     "end": "2026-12-04T14:59:59Z"
+    }
+   ]
   },
   {
    "id": "ctf-3337",

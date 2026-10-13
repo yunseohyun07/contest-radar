@@ -8,14 +8,17 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:lk-355879@contest-radar
-DTSTAMP:20261012T211140Z
+UID:ck-202610090005@contest-radar
+DTSTAMP:20261013T092006Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:[접수 마감] 2026 동남권 멀티도메인 모빌리티 비
  즈니스 해커톤
-URL:https://linkareer.com/activity/355879
-DESCRIPTION:마이스플랜즈\nhttps://linkareer.com/activity/355879
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202610090005
+DESCRIPTION:산업통상부\, 부산광역시\, 울산광역시\, 경상
+ 남도\nhttps://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030
+ 310001&str_no=202610090005
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D
