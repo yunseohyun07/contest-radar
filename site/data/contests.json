@@ -1,111 +1,50 @@
 {
- "updatedAt": "2026-10-14T09:31:00Z",
+ "updatedAt": "2026-10-14T21:23:16Z",
  "sources": {
   "Codeforces": {
    "ok": true,
-   "count": 4,
-   "checkedAt": "2026-10-14T09:31:00Z",
-   "lastSuccess": "2026-10-14T09:31:00Z"
+   "count": 3,
+   "checkedAt": "2026-10-14T21:23:16Z",
+   "lastSuccess": "2026-10-14T21:23:16Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-10-14T09:31:00Z",
-   "lastSuccess": "2026-10-14T09:31:00Z"
+   "checkedAt": "2026-10-14T21:23:16Z",
+   "lastSuccess": "2026-10-14T21:23:16Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-10-14T09:31:00Z",
-   "lastSuccess": "2026-10-14T09:31:00Z"
+   "checkedAt": "2026-10-14T21:23:16Z",
+   "lastSuccess": "2026-10-14T21:23:16Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 40,
-   "checkedAt": "2026-10-14T09:31:00Z",
-   "lastSuccess": "2026-10-14T09:31:00Z"
+   "checkedAt": "2026-10-14T21:23:16Z",
+   "lastSuccess": "2026-10-14T21:23:16Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 97,
-   "checkedAt": "2026-10-14T09:31:00Z",
-   "lastSuccess": "2026-10-14T09:31:00Z"
+   "count": 96,
+   "checkedAt": "2026-10-14T21:23:16Z",
+   "lastSuccess": "2026-10-14T21:23:16Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 33,
-   "checkedAt": "2026-10-14T09:31:00Z",
-   "lastSuccess": "2026-10-14T09:31:00Z"
+   "checkedAt": "2026-10-14T21:23:16Z",
+   "lastSuccess": "2026-10-14T21:23:16Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-14T09:31:00Z",
-   "lastSuccess": "2026-10-14T09:31:00Z"
+   "checkedAt": "2026-10-14T21:23:16Z",
+   "lastSuccess": "2026-10-14T21:23:16Z"
   }
  },
  "contests": [
-  {
-   "id": "cf-2276",
-   "source": "Codeforces",
-   "cat": "algo",
-   "title": "Educational Codeforces Round 195 (Rated for Div. 2)",
-   "host": "Codeforces",
-   "url": "https://codeforces.com/contests/2276",
-   "kind": "대회일",
-   "date": "2026-10-14T14:35:00Z",
-   "start": "2026-10-14T14:35:00Z",
-   "end": "2026-10-14T16:35:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "2시간"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나 (Div. 2)"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "lk-352976",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "[네이버플러스 스토어] 넾다세일 AI 광고제",
-   "host": "네이버플러스 스토어",
-   "url": "https://linkareer.com/activity/352976",
-   "kind": "접수 마감",
-   "date": "2026-10-14T14:59:59Z",
-   "start": null,
-   "end": "2026-10-14T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "ck-202609130002",
    "source": "콘테스트코리아",
