@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-10-13T21:20:51Z",
+ "updatedAt": "2026-10-14T09:31:00Z",
  "sources": {
   "Codeforces": {
    "ok": true,
-   "count": 3,
-   "checkedAt": "2026-10-13T21:20:51Z",
-   "lastSuccess": "2026-10-13T21:20:51Z"
+   "count": 4,
+   "checkedAt": "2026-10-14T09:31:00Z",
+   "lastSuccess": "2026-10-14T09:31:00Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-10-13T21:20:51Z",
-   "lastSuccess": "2026-10-13T21:20:51Z"
+   "checkedAt": "2026-10-14T09:31:00Z",
+   "lastSuccess": "2026-10-14T09:31:00Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-10-13T21:20:51Z",
-   "lastSuccess": "2026-10-13T21:20:51Z"
+   "checkedAt": "2026-10-14T09:31:00Z",
+   "lastSuccess": "2026-10-14T09:31:00Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 40,
-   "checkedAt": "2026-10-13T21:20:51Z",
-   "lastSuccess": "2026-10-13T21:20:51Z"
+   "checkedAt": "2026-10-14T09:31:00Z",
+   "lastSuccess": "2026-10-14T09:31:00Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 93,
-   "checkedAt": "2026-10-13T21:20:51Z",
-   "lastSuccess": "2026-10-13T21:20:51Z"
+   "count": 97,
+   "checkedAt": "2026-10-14T09:31:00Z",
+   "lastSuccess": "2026-10-14T09:31:00Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 30,
-   "checkedAt": "2026-10-13T21:20:51Z",
-   "lastSuccess": "2026-10-13T21:20:51Z"
+   "count": 33,
+   "checkedAt": "2026-10-14T09:31:00Z",
+   "lastSuccess": "2026-10-14T09:31:00Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-13T21:20:51Z",
-   "lastSuccess": "2026-10-13T21:20:51Z"
+   "checkedAt": "2026-10-14T09:31:00Z",
+   "lastSuccess": "2026-10-14T09:31:00Z"
   }
  },
  "contests": [
@@ -1083,6 +1083,35 @@
    "tag": "CTF"
   },
   {
+   "id": "lk-356483",
+   "source": "링커리어",
+   "cat": "hack",
+   "title": "청년취업사관학교 해커톤",
+   "host": "청년취업사관학교 해커톤",
+   "url": "https://linkareer.com/activity/356483",
+   "kind": "접수 마감",
+   "date": "2026-10-20T14:59:59Z",
+   "start": null,
+   "end": "2026-10-20T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "lk-352999",
    "source": "링커리어",
    "cat": "contest",
@@ -1731,6 +1760,38 @@
    "tag": "CTF"
   },
   {
+   "id": "cf-2277",
+   "source": "Codeforces",
+   "cat": "algo",
+   "title": "Codeforces Round (Div. 2)",
+   "host": "Codeforces",
+   "url": "https://codeforces.com/contests/2277",
+   "kind": "대회일",
+   "date": "2026-10-24T11:05:00Z",
+   "start": "2026-10-24T11:05:00Z",
+   "end": "2026-10-24T13:05:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "2시간"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나 (Div. 2)"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
+  },
+  {
    "id": "ctf-3473",
    "source": "CTFtime",
    "cat": "ai",
@@ -1995,12 +2056,12 @@
    "tag": null
   },
   {
-   "id": "lk-355047",
+   "id": "lk-351309",
    "source": "링커리어",
-   "cat": "hack",
-   "title": "『2026 SVC Seoul AI 해커톤』 | 하나투어 관광 AI 아이디어 도전",
-   "host": "앤에이솔루션(주)",
-   "url": "https://linkareer.com/activity/355047",
+   "cat": "contest",
+   "title": "「2026 별별화성 Awards」화성특례시 AI CF 공모전",
+   "host": "화성특례시",
+   "url": "https://linkareer.com/activity/351309",
    "kind": "접수 마감",
    "date": "2026-10-25T14:59:59Z",
    "start": null,
@@ -2022,6 +2083,56 @@
    ],
    "summary": "",
    "tag": null
+  },
+  {
+   "id": "ck-202610130055",
+   "source": "콘테스트코리아",
+   "cat": "hack",
+   "title": "『2026 SVC Seoul AI 해커톤』 | 하나투어 관광 AI 아이디어 도전",
+   "host": "창업진흥원, 한국관광공사, 하나투어, SVC Seoul",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610130055",
+   "kind": "접수 마감",
+   "date": "2026-10-25T14:59:59Z",
+   "start": null,
+   "end": "2026-10-25T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "대학생, 대학원생"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-10-05T15:00:00Z",
+     "end": "2026-10-25T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-10-25T15:00:00Z",
+     "end": "2026-11-06T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-11-05T15:00:00Z",
+     "end": "2026-11-06T14:59:59Z"
+    }
+   ]
   },
   {
    "id": "ck-202610120052",
@@ -2460,6 +2571,56 @@
    "tag": "AI"
   },
   {
+   "id": "ck-202609220031",
+   "source": "콘테스트코리아",
+   "cat": "contest",
+   "title": "2026 수영 전국 대학생 로컬 콘텐츠 개발 경진대회",
+   "host": "수영구청",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609220031",
+   "kind": "접수 마감",
+   "date": "2026-10-30T14:59:59Z",
+   "start": null,
+   "end": "2026-10-30T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "대학생"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-09-21T15:00:00Z",
+     "end": "2026-10-30T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-10-29T15:00:00Z",
+     "end": "2026-11-20T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-11-19T15:00:00Z",
+     "end": "2026-11-20T14:59:59Z"
+    }
+   ]
+  },
+  {
    "id": "lk-354265",
    "source": "링커리어",
    "cat": "contest",
@@ -2653,6 +2814,51 @@
    ],
    "summary": "",
    "tag": null
+  },
+  {
+   "id": "ck-202610130052",
+   "source": "콘테스트코리아",
+   "cat": "hack",
+   "title": "Hello World AI 해커톤",
+   "host": "HACK:ON(해커온)",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610130052",
+   "kind": "접수 마감",
+   "date": "2026-10-30T14:59:59Z",
+   "start": null,
+   "end": "2026-10-30T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-10-12T15:00:00Z",
+     "end": "2026-10-30T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-10-30T15:00:00Z",
+     "end": "2026-10-31T14:59:59Z"
+    }
+   ]
   },
   {
    "id": "lk-353269",
@@ -2875,6 +3081,35 @@
     }
    ],
    "summary": ""
+  },
+  {
+   "id": "lk-356726",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "2026 국가유산형 드론콘텐츠 디자인 공모전",
+   "host": "코코드론",
+   "url": "https://linkareer.com/activity/356726",
+   "kind": "접수 마감",
+   "date": "2026-10-31T14:59:59Z",
+   "start": null,
+   "end": "2026-10-31T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "ck-202608110037",
