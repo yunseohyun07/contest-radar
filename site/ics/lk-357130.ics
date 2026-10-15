@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:[참가 모집] 화이트햇 2026 국방 사이버보안 콘
+ 테스트 개최! (총상금 4\,500만 원)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-357130@contest-radar
+DTSTAMP:20261015T093108Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:[접수 마감] [참가 모집] 화이트햇 2026 국방 사이
+ 버보안 콘테스트 개최! (총상금 4\,500만 원)
+URL:https://linkareer.com/activity/357130
+DESCRIPTION:(주)맥앤윕\nhttps://linkareer.com/activity/357130
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: [참가 모집] 화이트햇 2026 국방 사이버
+ 보안 콘테스트 개최! (총상금 4\,500만 원)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: [참가 모집] 화이트햇 2026 국방 사이
+ 버보안 콘테스트 개최! (총상금 4\,500만 원)
+END:VALARM
+END:VEVENT
+END:VCALENDAR

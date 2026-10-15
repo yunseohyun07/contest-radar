@@ -1,50 +1,86 @@
 {
- "updatedAt": "2026-10-14T21:23:16Z",
+ "updatedAt": "2026-10-15T09:31:08Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 3,
-   "checkedAt": "2026-10-14T21:23:16Z",
-   "lastSuccess": "2026-10-14T21:23:16Z"
+   "checkedAt": "2026-10-15T09:31:08Z",
+   "lastSuccess": "2026-10-15T09:31:08Z"
   },
   "AtCoder": {
    "ok": true,
-   "count": 7,
-   "checkedAt": "2026-10-14T21:23:16Z",
-   "lastSuccess": "2026-10-14T21:23:16Z"
+   "count": 9,
+   "checkedAt": "2026-10-15T09:31:08Z",
+   "lastSuccess": "2026-10-15T09:31:08Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-10-14T21:23:16Z",
-   "lastSuccess": "2026-10-14T21:23:16Z"
+   "checkedAt": "2026-10-15T09:31:08Z",
+   "lastSuccess": "2026-10-15T09:31:08Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 40,
-   "checkedAt": "2026-10-14T21:23:16Z",
-   "lastSuccess": "2026-10-14T21:23:16Z"
+   "checkedAt": "2026-10-15T09:31:08Z",
+   "lastSuccess": "2026-10-15T09:31:08Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 96,
-   "checkedAt": "2026-10-14T21:23:16Z",
-   "lastSuccess": "2026-10-14T21:23:16Z"
+   "count": 99,
+   "checkedAt": "2026-10-15T09:31:08Z",
+   "lastSuccess": "2026-10-15T09:31:08Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 33,
-   "checkedAt": "2026-10-14T21:23:16Z",
-   "lastSuccess": "2026-10-14T21:23:16Z"
+   "count": 34,
+   "checkedAt": "2026-10-15T09:31:08Z",
+   "lastSuccess": "2026-10-15T09:31:08Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-14T21:23:16Z",
-   "lastSuccess": "2026-10-14T21:23:16Z"
+   "checkedAt": "2026-10-15T09:31:08Z",
+   "lastSuccess": "2026-10-15T09:31:08Z"
   }
  },
  "contests": [
+  {
+   "id": "atc-ahc_genai_test_2026",
+   "source": "AtCoder",
+   "cat": "algo",
+   "title": "AHC GenAI Rules Trial Contest 2026",
+   "host": "AtCoder",
+   "url": "https://atcoder.jp/contests/ahc_genai_test_2026",
+   "kind": "대회일",
+   "date": "2026-10-15T10:00:00Z",
+   "start": "2026-10-15T10:00:00Z",
+   "end": "2026-10-18T10:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "3일"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "레이팅 범위",
+     "value": "Unrated"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    },
+    {
+     "label": "종류",
+     "value": "휴리스틱(최적화)"
+    }
+   ],
+   "summary": ""
+  },
   {
    "id": "ck-202609130002",
    "source": "콘테스트코리아",
@@ -1022,6 +1058,51 @@
    "tag": "CTF"
   },
   {
+   "id": "ck-202610130069",
+   "source": "콘테스트코리아",
+   "cat": "hack",
+   "title": "2026 청년취업사관학교 해커톤",
+   "host": "청년취업사관학교 해커톤",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610130069",
+   "kind": "접수 마감",
+   "date": "2026-10-20T14:59:59Z",
+   "start": null,
+   "end": "2026-10-20T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-10-06T15:00:00Z",
+     "end": "2026-10-20T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-11-08T15:00:00Z",
+     "end": "2026-11-09T14:59:59Z"
+    }
+   ]
+  },
+  {
    "id": "lk-356483",
    "source": "링커리어",
    "cat": "hack",
@@ -1722,6 +1803,38 @@
     {
      "label": "참가 자격",
      "value": "누구나 (Div. 2)"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
+  },
+  {
+   "id": "atc-abc481",
+   "source": "AtCoder",
+   "cat": "algo",
+   "title": "SMBC Programming Contest #2 (AtCoder Beginner Contest 481）",
+   "host": "AtCoder",
+   "url": "https://atcoder.jp/contests/abc481",
+   "kind": "대회일",
+   "date": "2026-10-24T12:00:00Z",
+   "start": "2026-10-24T12:00:00Z",
+   "end": "2026-10-24T13:40:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "1시간 40분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "레이팅 범위",
+     "value": "- 1999"
     },
     {
      "label": "팀 구성",
@@ -3101,56 +3214,6 @@
    ]
   },
   {
-   "id": "ck-202609010094",
-   "source": "콘테스트코리아",
-   "cat": "contest",
-   "title": "2026 제주 관광 데이터 활용사례 공모전",
-   "host": "제주특별자치도",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609010094",
-   "kind": "접수 마감",
-   "date": "2026-10-31T14:59:59Z",
-   "start": null,
-   "end": "2026-10-31T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-08-31T15:00:00Z",
-     "end": "2026-10-31T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-10-31T15:00:00Z",
-     "end": "2026-11-21T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-29T15:00:00Z",
-     "end": "2026-11-30T14:59:59Z"
-    }
-   ]
-  },
-  {
    "id": "ck-202610070008",
    "source": "콘테스트코리아",
    "cat": "contest",
@@ -3410,6 +3473,35 @@
    "title": "Meta와 함께하는 AI 페스티벌 – AI로 그려낸 가족 이야기",
    "host": "디지털리터러시협회",
    "url": "https://linkareer.com/activity/344250",
+   "kind": "접수 마감",
+   "date": "2026-10-31T14:59:59Z",
+   "start": null,
+   "end": "2026-10-31T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-357184",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "[새만금개발청] 2027년도 새만금 정책연구과제 아이디어 공모",
+   "host": "새만금개발청",
+   "url": "https://linkareer.com/activity/357184",
    "kind": "접수 마감",
    "date": "2026-10-31T14:59:59Z",
    "start": null,
@@ -3814,6 +3906,85 @@
      "label": "심사",
      "start": "2026-09-29T15:00:00Z",
      "end": "2026-11-02T14:59:59Z"
+    }
+   ]
+  },
+  {
+   "id": "lk-357130",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "[참가 모집] 화이트햇 2026 국방 사이버보안 콘테스트 개최! (총상금 4,500만 원)",
+   "host": "(주)맥앤윕",
+   "url": "https://linkareer.com/activity/357130",
+   "kind": "접수 마감",
+   "date": "2026-11-02T14:59:59Z",
+   "start": null,
+   "end": "2026-11-02T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "보안"
+  },
+  {
+   "id": "ck-202610150008",
+   "source": "콘테스트코리아",
+   "cat": "ai",
+   "title": "화이트햇 2026 국방 사이버보안 콘테스트",
+   "host": "국방부",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610150008",
+   "kind": "접수 마감",
+   "date": "2026-11-02T14:59:59Z",
+   "start": null,
+   "end": "2026-11-02T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "중학생, 고등학생, 대학생, 해당자 ▶"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "보안",
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-10-01T15:00:00Z",
+     "end": "2026-11-02T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-10-01T15:00:00Z",
+     "end": "2026-11-02T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-11-02T15:00:00Z",
+     "end": "2026-11-03T14:59:59Z"
     }
    ]
   },
@@ -4418,6 +4589,35 @@
    "title": "2026 제 2회 퓨리얼 AI 콘테스트",
    "host": "피코그램",
    "url": "https://linkareer.com/activity/354946",
+   "kind": "접수 마감",
+   "date": "2026-11-09T14:59:59Z",
+   "start": null,
+   "end": "2026-11-09T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-357087",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "2026년 국립낙동강생물자원관 제3회 생물 체험 교구 개발 공모전",
+   "host": "국립낙동강생물자원관",
+   "url": "https://linkareer.com/activity/357087",
    "kind": "접수 마감",
    "date": "2026-11-09T14:59:59Z",
    "start": null,
