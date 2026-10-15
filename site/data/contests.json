@@ -1,194 +1,50 @@
 {
- "updatedAt": "2026-10-15T09:31:08Z",
+ "updatedAt": "2026-10-15T21:25:05Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 3,
-   "checkedAt": "2026-10-15T09:31:08Z",
-   "lastSuccess": "2026-10-15T09:31:08Z"
+   "checkedAt": "2026-10-15T21:25:05Z",
+   "lastSuccess": "2026-10-15T21:25:05Z"
   },
   "AtCoder": {
    "ok": true,
-   "count": 9,
-   "checkedAt": "2026-10-15T09:31:08Z",
-   "lastSuccess": "2026-10-15T09:31:08Z"
+   "count": 8,
+   "checkedAt": "2026-10-15T21:25:05Z",
+   "lastSuccess": "2026-10-15T21:25:05Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-10-15T09:31:08Z",
-   "lastSuccess": "2026-10-15T09:31:08Z"
+   "checkedAt": "2026-10-15T21:25:05Z",
+   "lastSuccess": "2026-10-15T21:25:05Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 40,
-   "checkedAt": "2026-10-15T09:31:08Z",
-   "lastSuccess": "2026-10-15T09:31:08Z"
+   "checkedAt": "2026-10-15T21:25:05Z",
+   "lastSuccess": "2026-10-15T21:25:05Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 99,
-   "checkedAt": "2026-10-15T09:31:08Z",
-   "lastSuccess": "2026-10-15T09:31:08Z"
+   "count": 95,
+   "checkedAt": "2026-10-15T21:25:05Z",
+   "lastSuccess": "2026-10-15T21:25:05Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 34,
-   "checkedAt": "2026-10-15T09:31:08Z",
-   "lastSuccess": "2026-10-15T09:31:08Z"
+   "count": 33,
+   "checkedAt": "2026-10-15T21:25:05Z",
+   "lastSuccess": "2026-10-15T21:25:05Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-15T09:31:08Z",
-   "lastSuccess": "2026-10-15T09:31:08Z"
+   "checkedAt": "2026-10-15T21:25:05Z",
+   "lastSuccess": "2026-10-15T21:25:05Z"
   }
  },
  "contests": [
-  {
-   "id": "atc-ahc_genai_test_2026",
-   "source": "AtCoder",
-   "cat": "algo",
-   "title": "AHC GenAI Rules Trial Contest 2026",
-   "host": "AtCoder",
-   "url": "https://atcoder.jp/contests/ahc_genai_test_2026",
-   "kind": "대회일",
-   "date": "2026-10-15T10:00:00Z",
-   "start": "2026-10-15T10:00:00Z",
-   "end": "2026-10-18T10:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "3일"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "레이팅 범위",
-     "value": "Unrated"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    },
-    {
-     "label": "종류",
-     "value": "휴리스틱(최적화)"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "ck-202609130002",
-   "source": "콘테스트코리아",
-   "cat": "ai",
-   "title": "KoMaP AI 경진대회",
-   "host": "산업통상부,한국산업기술진흥원",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609130002",
-   "kind": "접수 마감",
-   "date": "2026-10-15T14:59:59Z",
-   "start": null,
-   "end": "2026-10-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": "AI",
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-09-02T15:00:00Z",
-     "end": "2026-10-15T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-10-15T15:00:00Z",
-     "end": "2026-10-21T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-10-21T15:00:00Z",
-     "end": "2026-10-22T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-342268",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "제1회 BIFAN Ⅹ 더만타스토리 AI 숏폼 드라마 대본 공모전",
-   "host": "사단법인 부천국제판타스틱영화제 조직위원회",
-   "url": "https://linkareer.com/activity/342268",
-   "kind": "접수 마감",
-   "date": "2026-10-15T14:59:59Z",
-   "start": null,
-   "end": "2026-10-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-353118",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "충청북도 과학여행 이야기 AI 이미지‧영상 공모전",
-   "host": "충북과학문화거점센터",
-   "url": "https://linkareer.com/activity/353118",
-   "kind": "접수 마감",
-   "date": "2026-10-15T14:59:59Z",
-   "start": null,
-   "end": "2026-10-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "annual-icpc-seoul-0",
    "source": "연례 대회",
