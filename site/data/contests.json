@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-10-15T21:25:05Z",
+ "updatedAt": "2026-10-16T09:29:52Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 3,
-   "checkedAt": "2026-10-15T21:25:05Z",
-   "lastSuccess": "2026-10-15T21:25:05Z"
+   "checkedAt": "2026-10-16T09:29:52Z",
+   "lastSuccess": "2026-10-16T09:29:52Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 8,
-   "checkedAt": "2026-10-15T21:25:05Z",
-   "lastSuccess": "2026-10-15T21:25:05Z"
+   "checkedAt": "2026-10-16T09:29:52Z",
+   "lastSuccess": "2026-10-16T09:29:52Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-10-15T21:25:05Z",
-   "lastSuccess": "2026-10-15T21:25:05Z"
+   "checkedAt": "2026-10-16T09:29:52Z",
+   "lastSuccess": "2026-10-16T09:29:52Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 40,
-   "checkedAt": "2026-10-15T21:25:05Z",
-   "lastSuccess": "2026-10-15T21:25:05Z"
+   "checkedAt": "2026-10-16T09:29:52Z",
+   "lastSuccess": "2026-10-16T09:29:52Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 95,
-   "checkedAt": "2026-10-15T21:25:05Z",
-   "lastSuccess": "2026-10-15T21:25:05Z"
+   "count": 98,
+   "checkedAt": "2026-10-16T09:29:52Z",
+   "lastSuccess": "2026-10-16T09:29:52Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 33,
-   "checkedAt": "2026-10-15T21:25:05Z",
-   "lastSuccess": "2026-10-15T21:25:05Z"
+   "checkedAt": "2026-10-16T09:29:52Z",
+   "lastSuccess": "2026-10-16T09:29:52Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-15T21:25:05Z",
-   "lastSuccess": "2026-10-15T21:25:05Z"
+   "checkedAt": "2026-10-16T09:29:52Z",
+   "lastSuccess": "2026-10-16T09:29:52Z"
   }
  },
  "contests": [
@@ -628,12 +628,12 @@
    "tag": null
   },
   {
-   "id": "ck-202608310001",
-   "source": "콘테스트코리아",
+   "id": "lk-349058",
+   "source": "링커리어",
    "cat": "contest",
    "title": "제2회 ZYXCAD AX 경진대회",
-   "host": "(주)직스테크놀로지",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202608310001",
+   "host": "직스테크놀로지",
+   "url": "https://linkareer.com/activity/349058",
    "kind": "접수 마감",
    "date": "2026-10-18T14:59:59Z",
    "start": null,
@@ -641,15 +641,11 @@
    "allDay": true,
    "meta": [
     {
-     "label": "참가 대상",
-     "value": "고등학생, 대학생"
-    },
-    {
-     "label": "참가비",
+     "label": "상금",
      "value": "원문 확인"
     },
     {
-     "label": "상금",
+     "label": "참가 자격",
      "value": "원문 확인"
     },
     {
@@ -658,24 +654,7 @@
     }
    ],
    "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-08-30T15:00:00Z",
-     "end": "2026-10-18T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-10-18T15:00:00Z",
-     "end": "2026-11-16T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-26T15:00:00Z",
-     "end": "2026-11-27T14:59:59Z"
-    }
-   ]
+   "tag": null
   },
   {
    "id": "lk-351991",
@@ -969,6 +948,35 @@
    "date": "2026-10-20T14:59:59Z",
    "start": null,
    "end": "2026-10-20T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-357528",
+   "source": "링커리어",
+   "cat": "hack",
+   "title": "Bloom x Anthropic x Seoul AI Hub | Ambition for Korea 해커톤",
+   "host": "클라이원트",
+   "url": "https://linkareer.com/activity/357528",
+   "kind": "접수 마감",
+   "date": "2026-10-21T14:59:59Z",
+   "start": null,
+   "end": "2026-10-21T14:59:59Z",
    "allDay": true,
    "meta": [
     {
@@ -2585,6 +2593,35 @@
    ],
    "summary": "",
    "tag": null
+  },
+  {
+   "id": "lk-357274",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "2026 제8회 TS 보안 허점을 찾아라!",
+   "host": "한국교통안전공단",
+   "url": "https://linkareer.com/activity/357274",
+   "kind": "접수 마감",
+   "date": "2026-10-30T14:59:59Z",
+   "start": null,
+   "end": "2026-10-30T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "보안"
   },
   {
    "id": "ck-202609100022",
@@ -4307,6 +4344,35 @@
    "tag": null
   },
   {
+   "id": "lk-357358",
+   "source": "링커리어",
+   "cat": "hack",
+   "title": "2026 서울 AI 디지털 배움터 청년 해커톤",
+   "host": "주식회사 구름",
+   "url": "https://linkareer.com/activity/357358",
+   "kind": "접수 마감",
+   "date": "2026-11-08T14:59:59Z",
+   "start": null,
+   "end": "2026-11-08T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "lk-351460",
    "source": "링커리어",
    "cat": "contest",
@@ -4435,6 +4501,56 @@
      "label": "심사",
      "start": "2026-11-08T15:00:00Z",
      "end": "2026-12-31T14:59:59Z"
+    }
+   ]
+  },
+  {
+   "id": "ck-202608310001",
+   "source": "콘테스트코리아",
+   "cat": "contest",
+   "title": "제2회 ZYXCAD AX 경진대회",
+   "host": "(주)직스테크놀로지",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202608310001",
+   "kind": "접수 마감",
+   "date": "2026-11-08T14:59:59Z",
+   "start": null,
+   "end": "2026-11-08T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "고등학생, 대학생"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-08-30T15:00:00Z",
+     "end": "2026-11-08T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-11-08T15:00:00Z",
+     "end": "2026-11-16T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-11-26T15:00:00Z",
+     "end": "2026-11-27T14:59:59Z"
     }
    ]
   },
