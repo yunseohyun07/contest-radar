@@ -1,232 +1,50 @@
 {
- "updatedAt": "2026-10-18T09:23:45Z",
+ "updatedAt": "2026-10-18T21:17:42Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 3,
-   "checkedAt": "2026-10-18T09:23:45Z",
-   "lastSuccess": "2026-10-18T09:23:45Z"
+   "checkedAt": "2026-10-18T21:17:42Z",
+   "lastSuccess": "2026-10-18T21:17:42Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-10-18T09:23:45Z",
-   "lastSuccess": "2026-10-18T09:23:45Z"
+   "checkedAt": "2026-10-18T21:17:42Z",
+   "lastSuccess": "2026-10-18T21:17:42Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-18T09:23:45Z",
-   "lastSuccess": "2026-10-18T09:23:45Z"
+   "checkedAt": "2026-10-18T21:17:42Z",
+   "lastSuccess": "2026-10-18T21:17:42Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 41,
-   "checkedAt": "2026-10-18T09:23:45Z",
-   "lastSuccess": "2026-10-18T09:23:45Z"
+   "checkedAt": "2026-10-18T21:17:42Z",
+   "lastSuccess": "2026-10-18T21:17:42Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 94,
-   "checkedAt": "2026-10-18T09:23:45Z",
-   "lastSuccess": "2026-10-18T09:23:45Z"
+   "count": 90,
+   "checkedAt": "2026-10-18T21:17:42Z",
+   "lastSuccess": "2026-10-18T21:17:42Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 32,
-   "checkedAt": "2026-10-18T09:23:45Z",
-   "lastSuccess": "2026-10-18T09:23:45Z"
+   "count": 30,
+   "checkedAt": "2026-10-18T21:17:42Z",
+   "lastSuccess": "2026-10-18T21:17:42Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-18T09:23:45Z",
-   "lastSuccess": "2026-10-18T09:23:45Z"
+   "checkedAt": "2026-10-18T21:17:42Z",
+   "lastSuccess": "2026-10-18T21:17:42Z"
   }
  },
  "contests": [
-  {
-   "id": "ck-202609160044",
-   "source": "콘테스트코리아",
-   "cat": "hack",
-   "title": "2026 AI 농산물 가격예측 해커톤",
-   "host": "한국농수산식품유통공사 (aT)",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609160044",
-   "kind": "접수 마감",
-   "date": "2026-10-18T14:59:59Z",
-   "start": null,
-   "end": "2026-10-18T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-09-06T15:00:00Z",
-     "end": "2026-10-18T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-10-18T15:00:00Z",
-     "end": "2026-10-22T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-19T15:00:00Z",
-     "end": "2026-11-20T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-350826",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026 화성특례시 AI CF 공모전 「제6회 별별화성 Awards」",
-   "host": "화성특례시",
-   "url": "https://linkareer.com/activity/350826",
-   "kind": "접수 마감",
-   "date": "2026-10-18T14:59:59Z",
-   "start": null,
-   "end": "2026-10-18T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "ck-202609210010",
-   "source": "콘테스트코리아",
-   "cat": "contest",
-   "title": "WFK 해외봉사단 커리어개발 우수사례 공모전",
-   "host": "KOICA (한국국제협력단)",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609210010",
-   "kind": "접수 마감",
-   "date": "2026-10-18T14:59:59Z",
-   "start": null,
-   "end": "2026-10-18T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-09-17T15:00:00Z",
-     "end": "2026-10-18T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-10-18T15:00:00Z",
-     "end": "2026-11-07T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-346834",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "제 2회 직스캐드 AX 공모전 - Design Your Dreams with AX (#CAD설계, #영상)",
-   "host": "(주)직스테크놀로지",
-   "url": "https://linkareer.com/activity/346834",
-   "kind": "접수 마감",
-   "date": "2026-10-18T14:59:59Z",
-   "start": null,
-   "end": "2026-10-18T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-349058",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "제2회 ZYXCAD AX 경진대회",
-   "host": "직스테크놀로지",
-   "url": "https://linkareer.com/activity/349058",
-   "kind": "접수 마감",
-   "date": "2026-10-18T14:59:59Z",
-   "start": null,
-   "end": "2026-10-18T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "lk-351991",
    "source": "링커리어",
@@ -2020,38 +1838,6 @@
    "tag": "CTF"
   },
   {
-   "id": "cf-2278",
-   "source": "Codeforces",
-   "cat": "algo",
-   "title": "Codeforces Round (Div. 3)",
-   "host": "Codeforces",
-   "url": "https://codeforces.com/contests/2278",
-   "kind": "대회일",
-   "date": "2026-10-29T14:35:00Z",
-   "start": "2026-10-29T14:35:00Z",
-   "end": "2026-10-29T16:50:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "2시간 15분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나 (Div. 3)"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
    "id": "ctf-3381",
    "source": "CTFtime",
    "cat": "ai",
@@ -2808,6 +2594,38 @@
    ],
    "summary": "StealthCup is an evasion focused CTF and a research project by AIT, held this year at Hackfest in Quebec City. Most CTFs reward speed. StealthCup rewards staying invisible. Teams attack a live IT and OT enterprise range while a real SOC stack watches. The team that reaches its objectives with the fewest severe detections wins. Up to 12 teams compete, each p…",
    "tag": "CTF"
+  },
+  {
+   "id": "cf-2278",
+   "source": "Codeforces",
+   "cat": "algo",
+   "title": "Codeforces Round (Div. 3)",
+   "host": "Codeforces",
+   "url": "https://codeforces.com/contests/2278",
+   "kind": "대회일",
+   "date": "2026-10-31T14:35:00Z",
+   "start": "2026-10-31T14:35:00Z",
+   "end": "2026-10-31T16:50:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "2시간 15분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나 (Div. 3)"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
   },
   {
    "id": "lk-356726",
