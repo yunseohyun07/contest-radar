@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:2026 데이터+AI 혁신 챌린지 데이터 문제해결 
+ 부문 경진대회 <참가 인증 이벤트>
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-357846@contest-radar
+DTSTAMP:20261019T093345Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:[접수 마감] 2026 데이터+AI 혁신 챌린지 데이터 문
+ 제해결 부문 경진대회 <참가 인증 이벤트>
+URL:https://linkareer.com/activity/357846
+DESCRIPTION:데이터 문제해결은행\nhttps://linkareer.com/activity/
+ 357846
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: 2026 데이터+AI 혁신 챌린지 데이터 문제
+ 해결 부문 경진대회 <참가 인증 이벤트>
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: 2026 데이터+AI 혁신 챌린지 데이터 문
+ 제해결 부문 경진대회 <참가 인증 이벤트>
+END:VALARM
+END:VEVENT
+END:VCALENDAR
