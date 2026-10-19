@@ -1,245 +1,50 @@
 {
- "updatedAt": "2026-10-19T09:33:45Z",
+ "updatedAt": "2026-10-19T21:22:48Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 3,
-   "checkedAt": "2026-10-19T09:33:45Z",
-   "lastSuccess": "2026-10-19T09:33:45Z"
+   "checkedAt": "2026-10-19T21:22:48Z",
+   "lastSuccess": "2026-10-19T21:22:48Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-10-19T09:33:45Z",
-   "lastSuccess": "2026-10-19T09:33:45Z"
+   "checkedAt": "2026-10-19T21:22:48Z",
+   "lastSuccess": "2026-10-19T21:22:48Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-19T09:33:45Z",
-   "lastSuccess": "2026-10-19T09:33:45Z"
+   "checkedAt": "2026-10-19T21:22:48Z",
+   "lastSuccess": "2026-10-19T21:22:48Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 41,
-   "checkedAt": "2026-10-19T09:33:45Z",
-   "lastSuccess": "2026-10-19T09:33:45Z"
+   "checkedAt": "2026-10-19T21:22:48Z",
+   "lastSuccess": "2026-10-19T21:22:48Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 98,
-   "checkedAt": "2026-10-19T09:33:45Z",
-   "lastSuccess": "2026-10-19T09:33:45Z"
+   "count": 92,
+   "checkedAt": "2026-10-19T21:22:48Z",
+   "lastSuccess": "2026-10-19T21:22:48Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 29,
-   "checkedAt": "2026-10-19T09:33:45Z",
-   "lastSuccess": "2026-10-19T09:33:45Z"
+   "checkedAt": "2026-10-19T21:22:48Z",
+   "lastSuccess": "2026-10-19T21:22:48Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-19T09:33:45Z",
-   "lastSuccess": "2026-10-19T09:33:45Z"
+   "checkedAt": "2026-10-19T21:22:48Z",
+   "lastSuccess": "2026-10-19T21:22:48Z"
   }
  },
  "contests": [
-  {
-   "id": "lk-351991",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026 고성 해양심층수 AI브랜드 영상 공모전",
-   "host": "(재)해양심층수산업고성진흥원",
-   "url": "https://linkareer.com/activity/351991",
-   "kind": "접수 마감",
-   "date": "2026-10-19T14:59:59Z",
-   "start": null,
-   "end": "2026-10-19T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-351358",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "SW중심대학사업단 2026년도 제3회 초중고 SW 경진대회",
-   "host": "과학기술정보통신부",
-   "url": "https://linkareer.com/activity/351358",
-   "kind": "접수 마감",
-   "date": "2026-10-19T14:59:59Z",
-   "start": null,
-   "end": "2026-10-19T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-356516",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "[경상북도/김천대학교] 2026 경상북도 K-U시티 청년 AI영상제",
-   "host": "경상북도청",
-   "url": "https://linkareer.com/activity/356516",
-   "kind": "접수 마감",
-   "date": "2026-10-19T14:59:59Z",
-   "start": null,
-   "end": "2026-10-19T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "ck-202609290038",
-   "source": "콘테스트코리아",
-   "cat": "ai",
-   "title": "[데이콘]합성 미세구조 기반 재료 물성 예측 AI 경진대회",
-   "host": "데이콘",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609290038",
-   "kind": "접수 마감",
-   "date": "2026-10-19T14:59:59Z",
-   "start": null,
-   "end": "2026-10-19T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": "AI",
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-09-28T15:00:00Z",
-     "end": "2026-10-19T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-10-22T15:00:00Z",
-     "end": "2026-10-28T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-10-28T15:00:00Z",
-     "end": "2026-10-29T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-353721",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "[한국탄소산업진흥원] 2026 AI 영상 콘텐츠 공모전 「탄소, 다시 보다」",
-   "host": "주식회사 제이레퍼토리",
-   "url": "https://linkareer.com/activity/353721",
-   "kind": "접수 마감",
-   "date": "2026-10-19T14:59:59Z",
-   "start": null,
-   "end": "2026-10-19T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-351593",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "[해양심층수산업 고성진흥원] 2026 고성 해양심층수 브랜드 AI 영상 공모전",
-   "host": "해양심층수산업 고성진흥원",
-   "url": "https://linkareer.com/activity/351593",
-   "kind": "접수 마감",
-   "date": "2026-10-19T14:59:59Z",
-   "start": null,
-   "end": "2026-10-19T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "ctf-3409",
    "source": "CTFtime",
@@ -2132,6 +1937,56 @@
    ],
    "summary": "",
    "tag": "AI"
+  },
+  {
+   "id": "ck-202609220031",
+   "source": "콘테스트코리아",
+   "cat": "contest",
+   "title": "2026 수영 전국 대학생 로컬 콘텐츠 개발 경진대회",
+   "host": "수영구청",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609220031",
+   "kind": "접수 마감",
+   "date": "2026-10-30T14:59:59Z",
+   "start": null,
+   "end": "2026-10-30T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "대학생"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-09-21T15:00:00Z",
+     "end": "2026-10-30T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-10-29T15:00:00Z",
+     "end": "2026-11-20T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-11-19T15:00:00Z",
+     "end": "2026-11-20T14:59:59Z"
+    }
+   ]
   },
   {
    "id": "lk-354265",
