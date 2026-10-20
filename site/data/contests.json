@@ -1,91 +1,50 @@
 {
- "updatedAt": "2026-10-19T21:22:48Z",
+ "updatedAt": "2026-10-20T09:30:39Z",
  "sources": {
   "Codeforces": {
    "ok": true,
-   "count": 3,
-   "checkedAt": "2026-10-19T21:22:48Z",
-   "lastSuccess": "2026-10-19T21:22:48Z"
+   "count": 5,
+   "checkedAt": "2026-10-20T09:30:39Z",
+   "lastSuccess": "2026-10-20T09:30:39Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-10-19T21:22:48Z",
-   "lastSuccess": "2026-10-19T21:22:48Z"
+   "checkedAt": "2026-10-20T09:30:39Z",
+   "lastSuccess": "2026-10-20T09:30:39Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-19T21:22:48Z",
-   "lastSuccess": "2026-10-19T21:22:48Z"
+   "checkedAt": "2026-10-20T09:30:39Z",
+   "lastSuccess": "2026-10-20T09:30:39Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 41,
-   "checkedAt": "2026-10-19T21:22:48Z",
-   "lastSuccess": "2026-10-19T21:22:48Z"
+   "count": 40,
+   "checkedAt": "2026-10-20T09:30:39Z",
+   "lastSuccess": "2026-10-20T09:30:39Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 92,
-   "checkedAt": "2026-10-19T21:22:48Z",
-   "lastSuccess": "2026-10-19T21:22:48Z"
+   "count": 98,
+   "checkedAt": "2026-10-20T09:30:39Z",
+   "lastSuccess": "2026-10-20T09:30:39Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 29,
-   "checkedAt": "2026-10-19T21:22:48Z",
-   "lastSuccess": "2026-10-19T21:22:48Z"
+   "checkedAt": "2026-10-20T09:30:39Z",
+   "lastSuccess": "2026-10-20T09:30:39Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-19T21:22:48Z",
-   "lastSuccess": "2026-10-19T21:22:48Z"
+   "checkedAt": "2026-10-20T09:30:39Z",
+   "lastSuccess": "2026-10-20T09:30:39Z"
   }
  },
  "contests": [
-  {
-   "id": "ctf-3409",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "SAS CTF 2026 Finals",
-   "host": "SAS CREW",
-   "url": "https://ctftime.org/event/3409/",
-   "kind": "대회일",
-   "date": "2026-10-20T03:00:00Z",
-   "start": "2026-10-20T03:00:00Z",
-   "end": "2026-10-20T14:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Attack-Defense"
-    },
-    {
-     "label": "진행 방식",
-     "value": "오프라인 · Indonesia, Bali"
-    },
-    {
-     "label": "참가 자격",
-     "value": "예선 통과팀"
-    },
-    {
-     "label": "진행 시간",
-     "value": "11시간"
-    },
-    {
-     "label": "상금",
-     "value": "- 1st place: $10000 - 2nd place: $5000 - 3rd place: $3000"
-    },
-    {
-     "label": "CTFtime 가중치",
-     "value": "49.5"
-    }
-   ],
-   "summary": "SAS CTF is an international competition for cybersecurity experts, held as a part of the Security Analyst Summit conference. The competition consists of an online Jeopardy qualification stage and on-site Attack-Defense finals. We are inviting Top 8 teams that completed the SAS CTF qualification round and 5 regional winners of Kaspersky{CTF} 2026 (https://lp…",
-   "tag": "CTF"
-  },
   {
    "id": "ck-202610130069",
    "source": "콘테스트코리아",
@@ -1660,6 +1619,64 @@
    "tag": null
   },
   {
+   "id": "lk-358224",
+   "source": "링커리어",
+   "cat": "hack",
+   "title": "2026 크라우드 소싱 데이터 활용 해커톤 (드론 데이터 변화탐지·3D 모델링)",
+   "host": "연세대학교 산학협력단",
+   "url": "https://linkareer.com/activity/358224",
+   "kind": "접수 마감",
+   "date": "2026-10-28T14:59:59Z",
+   "start": null,
+   "end": "2026-10-28T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-358255",
+   "source": "링커리어",
+   "cat": "hack",
+   "title": "[인천테크노파크] 2026 인천 가상융합산업 모의 해커톤 참여자 모집",
+   "host": "인천테크노파크",
+   "url": "https://linkareer.com/activity/358255",
+   "kind": "접수 마감",
+   "date": "2026-10-28T14:59:59Z",
+   "start": null,
+   "end": "2026-10-28T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "ctf-3444",
    "source": "CTFtime",
    "cat": "ai",
@@ -2074,6 +2091,35 @@
    ],
    "summary": "",
    "tag": "보안"
+  },
+  {
+   "id": "lk-358051",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "2026 충북글로벌게임센터 AI 게임 개발 공모전",
+   "host": "청주시문화산업진흥재단",
+   "url": "https://linkareer.com/activity/358051",
+   "kind": "접수 마감",
+   "date": "2026-10-30T14:59:59Z",
+   "start": null,
+   "end": "2026-10-30T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "ck-202609100022",
@@ -3891,6 +3937,70 @@
    "tag": "CTF"
   },
   {
+   "id": "cf-2279",
+   "source": "Codeforces",
+   "cat": "algo",
+   "title": "Codeforces Round (Div. 1)",
+   "host": "Codeforces",
+   "url": "https://codeforces.com/contests/2279",
+   "kind": "대회일",
+   "date": "2026-11-07T14:35:00Z",
+   "start": "2026-11-07T14:35:00Z",
+   "end": "2026-11-07T17:05:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "2시간 30분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나 (Div. 1)"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
+  },
+  {
+   "id": "cf-2280",
+   "source": "Codeforces",
+   "cat": "algo",
+   "title": "Codeforces Round (Div. 2)",
+   "host": "Codeforces",
+   "url": "https://codeforces.com/contests/2280",
+   "kind": "대회일",
+   "date": "2026-11-07T14:35:00Z",
+   "start": "2026-11-07T14:35:00Z",
+   "end": "2026-11-07T17:05:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "2시간 30분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나 (Div. 2)"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
+  },
+  {
    "id": "atc-agc079",
    "source": "AtCoder",
    "cat": "algo",
@@ -4611,6 +4721,35 @@
    "tag": "CTF"
   },
   {
+   "id": "lk-358198",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "현대자동차그룹 차량용 앱 개발 공모전",
+   "host": "공모전 운영사무국",
+   "url": "https://linkareer.com/activity/358198",
+   "kind": "접수 마감",
+   "date": "2026-11-15T14:59:59Z",
+   "start": null,
+   "end": "2026-11-15T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "lk-343445",
    "source": "링커리어",
    "cat": "contest",
@@ -5005,6 +5144,35 @@
    "title": "2026 조달청 AI 게임·콘텐츠 공모전",
    "host": "조달청",
    "url": "https://linkareer.com/activity/357796",
+   "kind": "접수 마감",
+   "date": "2026-11-22T14:59:59Z",
+   "start": null,
+   "end": "2026-11-22T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-358366",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "나무엑스 AI 숏폼 공모전",
+   "host": "SK인텔릭스(주)",
+   "url": "https://linkareer.com/activity/358366",
    "kind": "접수 마감",
    "date": "2026-11-22T14:59:59Z",
    "start": null,
@@ -5462,6 +5630,35 @@
    ],
    "summary": "",
    "tag": "AI"
+  },
+  {
+   "id": "lk-358358",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "2026 AI 플레이 콘텐츠 제작 공모전 공모전",
+   "host": "중앙대학교",
+   "url": "https://linkareer.com/activity/358358",
+   "kind": "접수 마감",
+   "date": "2026-12-31T14:59:59Z",
+   "start": null,
+   "end": "2026-12-31T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "ck-202608270057",
