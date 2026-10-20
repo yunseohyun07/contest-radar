@@ -1,124 +1,50 @@
 {
- "updatedAt": "2026-10-20T09:30:39Z",
+ "updatedAt": "2026-10-20T21:24:14Z",
  "sources": {
   "Codeforces": {
    "ok": true,
-   "count": 5,
-   "checkedAt": "2026-10-20T09:30:39Z",
-   "lastSuccess": "2026-10-20T09:30:39Z"
+   "count": 6,
+   "checkedAt": "2026-10-20T21:24:14Z",
+   "lastSuccess": "2026-10-20T21:24:14Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-10-20T09:30:39Z",
-   "lastSuccess": "2026-10-20T09:30:39Z"
+   "checkedAt": "2026-10-20T21:24:14Z",
+   "lastSuccess": "2026-10-20T21:24:14Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-20T09:30:39Z",
-   "lastSuccess": "2026-10-20T09:30:39Z"
+   "checkedAt": "2026-10-20T21:24:14Z",
+   "lastSuccess": "2026-10-20T21:24:14Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 40,
-   "checkedAt": "2026-10-20T09:30:39Z",
-   "lastSuccess": "2026-10-20T09:30:39Z"
+   "count": 41,
+   "checkedAt": "2026-10-20T21:24:14Z",
+   "lastSuccess": "2026-10-20T21:24:14Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 98,
-   "checkedAt": "2026-10-20T09:30:39Z",
-   "lastSuccess": "2026-10-20T09:30:39Z"
+   "count": 97,
+   "checkedAt": "2026-10-20T21:24:14Z",
+   "lastSuccess": "2026-10-20T21:24:14Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 29,
-   "checkedAt": "2026-10-20T09:30:39Z",
-   "lastSuccess": "2026-10-20T09:30:39Z"
+   "checkedAt": "2026-10-20T21:24:14Z",
+   "lastSuccess": "2026-10-20T21:24:14Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-20T09:30:39Z",
-   "lastSuccess": "2026-10-20T09:30:39Z"
+   "checkedAt": "2026-10-20T21:24:14Z",
+   "lastSuccess": "2026-10-20T21:24:14Z"
   }
  },
  "contests": [
-  {
-   "id": "ck-202610130069",
-   "source": "콘테스트코리아",
-   "cat": "hack",
-   "title": "2026 청년취업사관학교 해커톤",
-   "host": "청년취업사관학교 해커톤",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610130069",
-   "kind": "접수 마감",
-   "date": "2026-10-20T14:59:59Z",
-   "start": null,
-   "end": "2026-10-20T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-10-06T15:00:00Z",
-     "end": "2026-10-20T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-08T15:00:00Z",
-     "end": "2026-11-09T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-356483",
-   "source": "링커리어",
-   "cat": "hack",
-   "title": "청년취업사관학교 해커톤",
-   "host": "청년취업사관학교 해커톤",
-   "url": "https://linkareer.com/activity/356483",
-   "kind": "접수 마감",
-   "date": "2026-10-20T14:59:59Z",
-   "start": null,
-   "end": "2026-10-20T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "lk-357528",
    "source": "링커리어",
@@ -3523,6 +3449,38 @@
    ]
   },
   {
+   "id": "cf-2281",
+   "source": "Codeforces",
+   "cat": "algo",
+   "title": "ICPC 2026 Online Challenge 2 powered by Huawei",
+   "host": "Codeforces",
+   "url": "https://codeforces.com/contests/2281",
+   "kind": "대회일",
+   "date": "2026-11-05T11:00:00Z",
+   "start": "2026-11-05T11:00:00Z",
+   "end": "2026-11-19T11:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "14일"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
+  },
+  {
    "id": "lk-357852",
    "source": "링커리어",
    "cat": "ai",
@@ -4721,12 +4679,12 @@
    "tag": "CTF"
   },
   {
-   "id": "lk-358198",
-   "source": "링커리어",
+   "id": "ck-202610200005",
+   "source": "콘테스트코리아",
    "cat": "contest",
    "title": "현대자동차그룹 차량용 앱 개발 공모전",
-   "host": "공모전 운영사무국",
-   "url": "https://linkareer.com/activity/358198",
+   "host": "현대자동차그룹",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610200005",
    "kind": "접수 마감",
    "date": "2026-11-15T14:59:59Z",
    "start": null,
@@ -4734,11 +4692,15 @@
    "allDay": true,
    "meta": [
     {
-     "label": "상금",
+     "label": "참가 대상",
+     "value": "대학생, 대학원생, 일반인"
+    },
+    {
+     "label": "참가비",
      "value": "원문 확인"
     },
     {
-     "label": "참가 자격",
+     "label": "상금",
      "value": "원문 확인"
     },
     {
@@ -4747,7 +4709,24 @@
     }
    ],
    "summary": "",
-   "tag": null
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-10-20T15:00:00Z",
+     "end": "2026-11-15T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-11-22T15:00:00Z",
+     "end": "2026-12-04T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-12-17T15:00:00Z",
+     "end": "2026-12-18T14:59:59Z"
+    }
+   ]
   },
   {
    "id": "lk-343445",
@@ -5263,6 +5242,43 @@
     }
    ],
    "summary": "Qualifications for fifth edition of LakeCTF",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3485",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "L3m0n CTF 2026 (Quals)",
+   "host": "L3m0n CTF",
+   "url": "https://ctftime.org/event/3485/",
+   "kind": "대회일",
+   "date": "2026-11-28T04:30:00Z",
+   "start": "2026-11-28T04:30:00Z",
+   "end": "2026-11-28T16:30:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "12시간"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "L3m0n CTF is the annual flagship capture-the-flag competition of Amrita Vishwa Vidyapeetham, Coimbatore, hosted by TIFAC-CORE in Cyber Security. This is a team-based event: teams of 1 to 4 players. The online prelims is Jeopardy-style and run for 12 hours (10:00 to 22:00 IST, 04:30 to 16:30 UTC, on 28 November 2026). The top teams are invited to on-campus f…",
    "tag": "CTF"
   },
   {

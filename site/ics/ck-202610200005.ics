@@ -7,15 +7,16 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:lk-358198@contest-radar
-DTSTAMP:20261020T093039Z
+UID:ck-202610200005@contest-radar
+DTSTAMP:20261020T212414Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:[접수 마감] 현대자동차그룹 차량용 앱 개발 공모
  전
-URL:https://linkareer.com/activity/358198
-DESCRIPTION:공모전 운영사무국\nhttps://linkareer.com/activity/358
- 198
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202610200005
+DESCRIPTION:현대자동차그룹\nhttps://www.contestkorea.com/sub/view.
+ php?int_gbn=1&Txt_bcode=030310001&str_no=202610200005
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D
