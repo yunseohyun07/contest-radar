@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:[saaskr] 2026 saaskr 게임 어워드 — AI로 만든 웹
+ 게임 연말 시상
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-358536@contest-radar
+DTSTAMP:20261021T093020Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:[접수 마감] [saaskr] 2026 saaskr 게임 어워드 — AI로 
+ 만든 웹게임 연말 시상
+URL:https://linkareer.com/activity/358536
+DESCRIPTION:엠제이커넥트\nhttps://linkareer.com/activity/358536
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: [saaskr] 2026 saaskr 게임 어워드 — AI로 만
+ 든 웹게임 연말 시상
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: [saaskr] 2026 saaskr 게임 어워드 — AI로 
+ 만든 웹게임 연말 시상
+END:VALARM
+END:VEVENT
+END:VCALENDAR
