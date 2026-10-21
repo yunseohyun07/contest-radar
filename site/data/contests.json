@@ -1,108 +1,50 @@
 {
- "updatedAt": "2026-10-21T09:30:20Z",
+ "updatedAt": "2026-10-21T21:23:37Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-10-21T09:30:20Z",
-   "lastSuccess": "2026-10-21T09:30:20Z"
+   "checkedAt": "2026-10-21T21:23:37Z",
+   "lastSuccess": "2026-10-21T21:23:37Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-10-21T09:30:20Z",
-   "lastSuccess": "2026-10-21T09:30:20Z"
+   "checkedAt": "2026-10-21T21:23:37Z",
+   "lastSuccess": "2026-10-21T21:23:37Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-21T09:30:20Z",
-   "lastSuccess": "2026-10-21T09:30:20Z"
+   "checkedAt": "2026-10-21T21:23:37Z",
+   "lastSuccess": "2026-10-21T21:23:37Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 41,
-   "checkedAt": "2026-10-21T09:30:20Z",
-   "lastSuccess": "2026-10-21T09:30:20Z"
+   "checkedAt": "2026-10-21T21:23:37Z",
+   "lastSuccess": "2026-10-21T21:23:37Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 101,
-   "checkedAt": "2026-10-21T09:30:20Z",
-   "lastSuccess": "2026-10-21T09:30:20Z"
+   "count": 99,
+   "checkedAt": "2026-10-21T21:23:37Z",
+   "lastSuccess": "2026-10-21T21:23:37Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 29,
-   "checkedAt": "2026-10-21T09:30:20Z",
-   "lastSuccess": "2026-10-21T09:30:20Z"
+   "checkedAt": "2026-10-21T21:23:37Z",
+   "lastSuccess": "2026-10-21T21:23:37Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-21T09:30:20Z",
-   "lastSuccess": "2026-10-21T09:30:20Z"
+   "checkedAt": "2026-10-21T21:23:37Z",
+   "lastSuccess": "2026-10-21T21:23:37Z"
   }
  },
  "contests": [
-  {
-   "id": "lk-357528",
-   "source": "링커리어",
-   "cat": "hack",
-   "title": "Bloom x Anthropic x Seoul AI Hub | Ambition for Korea 해커톤",
-   "host": "클라이원트",
-   "url": "https://linkareer.com/activity/357528",
-   "kind": "접수 마감",
-   "date": "2026-10-21T14:59:59Z",
-   "start": null,
-   "end": "2026-10-21T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-352999",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "한강버스 운항 1주년 AI 영상 & 사진 공모전",
-   "host": "한강버스",
-   "url": "https://linkareer.com/activity/352999",
-   "kind": "접수 마감",
-   "date": "2026-10-21T14:59:59Z",
-   "start": null,
-   "end": "2026-10-21T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "ck-202608180058",
    "source": "콘테스트코리아",
@@ -821,7 +763,7 @@
    "id": "cf-2277",
    "source": "Codeforces",
    "cat": "algo",
-   "title": "Codeforces Round (Div. 2)",
+   "title": "Codeforces Round 1129 (Div. 2)",
    "host": "Codeforces",
    "url": "https://codeforces.com/contests/2277",
    "kind": "대회일",
@@ -1342,7 +1284,7 @@
    "id": "cf-2272",
    "source": "Codeforces",
    "cat": "algo",
-   "title": "Codeforces Round (Div. 2)",
+   "title": "Codeforces Round 1130 (Div. 2)",
    "host": "Codeforces",
    "url": "https://codeforces.com/contests/2272",
    "kind": "대회일",
@@ -2521,7 +2463,7 @@
    "id": "cf-2278",
    "source": "Codeforces",
    "cat": "algo",
-   "title": "Codeforces Round (Div. 3)",
+   "title": "Codeforces Round 1131 (Div. 3)",
    "host": "Codeforces",
    "url": "https://codeforces.com/contests/2278",
    "kind": "대회일",
