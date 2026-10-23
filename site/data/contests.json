@@ -1,285 +1,50 @@
 {
- "updatedAt": "2026-10-23T14:09:50Z",
+ "updatedAt": "2026-10-23T23:45:50Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-10-23T14:09:50Z",
-   "lastSuccess": "2026-10-23T14:09:50Z"
+   "checkedAt": "2026-10-23T23:45:50Z",
+   "lastSuccess": "2026-10-23T23:45:50Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-10-23T14:09:50Z",
-   "lastSuccess": "2026-10-23T14:09:50Z"
+   "checkedAt": "2026-10-23T23:45:50Z",
+   "lastSuccess": "2026-10-23T23:45:50Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-23T14:09:50Z",
-   "lastSuccess": "2026-10-23T14:09:50Z"
+   "checkedAt": "2026-10-23T23:45:50Z",
+   "lastSuccess": "2026-10-23T23:45:50Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 38,
-   "checkedAt": "2026-10-23T14:09:50Z",
-   "lastSuccess": "2026-10-23T14:09:50Z"
+   "count": 37,
+   "checkedAt": "2026-10-23T23:45:50Z",
+   "lastSuccess": "2026-10-23T23:45:50Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 106,
-   "checkedAt": "2026-10-23T14:09:50Z",
-   "lastSuccess": "2026-10-23T14:09:50Z"
+   "count": 103,
+   "checkedAt": "2026-10-23T23:45:50Z",
+   "lastSuccess": "2026-10-23T23:45:50Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 31,
-   "checkedAt": "2026-10-23T14:09:50Z",
-   "lastSuccess": "2026-10-23T14:09:50Z"
+   "count": 29,
+   "checkedAt": "2026-10-23T23:45:50Z",
+   "lastSuccess": "2026-10-23T23:45:50Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-23T14:09:50Z",
-   "lastSuccess": "2026-10-23T14:09:50Z"
+   "checkedAt": "2026-10-23T23:45:50Z",
+   "lastSuccess": "2026-10-23T23:45:50Z"
   }
  },
  "contests": [
-  {
-   "id": "ck-202609290040",
-   "source": "콘테스트코리아",
-   "cat": "ai",
-   "title": "2026 CWNU SW-DNA² 챌린지 대학생 AI·SW 경진대회",
-   "host": "국립창원대학교",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609290040",
-   "kind": "접수 마감",
-   "date": "2026-10-23T14:59:59Z",
-   "start": null,
-   "end": "2026-10-23T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "대학생"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": "AI",
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-09-28T15:00:00Z",
-     "end": "2026-10-23T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-10-22T15:00:00Z",
-     "end": "2026-10-29T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-353405",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026 충북영상자서전 [사랑나눔 스마트 AI 영상자서전 공모전]",
-   "host": "충청북도",
-   "url": "https://linkareer.com/activity/353405",
-   "kind": "접수 마감",
-   "date": "2026-10-23T14:59:59Z",
-   "start": null,
-   "end": "2026-10-23T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-358938",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "「2026년 충청 스타트업 벤처포럼」 1회차(AI) - IR 데모데이",
-   "host": "주식회사 알파브라더스",
-   "url": "https://linkareer.com/activity/358938",
-   "kind": "접수 마감",
-   "date": "2026-10-23T14:59:59Z",
-   "start": null,
-   "end": "2026-10-23T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "ck-202609140065",
-   "source": "콘테스트코리아",
-   "cat": "contest",
-   "title": "공공 웹사이트 불법광고 탐지 도구 개발 공모전",
-   "host": "행정안전부",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609140065",
-   "kind": "접수 마감",
-   "date": "2026-10-23T14:59:59Z",
-   "start": null,
-   "end": "2026-10-23T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-09-13T15:00:00Z",
-     "end": "2026-10-23T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-10-25T15:00:00Z",
-     "end": "2026-11-04T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-29T15:00:00Z",
-     "end": "2026-11-30T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "ctf-3377",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "RSTCON 2026 CTF",
-   "host": "RSTCON",
-   "url": "https://ctftime.org/event/3377/",
-   "kind": "대회일",
-   "date": "2026-10-23T17:00:00Z",
-   "start": "2026-10-23T17:00:00Z",
-   "end": "2026-10-25T17:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "진행 시간",
-     "value": "2일"
-    },
-    {
-     "label": "상금",
-     "value": "1st - RSTCON Hard Hats & Next Year Tickets 2nd - Conference Shirt & Bottlecap B…"
-    },
-    {
-     "label": "CTFtime 가중치",
-     "value": "25"
-    }
-   ],
-   "summary": "Online/Hybrid RSTCON CTF will available online, but there will be some challenges only available on-site at the conference. RSTCON CTF is an on-site/online competition for RSTCON, which is an annual technical security and hacking conference hosted in Charlotte, NC. RSTCON focuses on cutting-edge research, exploitation, and tradecraft in the logistics, energ…",
-   "tag": "CTF"
-  },
-  {
-   "id": "ctf-3207",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "Hack.lu CTF 2026",
-   "host": "FluxFingers",
-   "url": "https://ctftime.org/event/3207/",
-   "kind": "대회일",
-   "date": "2026-10-23T18:00:00Z",
-   "start": "2026-10-23T18:00:00Z",
-   "end": "2026-10-25T18:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "진행 시간",
-     "value": "2일"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "CTFtime 가중치",
-     "value": "94.74"
-    }
-   ],
-   "summary": "Hack.​lu CTF is organized by FluxFingers, the CTF team of Ruhr-University Bochum (Germany). This will be the 16th edition.",
-   "tag": "CTF"
-  },
   {
    "id": "ctf-3442",
    "source": "CTFtime",
@@ -364,12 +129,12 @@
    "kind": "대회일",
    "date": "2026-10-24T11:05:00Z",
    "start": "2026-10-24T11:05:00Z",
-   "end": "2026-10-24T13:05:00Z",
+   "end": "2026-10-24T13:20:00Z",
    "allDay": false,
    "meta": [
     {
      "label": "진행 시간",
-     "value": "2시간"
+     "value": "2시간 15분"
     },
     {
      "label": "진행 방식",
@@ -5174,6 +4939,43 @@
     }
    ],
    "summary": "Seize Da Flaq is the flagship national-level Capture The Flag (CTF) competition organized by Cyberonites Club, GLA University. The event is designed to challenge and showcase cybersecurity talent through real-world, hands-on security challenges across domains such as Web Security, Cryptography, Reverse Engineering, Binary Exploitation, Digital Forensics, OS…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3490",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "Cyber Ninja CTF 2026 - BLACKOUT",
+   "host": "OteriHack",
+   "url": "https://ctftime.org/event/3490/",
+   "kind": "대회일",
+   "date": "2026-11-21T09:00:00Z",
+   "start": "2026-11-21T09:00:00Z",
+   "end": "2026-11-22T09:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "개인 참가"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": "Plus de 1 500 € de lots à remporter pour les 5 meilleurs participants ! 1re pla…"
+    }
+   ],
+   "summary": "# Cyber Ninja CTF 2026 – BLACKOUT Gardez Paris allumé ! Le Cyber Ninja CTF revient pour sa 3e édition avec BLACKOUT, une compétition nationale de cybersécurité organisée par OTERIA Cyber School et destinée aux lycéens de toute la France. Cette année, un mystérieux hacker surnommé « Lights-Out » menace les infrastructures critiques de Paris : métro, électric…",
    "tag": "CTF"
   },
   {
