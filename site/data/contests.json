@@ -1,165 +1,50 @@
 {
- "updatedAt": "2026-10-22T23:53:34Z",
+ "updatedAt": "2026-10-23T14:09:50Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-10-22T23:53:34Z",
-   "lastSuccess": "2026-10-22T23:53:34Z"
+   "checkedAt": "2026-10-23T14:09:50Z",
+   "lastSuccess": "2026-10-23T14:09:50Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-10-22T23:53:34Z",
-   "lastSuccess": "2026-10-22T23:53:34Z"
+   "checkedAt": "2026-10-23T14:09:50Z",
+   "lastSuccess": "2026-10-23T14:09:50Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-22T23:53:34Z",
-   "lastSuccess": "2026-10-22T23:53:34Z"
+   "checkedAt": "2026-10-23T14:09:50Z",
+   "lastSuccess": "2026-10-23T14:09:50Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 41,
-   "checkedAt": "2026-10-22T23:53:34Z",
-   "lastSuccess": "2026-10-22T23:53:34Z"
+   "count": 38,
+   "checkedAt": "2026-10-23T14:09:50Z",
+   "lastSuccess": "2026-10-23T14:09:50Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 100,
-   "checkedAt": "2026-10-22T23:53:34Z",
-   "lastSuccess": "2026-10-22T23:53:34Z"
+   "count": 106,
+   "checkedAt": "2026-10-23T14:09:50Z",
+   "lastSuccess": "2026-10-23T14:09:50Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 31,
-   "checkedAt": "2026-10-22T23:53:34Z",
-   "lastSuccess": "2026-10-22T23:53:34Z"
+   "checkedAt": "2026-10-23T14:09:50Z",
+   "lastSuccess": "2026-10-23T14:09:50Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-22T23:53:34Z",
-   "lastSuccess": "2026-10-22T23:53:34Z"
+   "checkedAt": "2026-10-23T14:09:50Z",
+   "lastSuccess": "2026-10-23T14:09:50Z"
   }
  },
  "contests": [
-  {
-   "id": "ctf-3369",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "cruXipher 2026 - ATMoS '26, BITS Hyderabad",
-   "host": "CRUx BPHC",
-   "url": "https://ctftime.org/event/3369/",
-   "kind": "대회일",
-   "date": "2026-10-23T00:30:00Z",
-   "start": "2026-10-23T00:30:00Z",
-   "end": "2026-10-25T00:30:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "진행 시간",
-     "value": "2일"
-    },
-    {
-     "label": "상금",
-     "value": "- 1st Place: 15,000 INR - 2nd Place: 9,000 INR - 3rd Place: 6,000 INR"
-    }
-   ],
-   "summary": "cruXipher: A development-style Capture-the-Flag competition where teams of people come together to solve challenges that involve the skills of problem-solving, programming, cybersecurity, and general knowledge of computers to rise to the top. Discord URL: https://discord.gg/wqQjW35G2",
-   "tag": "CTF"
-  },
-  {
-   "id": "ctf-3477",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "CREST CTF 2.0",
-   "host": "CREST",
-   "url": "https://ctftime.org/event/3477/",
-   "kind": "대회일",
-   "date": "2026-10-23T05:30:00Z",
-   "start": "2026-10-23T05:30:00Z",
-   "end": "2026-10-23T11:30:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "개인 참가"
-    },
-    {
-     "label": "진행 시간",
-     "value": "6시간"
-    },
-    {
-     "label": "상금",
-     "value": "●Total Cash Prize Pool: ₹1,00,000 ●Offline Category •1st Place – ₹10,000 •2nd P…"
-    }
-   ],
-   "summary": "CREST CTF 2.0 | National Level Cyber Security Competition Organized by CREST Cyber Club under the School of Computer Applications, Pimpri Chinchwad University (PCU). CREST CTF 2.0 is a national-level Capture The Flag (CTF) cybersecurity competition designed to challenge and elevate your problem-solving, ethical hacking, and cybersecurity skills. Whether you…",
-   "tag": "CTF"
-  },
-  {
-   "id": "ctf-3340",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "HITCON CTF 2026",
-   "host": "HITCON",
-   "url": "https://ctftime.org/event/3340/",
-   "kind": "대회일",
-   "date": "2026-10-23T14:00:00Z",
-   "start": "2026-10-23T14:00:00Z",
-   "end": "2026-10-25T14:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "진행 시간",
-     "value": "2일"
-    },
-    {
-     "label": "상금",
-     "value": "1st place: $8,000 USD 2nd place: $4,000 USD 3rd place: $2,000 USD Special award…"
-    },
-    {
-     "label": "CTFtime 가중치",
-     "value": "91.16"
-    }
-   ],
-   "summary": "",
-   "tag": "CTF"
-  },
   {
    "id": "ck-202609290040",
    "source": "콘테스트코리아",
@@ -212,6 +97,35 @@
    "title": "2026 충북영상자서전 [사랑나눔 스마트 AI 영상자서전 공모전]",
    "host": "충청북도",
    "url": "https://linkareer.com/activity/353405",
+   "kind": "접수 마감",
+   "date": "2026-10-23T14:59:59Z",
+   "start": null,
+   "end": "2026-10-23T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-358938",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "「2026년 충청 스타트업 벤처포럼」 1회차(AI) - IR 데모데이",
+   "host": "주식회사 알파브라더스",
+   "url": "https://linkareer.com/activity/358938",
    "kind": "접수 마감",
    "date": "2026-10-23T14:59:59Z",
    "start": null,
@@ -2209,6 +2123,35 @@
    "tag": "AI"
   },
   {
+   "id": "lk-359170",
+   "source": "링커리어",
+   "cat": "hack",
+   "title": "[선착순 30명] “AI로 아이디어를 글로벌 비즈니스로!” KU 캠퍼스타운 AI 글로벌 해커톤",
+   "host": "(주)메인콘텐츠",
+   "url": "https://linkareer.com/activity/359170",
+   "kind": "접수 마감",
+   "date": "2026-10-30T14:59:59Z",
+   "start": null,
+   "end": "2026-10-30T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "lk-338313",
    "source": "링커리어",
    "cat": "contest",
@@ -2374,7 +2317,7 @@
     },
     {
      "label": "상금",
-     "value": "Hackfest challenge coin, more TBA"
+     "value": "StealthCup challenge coin for the winning team Hardware gadgets like YubiKeys f…"
     }
    ],
    "summary": "StealthCup is an evasion focused CTF and a research project by AIT, held this year at Hackfest in Quebec City. Most CTFs reward speed. StealthCup rewards staying invisible. Teams attack a live IT and OT enterprise range while a real SOC stack watches. The team that reaches its objectives with the fewest severe detections wins. Up to 12 teams compete, each p…",
@@ -3346,6 +3289,35 @@
    ]
   },
   {
+   "id": "lk-359305",
+   "source": "링커리어",
+   "cat": "hack",
+   "title": "2026 청도 바이브코딩 해커톤 with 해커그라운드",
+   "host": "해커그라운드",
+   "url": "https://linkareer.com/activity/359305",
+   "kind": "접수 마감",
+   "date": "2026-11-03T14:59:59Z",
+   "start": null,
+   "end": "2026-11-03T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "ck-202610120068",
    "source": "콘테스트코리아",
    "cat": "contest",
@@ -4179,6 +4151,35 @@
      "end": "2026-12-31T14:59:59Z"
     }
    ]
+  },
+  {
+   "id": "lk-359141",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "제 2회 직스캐드 AX 경진대회 (CAD 공모전, 설계 공모전, 영상 공모전)",
+   "host": "주식회사 직스테크놀로지",
+   "url": "https://linkareer.com/activity/359141",
+   "kind": "접수 마감",
+   "date": "2026-11-08T14:59:59Z",
+   "start": null,
+   "end": "2026-11-08T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "ck-202608310001",
@@ -5384,6 +5385,35 @@
    ],
    "summary": "",
    "tag": "AI"
+  },
+  {
+   "id": "lk-359156",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "2026 제2회 대한민국 AI 창조공모대전",
+   "host": "사단법인 한국창조미술협회",
+   "url": "https://linkareer.com/activity/359156",
+   "kind": "접수 마감",
+   "date": "2026-11-27T14:59:59Z",
+   "start": null,
+   "end": "2026-11-27T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "ctf-3474",

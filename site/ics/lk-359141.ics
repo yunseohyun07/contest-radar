@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:제 2회 직스캐드 AX 경진대회 (CAD 공모전\, 설
+ 계 공모전\, 영상 공모전)
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-359141@contest-radar
+DTSTAMP:20261023T140950Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:[접수 마감] 제 2회 직스캐드 AX 경진대회 (CAD 공모
+ 전\, 설계 공모전\, 영상 공모전)
+URL:https://linkareer.com/activity/359141
+DESCRIPTION:주식회사 직스테크놀로지\nhttps://linkareer.com/act
+ ivity/359141
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: 제 2회 직스캐드 AX 경진대회 (CAD 공모
+ 전\, 설계 공모전\, 영상 공모전)
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: 제 2회 직스캐드 AX 경진대회 (CAD 공모
+ 전\, 설계 공모전\, 영상 공모전)
+END:VALARM
+END:VEVENT
+END:VCALENDAR
