@@ -1,119 +1,50 @@
 {
- "updatedAt": "2026-10-24T13:13:06Z",
+ "updatedAt": "2026-10-24T22:55:31Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-10-24T13:13:06Z",
-   "lastSuccess": "2026-10-24T13:13:06Z"
+   "checkedAt": "2026-10-24T22:55:31Z",
+   "lastSuccess": "2026-10-24T22:55:31Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-10-24T13:13:06Z",
-   "lastSuccess": "2026-10-24T13:13:06Z"
+   "checkedAt": "2026-10-24T22:55:31Z",
+   "lastSuccess": "2026-10-24T22:55:31Z"
   },
   "LeetCode": {
    "ok": true,
-   "count": 2,
-   "checkedAt": "2026-10-24T13:13:06Z",
-   "lastSuccess": "2026-10-24T13:13:06Z"
+   "count": 1,
+   "checkedAt": "2026-10-24T22:55:31Z",
+   "lastSuccess": "2026-10-24T22:55:31Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 35,
-   "checkedAt": "2026-10-24T13:13:06Z",
-   "lastSuccess": "2026-10-24T13:13:06Z"
+   "count": 36,
+   "checkedAt": "2026-10-24T22:55:31Z",
+   "lastSuccess": "2026-10-24T22:55:31Z"
   },
   "링커리어": {
    "ok": true,
    "count": 103,
-   "checkedAt": "2026-10-24T13:13:06Z",
-   "lastSuccess": "2026-10-24T13:13:06Z"
+   "checkedAt": "2026-10-24T22:55:31Z",
+   "lastSuccess": "2026-10-24T22:55:31Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 29,
-   "checkedAt": "2026-10-24T13:13:06Z",
-   "lastSuccess": "2026-10-24T13:13:06Z"
+   "checkedAt": "2026-10-24T22:55:31Z",
+   "lastSuccess": "2026-10-24T22:55:31Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-24T13:13:06Z",
-   "lastSuccess": "2026-10-24T13:13:06Z"
+   "checkedAt": "2026-10-24T22:55:31Z",
+   "lastSuccess": "2026-10-24T22:55:31Z"
   }
  },
  "contests": [
-  {
-   "id": "lc-biweekly-contest-194",
-   "source": "LeetCode",
-   "cat": "algo",
-   "title": "LeetCode Biweekly Contest 194",
-   "host": "LeetCode",
-   "url": "https://leetcode.com/contest/biweekly-contest-194",
-   "kind": "대회일",
-   "date": "2026-10-24T14:30:00Z",
-   "start": "2026-10-24T14:30:00Z",
-   "end": "2026-10-24T16:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "1시간 30분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "ctf-3473",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "BSides Peoria CTF 2026",
-   "host": "BSides Peoria CTF Village",
-   "url": "https://ctftime.org/event/3473/",
-   "kind": "대회일",
-   "date": "2026-10-24T14:45:00Z",
-   "start": "2026-10-24T14:45:00Z",
-   "end": "2026-10-24T20:45:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "오프라인 · Peoria, Illinois, USA"
-    },
-    {
-     "label": "참가 자격",
-     "value": "Casual"
-    },
-    {
-     "label": "진행 시간",
-     "value": "6시간"
-    },
-    {
-     "label": "상금",
-     "value": "2x Black Badges to the conference."
-    }
-   ],
-   "summary": "This is the BSides Peoria CTF for 2026! It is our inaugural CTF, covering web, pwn, crypto, forensics, reversing, and fullpwn. It is held exclusively on site, at Bradley University, in Peoria, IL. A conference attendee pass is needed, and can be purchased at https://bsidespeoria.com/tickets/. The maximum team size for this competition is 2. The AI policy is…",
-   "tag": "CTF"
-  },
   {
    "id": "lc-weekly-contest-525",
    "source": "LeetCode",
@@ -1842,6 +1773,43 @@
     }
    ],
    "summary": "The 2026 Qiangwang Challenge on Cyber Mimic Defense Qualification is the online qualifying round of the 9th Qiangwang International Elite Challenge on Cyber Mimic Defense. This team-based Jeopardy CTF features standard CTF challenges and selected challenges on endogenous security. Teams can register through the official event website. Eligible teams will be…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3491",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "HAM-DEFCON",
+   "host": "HAMARC",
+   "url": "https://ctftime.org/event/3491/",
+   "kind": "대회일",
+   "date": "2026-10-31T03:30:00Z",
+   "start": "2026-10-31T03:30:00Z",
+   "end": "2026-10-31T07:30:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Attack-Defense"
+    },
+    {
+     "label": "진행 방식",
+     "value": "오프라인 · National Institute Of Technology Warangal, Hanamkonda, Telangana, India, 505004"
+    },
+    {
+     "label": "참가 자격",
+     "value": "Casual"
+    },
+    {
+     "label": "진행 시간",
+     "value": "4시간"
+    },
+    {
+     "label": "상금",
+     "value": "Winners got prizes upto 10K+ INR along with claude and codex subscriptions."
+    }
+   ],
+   "summary": "HAM-DEFCON is a cybersecurity competition organized by HAM-ARC club of National Institute Of Technology Warangal Telangana, India. Event Details: Format: Attack & Defense Categories: Web Exploitation, Binary Exploitation (Pwn), Reverse Engineering, Cryptography, and Infrastructure Hardening. Team Size: 1–4 Members Categories: Web Security, Binary Exploitati…",
    "tag": "CTF"
   },
   {
@@ -4099,6 +4067,43 @@
     }
    ],
    "summary": "CSAW CTF is one of the oldest and biggest CTFs. Designed as an entry-level, jeopardy-style CTF, this competition is for students who are trying to break into the field of security, as well as for advanced students and industry professionals who want to practice their skills.",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3486",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "TVX CTF 2026",
+   "host": "Tech Visions",
+   "url": "https://ctftime.org/event/3486/",
+   "kind": "대회일",
+   "date": "2026-11-13T10:00:00Z",
+   "start": "2026-11-13T10:00:00Z",
+   "end": "2026-11-13T20:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "Casual"
+    },
+    {
+     "label": "진행 시간",
+     "value": "10시간"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "TVX CTF is a cybersecurity Capture The Flag competition organized by Tech Visions. Challenge categories include: • DFIR (Digital Forensics & Incident Response) • Cloud Security • Malware Analysis • Reverse Engineering • Pwn (Binary Exploitation) • Web Exploitation • Cryptography • OSINT (Open-Source Intelligence) Test your skills, solve real-world-inspired…",
    "tag": "CTF"
   },
   {
