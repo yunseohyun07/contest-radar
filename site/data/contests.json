@@ -1,188 +1,50 @@
 {
- "updatedAt": "2026-10-23T23:45:50Z",
+ "updatedAt": "2026-10-24T13:13:06Z",
  "sources": {
   "Codeforces": {
    "ok": true,
-   "count": 6,
-   "checkedAt": "2026-10-23T23:45:50Z",
-   "lastSuccess": "2026-10-23T23:45:50Z"
+   "count": 5,
+   "checkedAt": "2026-10-24T13:13:06Z",
+   "lastSuccess": "2026-10-24T13:13:06Z"
   },
   "AtCoder": {
    "ok": true,
-   "count": 7,
-   "checkedAt": "2026-10-23T23:45:50Z",
-   "lastSuccess": "2026-10-23T23:45:50Z"
+   "count": 6,
+   "checkedAt": "2026-10-24T13:13:06Z",
+   "lastSuccess": "2026-10-24T13:13:06Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-23T23:45:50Z",
-   "lastSuccess": "2026-10-23T23:45:50Z"
+   "checkedAt": "2026-10-24T13:13:06Z",
+   "lastSuccess": "2026-10-24T13:13:06Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 37,
-   "checkedAt": "2026-10-23T23:45:50Z",
-   "lastSuccess": "2026-10-23T23:45:50Z"
+   "count": 35,
+   "checkedAt": "2026-10-24T13:13:06Z",
+   "lastSuccess": "2026-10-24T13:13:06Z"
   },
   "링커리어": {
    "ok": true,
    "count": 103,
-   "checkedAt": "2026-10-23T23:45:50Z",
-   "lastSuccess": "2026-10-23T23:45:50Z"
+   "checkedAt": "2026-10-24T13:13:06Z",
+   "lastSuccess": "2026-10-24T13:13:06Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 29,
-   "checkedAt": "2026-10-23T23:45:50Z",
-   "lastSuccess": "2026-10-23T23:45:50Z"
+   "checkedAt": "2026-10-24T13:13:06Z",
+   "lastSuccess": "2026-10-24T13:13:06Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-23T23:45:50Z",
-   "lastSuccess": "2026-10-23T23:45:50Z"
+   "checkedAt": "2026-10-24T13:13:06Z",
+   "lastSuccess": "2026-10-24T13:13:06Z"
   }
  },
  "contests": [
-  {
-   "id": "ctf-3442",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "Cryovault 2026 Finals",
-   "host": "x6e.x65.x78.x75.x73",
-   "url": "https://ctftime.org/event/3442/",
-   "kind": "대회일",
-   "date": "2026-10-24T03:30:00Z",
-   "start": "2026-10-24T03:30:00Z",
-   "end": "2026-10-25T06:30:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "오프라인 · Bengaluru, India"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "진행 시간",
-     "value": "27시간"
-    },
-    {
-     "label": "상금",
-     "value": "1st Rs. 30,000 2nd Rs 20,000 3rd Rs 10,000 First consolation for the next 6 pla…"
-    }
-   ],
-   "summary": "Cryovault 2026 is the flagship annual Capture The Flag competition organized by the Information Security and Forensics Center for Research (ISFCR) at PES University, Bengaluru. Discord : https://discord.gg/yMFMXh3raE This year's edition is split into two rounds: Online Qualifier. A 24-hour jeopardy-style CTF open to teams around the world. Offline Finals. T…",
-   "tag": "CTF"
-  },
-  {
-   "id": "ctf-3094",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "H7CTF 2026 Finals",
-   "host": "H7Tex",
-   "url": "https://ctftime.org/event/3094/",
-   "kind": "대회일",
-   "date": "2026-10-24T06:30:00Z",
-   "start": "2026-10-24T06:30:00Z",
-   "end": "2026-10-25T06:30:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Attack-Defense"
-    },
-    {
-     "label": "진행 방식",
-     "value": "오프라인 · Chennai, Tamil Nadu"
-    },
-    {
-     "label": "참가 자격",
-     "value": "예선 통과팀"
-    },
-    {
-     "label": "진행 시간",
-     "value": "24시간"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "H7CTF v3 Finals: An onsite cyber-security challenge hosted at SRMIST, bringing together the top teams from a unified global qualification round. Teams will compete in a real-world attack-defense environment, testing their capabilities across offensive and defensive domains.",
-   "tag": "CTF"
-  },
-  {
-   "id": "cf-2277",
-   "source": "Codeforces",
-   "cat": "algo",
-   "title": "Codeforces Round 1129 (Div. 2)",
-   "host": "Codeforces",
-   "url": "https://codeforces.com/contests/2277",
-   "kind": "대회일",
-   "date": "2026-10-24T11:05:00Z",
-   "start": "2026-10-24T11:05:00Z",
-   "end": "2026-10-24T13:20:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "2시간 15분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나 (Div. 2)"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "atc-abc481",
-   "source": "AtCoder",
-   "cat": "algo",
-   "title": "SMBC Programming Contest #2 (AtCoder Beginner Contest 481）",
-   "host": "AtCoder",
-   "url": "https://atcoder.jp/contests/abc481",
-   "kind": "대회일",
-   "date": "2026-10-24T12:00:00Z",
-   "start": "2026-10-24T12:00:00Z",
-   "end": "2026-10-24T13:40:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "1시간 40분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "레이팅 범위",
-     "value": "- 1999"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
   {
    "id": "lc-biweekly-contest-194",
    "source": "LeetCode",
