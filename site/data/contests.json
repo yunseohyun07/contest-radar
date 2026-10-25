@@ -1,114 +1,50 @@
 {
- "updatedAt": "2026-10-24T22:55:31Z",
+ "updatedAt": "2026-10-25T13:38:52Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-10-24T22:55:31Z",
-   "lastSuccess": "2026-10-24T22:55:31Z"
+   "checkedAt": "2026-10-25T13:38:52Z",
+   "lastSuccess": "2026-10-25T13:38:52Z"
   },
   "AtCoder": {
    "ok": true,
-   "count": 6,
-   "checkedAt": "2026-10-24T22:55:31Z",
-   "lastSuccess": "2026-10-24T22:55:31Z"
+   "count": 5,
+   "checkedAt": "2026-10-25T13:38:52Z",
+   "lastSuccess": "2026-10-25T13:38:52Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-10-24T22:55:31Z",
-   "lastSuccess": "2026-10-24T22:55:31Z"
+   "checkedAt": "2026-10-25T13:38:52Z",
+   "lastSuccess": "2026-10-25T13:38:52Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 36,
-   "checkedAt": "2026-10-24T22:55:31Z",
-   "lastSuccess": "2026-10-24T22:55:31Z"
+   "count": 38,
+   "checkedAt": "2026-10-25T13:38:52Z",
+   "lastSuccess": "2026-10-25T13:38:52Z"
   },
   "링커리어": {
    "ok": true,
    "count": 103,
-   "checkedAt": "2026-10-24T22:55:31Z",
-   "lastSuccess": "2026-10-24T22:55:31Z"
+   "checkedAt": "2026-10-25T13:38:52Z",
+   "lastSuccess": "2026-10-25T13:38:52Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 29,
-   "checkedAt": "2026-10-24T22:55:31Z",
-   "lastSuccess": "2026-10-24T22:55:31Z"
+   "checkedAt": "2026-10-25T13:38:52Z",
+   "lastSuccess": "2026-10-25T13:38:52Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-24T22:55:31Z",
-   "lastSuccess": "2026-10-24T22:55:31Z"
+   "checkedAt": "2026-10-25T13:38:52Z",
+   "lastSuccess": "2026-10-25T13:38:52Z"
   }
  },
  "contests": [
-  {
-   "id": "lc-weekly-contest-525",
-   "source": "LeetCode",
-   "cat": "algo",
-   "title": "LeetCode Weekly Contest 525",
-   "host": "LeetCode",
-   "url": "https://leetcode.com/contest/weekly-contest-525",
-   "kind": "대회일",
-   "date": "2026-10-25T02:30:00Z",
-   "start": "2026-10-25T02:30:00Z",
-   "end": "2026-10-25T04:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "1시간 30분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "atc-arc233",
-   "source": "AtCoder",
-   "cat": "algo",
-   "title": "AtCoder Regular Contest++ 233",
-   "host": "AtCoder",
-   "url": "https://atcoder.jp/contests/arc233",
-   "kind": "대회일",
-   "date": "2026-10-25T12:00:00Z",
-   "start": "2026-10-25T12:00:00Z",
-   "end": "2026-10-25T14:30:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "2시간 30분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "레이팅 범위",
-     "value": "1600 - 2999"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
   {
    "id": "ck-202610110007",
    "source": "콘테스트코리아",
@@ -2555,6 +2491,38 @@
    ],
    "summary": "",
    "tag": null
+  },
+  {
+   "id": "lc-weekly-contest-526",
+   "source": "LeetCode",
+   "cat": "algo",
+   "title": "LeetCode Weekly Contest 526",
+   "host": "LeetCode",
+   "url": "https://leetcode.com/contest/weekly-contest-526",
+   "kind": "대회일",
+   "date": "2026-11-01T02:30:00Z",
+   "start": "2026-11-01T02:30:00Z",
+   "end": "2026-11-01T04:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "1시간 30분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
   },
   {
    "id": "lk-356021",
@@ -5163,6 +5131,43 @@
    "tag": "CTF"
   },
   {
+   "id": "ctf-3489",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "CyberNSK2027-Qualifier",
+   "host": "siberiansecurityleague",
+   "url": "https://ctftime.org/event/3489/",
+   "kind": "대회일",
+   "date": "2026-11-28T09:00:00Z",
+   "start": "2026-11-28T09:00:00Z",
+   "end": "2026-11-28T21:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "학생"
+    },
+    {
+     "label": "진행 시간",
+     "value": "12시간"
+    },
+    {
+     "label": "상금",
+     "value": "Top teams from the qualifiers will be invited to the on-site Attack-Defense fin…"
+    }
+   ],
+   "summary": "CyberNSK 2027 is one of the largest cybersecurity competitions in Siberia, organized by Siberian Security League in collaboration with Novosibirsk State Technical University (NSTU NETI), Department of Information Security. The online qualification round is a 12-hour Jeopardy-style CTF. Teams of up to 5 participants (school and university students) compete b…",
+   "tag": "CTF"
+  },
+  {
    "id": "lk-314144",
    "source": "링커리어",
    "cat": "contest",
@@ -5635,6 +5640,47 @@
      "end": "2027-01-11T14:59:59Z"
     }
    ]
+  },
+  {
+   "id": "ctf-3492",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "GaianSpace Perihelion CTF 2027",
+   "host": "GaianSpace",
+   "url": "https://ctftime.org/event/3492/",
+   "kind": "대회일",
+   "date": "2027-01-02T18:00:00Z",
+   "start": "2027-01-02T18:00:00Z",
+   "end": "2027-01-03T18:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": "The top three teams and the best write-up will receive the following prizes: 1s…"
+    },
+    {
+     "label": "CTFtime 가중치",
+     "value": "25"
+    }
+   ],
+   "summary": "GaianSpace CTF, hosted by GaianSpace! Challenges to secure ground and space systems through Web, Pwn, Forensics, Reverse, Network, Crypto and more. Varied difficulties ensure fun for all skill levels. Hack the cosmos with us! Location: Online Event format: Jeopardy Event start datetime: 2027.01.02 6:00pm (UTC) Event finish datetime: 2027.01.03 6:00pm (UTC)…",
+   "tag": "CTF"
   },
   {
    "id": "lk-355997",
