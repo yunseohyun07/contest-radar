@@ -7,14 +7,16 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:lk-359305@contest-radar
-DTSTAMP:20261025T230213Z
+UID:ck-202610230061@contest-radar
+DTSTAMP:20261026T160119Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:[접수 마감] 2026 청도 바이브코딩 해커톤 with 해커
  그라운드
-URL:https://linkareer.com/activity/359305
-DESCRIPTION:해커그라운드\nhttps://linkareer.com/activity/359305
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202610230061
+DESCRIPTION:해커그라운드\nhttps://www.contestkorea.com/sub/view.php
+ ?int_gbn=1&Txt_bcode=030310001&str_no=202610230061
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D

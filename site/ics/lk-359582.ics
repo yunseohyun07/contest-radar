@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:[튜토리얼 100% 제공] 2027 상반기취업! 비전공
+ 자도 완성하는 AI 헬스케어 해커톤
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-359582@contest-radar
+DTSTAMP:20261026T160119Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:[접수 마감] [튜토리얼 100% 제공] 2027 상반기취업! 
+ 비전공자도 완성하는 AI 헬스케어 해커톤
+URL:https://linkareer.com/activity/359582
+DESCRIPTION:넥스트러너스\nhttps://linkareer.com/activity/359582
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: [튜토리얼 100% 제공] 2027 상반기취업! 
+ 비전공자도 완성하는 AI 헬스케어 해커톤
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: [튜토리얼 100% 제공] 2027 상반기취업! 
+ 비전공자도 완성하는 AI 헬스케어 해커톤
+END:VALARM
+END:VEVENT
+END:VCALENDAR
