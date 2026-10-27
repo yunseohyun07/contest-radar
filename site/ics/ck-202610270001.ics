@@ -8,15 +8,17 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:lk-358856@contest-radar
-DTSTAMP:20261027T001450Z
+UID:ck-202610270001@contest-radar
+DTSTAMP:20261027T151519Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:[접수 마감] 2026 사회보장 데이터를 활용한 AI 혁
  신 아이디어 경진대회
-URL:https://linkareer.com/activity/358856
-DESCRIPTION:한국사회보장정보원\, 대구가톨릭대학교\nhttps
- ://linkareer.com/activity/358856
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202610270001
+DESCRIPTION:대구가톨릭대학교\, 한국사회보장정보원\nhttps
+ ://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no
+ =202610270001
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D

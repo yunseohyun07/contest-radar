@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:유스업(Youth UP!) 제1회 SDGs 실천 아이디어·숏
+ 츠 공모전[AI활용가능\,마감1주일연기]
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-347984@contest-radar
+DTSTAMP:20261027T151519Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:[접수 마감] 유스업(Youth UP!) 제1회 SDGs 실천 아이
+ 디어·숏츠 공모전[AI활용가능\,마감1주일연기]
+URL:https://linkareer.com/activity/347984
+DESCRIPTION:사단법인 무궁화복지월드\nhttps://linkareer.com/act
+ ivity/347984
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: 유스업(Youth UP!) 제1회 SDGs 실천 아이디
+ 어·숏츠 공모전[AI활용가능\,마감1주일연기]
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: 유스업(Youth UP!) 제1회 SDGs 실천 아이
+ 디어·숏츠 공모전[AI활용가능\,마감1주일연기]
+END:VALARM
+END:VEVENT
+END:VCALENDAR

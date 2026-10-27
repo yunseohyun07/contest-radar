@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:[선착순 30명 | 참가비 무료] “AI로 아이디어
+ 를 글로벌 비즈니스로!” KU 캠퍼스타운 AI 글로벌 해커
+ 톤
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:ck-202610260037@contest-radar
+DTSTAMP:20261027T151519Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[접수 마감] [선착순 30명 | 참가비 무료] “AI로 아
+ 이디어를 글로벌 비즈니스로!” KU 캠퍼스타운 AI 글로
+ 벌 해커톤
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202610260037
+DESCRIPTION:건국대학교\nhttps://www.contestkorea.com/sub/view.php?in
+ t_gbn=1&Txt_bcode=030310001&str_no=202610260037
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: [선착순 30명 | 참가비 무료] “AI로 아
+ 이디어를 글로벌 비즈니스로!” KU 캠퍼스타운 AI 글로
+ 벌 해커톤
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: [선착순 30명 | 참가비 무료] “AI로 아
+ 이디어를 글로벌 비즈니스로!” KU 캠퍼스타운 AI 글로
+ 벌 해커톤
+END:VALARM
+END:VEVENT
+END:VCALENDAR
