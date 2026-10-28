@@ -1,137 +1,50 @@
 {
- "updatedAt": "2026-10-28T00:16:23Z",
+ "updatedAt": "2026-10-28T15:52:07Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 8,
-   "checkedAt": "2026-10-28T00:16:23Z",
-   "lastSuccess": "2026-10-28T00:16:23Z"
+   "checkedAt": "2026-10-28T15:52:07Z",
+   "lastSuccess": "2026-10-28T15:52:07Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-10-28T00:16:23Z",
-   "lastSuccess": "2026-10-28T00:16:23Z"
+   "checkedAt": "2026-10-28T15:52:07Z",
+   "lastSuccess": "2026-10-28T15:52:07Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-10-28T00:16:23Z",
-   "lastSuccess": "2026-10-28T00:16:23Z"
+   "checkedAt": "2026-10-28T15:52:07Z",
+   "lastSuccess": "2026-10-28T15:52:07Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 37,
-   "checkedAt": "2026-10-28T00:16:23Z",
-   "lastSuccess": "2026-10-28T00:16:23Z"
+   "checkedAt": "2026-10-28T15:52:07Z",
+   "lastSuccess": "2026-10-28T15:52:07Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 107,
-   "checkedAt": "2026-10-28T00:16:23Z",
-   "lastSuccess": "2026-10-28T00:16:23Z"
+   "count": 109,
+   "checkedAt": "2026-10-28T15:52:07Z",
+   "lastSuccess": "2026-10-28T15:52:07Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 31,
-   "checkedAt": "2026-10-28T00:16:23Z",
-   "lastSuccess": "2026-10-28T00:16:23Z"
+   "checkedAt": "2026-10-28T15:52:07Z",
+   "lastSuccess": "2026-10-28T15:52:07Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-28T00:16:23Z",
-   "lastSuccess": "2026-10-28T00:16:23Z"
+   "checkedAt": "2026-10-28T15:52:07Z",
+   "lastSuccess": "2026-10-28T15:52:07Z"
   }
  },
  "contests": [
-  {
-   "id": "lk-358224",
-   "source": "링커리어",
-   "cat": "hack",
-   "title": "2026 크라우드 소싱 데이터 활용 해커톤 (드론 데이터 변화탐지·3D 모델링)",
-   "host": "연세대학교 산학협력단",
-   "url": "https://linkareer.com/activity/358224",
-   "kind": "접수 마감",
-   "date": "2026-10-28T14:59:59Z",
-   "start": null,
-   "end": "2026-10-28T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-358737",
-   "source": "링커리어",
-   "cat": "hack",
-   "title": "OPEN HARBOR 2026 | 글로벌 창업 AI 해커톤",
-   "host": "글로컬대학30",
-   "url": "https://linkareer.com/activity/358737",
-   "kind": "접수 마감",
-   "date": "2026-10-28T14:59:59Z",
-   "start": null,
-   "end": "2026-10-28T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-358255",
-   "source": "링커리어",
-   "cat": "hack",
-   "title": "[인천테크노파크] 2026 인천 가상융합산업 모의 해커톤 참여자 모집",
-   "host": "인천테크노파크",
-   "url": "https://linkareer.com/activity/358255",
-   "kind": "접수 마감",
-   "date": "2026-10-28T14:59:59Z",
-   "start": null,
-   "end": "2026-10-28T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "ctf-3444",
    "source": "CTFtime",
@@ -180,35 +93,6 @@
    "title": "2026 AI 신(新) 과거제 온라인 예선(초시) 모집 안내",
    "host": "(주)엘비즈코리아",
    "url": "https://linkareer.com/activity/357885",
-   "kind": "접수 마감",
-   "date": "2026-10-29T14:59:59Z",
-   "start": null,
-   "end": "2026-10-29T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-357812",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026 제 2회 데이터로 미래를 그리는 AI 아이디어 공모전",
-   "host": "한국능률협회 / AI캠퍼스",
-   "url": "https://linkareer.com/activity/357812",
    "kind": "접수 마감",
    "date": "2026-10-29T14:59:59Z",
    "start": null,
@@ -1122,6 +1006,35 @@
      "end": "2026-11-02T14:59:59Z"
     }
    ]
+  },
+  {
+   "id": "lk-358224",
+   "source": "링커리어",
+   "cat": "hack",
+   "title": "[접수 기간 연장] 2026 크라우드 소싱 데이터 활용 해커톤 (드론 데이터 변화탐지·3D 모델링)",
+   "host": "연세대학교 산학협력단",
+   "url": "https://linkareer.com/activity/358224",
+   "kind": "접수 마감",
+   "date": "2026-10-30T14:59:59Z",
+   "start": null,
+   "end": "2026-10-30T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "lk-338313",
@@ -3664,6 +3577,35 @@
    "tag": "AI"
   },
   {
+   "id": "lk-360379",
+   "source": "링커리어",
+   "cat": "hack",
+   "title": "[총상금 1,500만 원] 2026 AI 활용 전국 대학생 창업 해커톤 대회 참가자 모집",
+   "host": "터그",
+   "url": "https://linkareer.com/activity/360379",
+   "kind": "접수 마감",
+   "date": "2026-11-11T14:59:59Z",
+   "start": null,
+   "end": "2026-11-11T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "lk-351840",
    "source": "링커리어",
    "cat": "contest",
@@ -4179,6 +4121,35 @@
     }
    ],
    "summary": ""
+  },
+  {
+   "id": "lk-360309",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "2026 대구 대학(원) AI 드래프톤",
+   "host": "대구테크노파크",
+   "url": "https://linkareer.com/activity/360309",
+   "kind": "접수 마감",
+   "date": "2026-11-15T14:59:59Z",
+   "start": null,
+   "end": "2026-11-15T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "lk-359362",
@@ -5549,6 +5520,35 @@
    "tag": "CTF"
   },
   {
+   "id": "lk-360286",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "춘천MBC AI영상 공모전",
+   "host": "춘천MBC",
+   "url": "https://linkareer.com/activity/360286",
+   "kind": "접수 마감",
+   "date": "2026-12-10T14:59:59Z",
+   "start": null,
+   "end": "2026-12-10T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "ctf-3367",
    "source": "CTFtime",
    "cat": "ai",
@@ -5588,6 +5588,35 @@
    ],
    "summary": "niteCTF, hosted by Cryptonite, is designed to help students explore new & diverse areas of cybersecurity while providing a platform for experienced players to sharpen their skills. The CTF features a wide range of challenges spanning multiple domains including Hardware Security, Cryptography, Web Exploitation, Digital Forensics, Binary Exploitation, Reverse…",
    "tag": "CTF"
+  },
+  {
+   "id": "lk-360253",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "VIVID RE: PLAY - 총상금 2천만원 AI 영상 창작 공모전",
+   "host": "ARKAIN",
+   "url": "https://linkareer.com/activity/360253",
+   "kind": "접수 마감",
+   "date": "2026-12-13T14:59:59Z",
+   "start": null,
+   "end": "2026-12-13T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "ctf-3475",

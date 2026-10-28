@@ -2,32 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//contest-radar//KO
 CALSCALE:GREGORIAN
-X-WR-CALNAME:2026 크라우드 소싱 데이터 활용 해커톤 (드론 
- 데이터 변화탐지·3D 모델링)
+X-WR-CALNAME:[접수 기간 연장] 2026 크라우드 소싱 데이터 
+ 활용 해커톤 (드론 데이터 변화탐지·3D 모델링)
 X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:lk-358224@contest-radar
-DTSTAMP:20261028T001623Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:[접수 마감] 2026 크라우드 소싱 데이터 활용 해커
- 톤 (드론 데이터 변화탐지·3D 모델링)
+DTSTAMP:20261028T155207Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[접수 마감] [접수 기간 연장] 2026 크라우드 소싱 
+ 데이터 활용 해커톤 (드론 데이터 변화탐지·3D 모델링)
 URL:https://linkareer.com/activity/358224
 DESCRIPTION:연세대학교 산학협력단\nhttps://linkareer.com/activi
  ty/358224
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D
-DESCRIPTION:3일 전: 2026 크라우드 소싱 데이터 활용 해커톤
-  (드론 데이터 변화탐지·3D 모델링)
+DESCRIPTION:3일 전: [접수 기간 연장] 2026 크라우드 소싱 데
+ 이터 활용 해커톤 (드론 데이터 변화탐지·3D 모델링)
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:하루 전: 2026 크라우드 소싱 데이터 활용 해커
- 톤 (드론 데이터 변화탐지·3D 모델링)
+DESCRIPTION:하루 전: [접수 기간 연장] 2026 크라우드 소싱 
+ 데이터 활용 해커톤 (드론 데이터 변화탐지·3D 모델링)
 END:VALARM
 END:VEVENT
 END:VCALENDAR
