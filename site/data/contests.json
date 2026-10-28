@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-10-27T15:15:19Z",
+ "updatedAt": "2026-10-28T00:16:23Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 8,
-   "checkedAt": "2026-10-27T15:15:19Z",
-   "lastSuccess": "2026-10-27T15:15:19Z"
+   "checkedAt": "2026-10-28T00:16:23Z",
+   "lastSuccess": "2026-10-28T00:16:23Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-10-27T15:15:19Z",
-   "lastSuccess": "2026-10-27T15:15:19Z"
+   "checkedAt": "2026-10-28T00:16:23Z",
+   "lastSuccess": "2026-10-28T00:16:23Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-10-27T15:15:19Z",
-   "lastSuccess": "2026-10-27T15:15:19Z"
+   "checkedAt": "2026-10-28T00:16:23Z",
+   "lastSuccess": "2026-10-28T00:16:23Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 37,
-   "checkedAt": "2026-10-27T15:15:19Z",
-   "lastSuccess": "2026-10-27T15:15:19Z"
+   "checkedAt": "2026-10-28T00:16:23Z",
+   "lastSuccess": "2026-10-28T00:16:23Z"
   },
   "링커리어": {
    "ok": true,
    "count": 107,
-   "checkedAt": "2026-10-27T15:15:19Z",
-   "lastSuccess": "2026-10-27T15:15:19Z"
+   "checkedAt": "2026-10-28T00:16:23Z",
+   "lastSuccess": "2026-10-28T00:16:23Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 31,
-   "checkedAt": "2026-10-27T15:15:19Z",
-   "lastSuccess": "2026-10-27T15:15:19Z"
+   "checkedAt": "2026-10-28T00:16:23Z",
+   "lastSuccess": "2026-10-28T00:16:23Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-27T15:15:19Z",
-   "lastSuccess": "2026-10-27T15:15:19Z"
+   "checkedAt": "2026-10-28T00:16:23Z",
+   "lastSuccess": "2026-10-28T00:16:23Z"
   }
  },
  "contests": [
@@ -2519,7 +2519,7 @@
    "source": "링커리어",
    "cat": "contest",
    "title": "LOTTE AX CHALLENGE 2026",
-   "host": "(주)엔에이치알",
+   "host": "롯데지주",
    "url": "https://linkareer.com/activity/360080",
    "kind": "접수 마감",
    "date": "2026-11-04T14:59:59Z",
@@ -2745,7 +2745,7 @@
     },
     {
      "label": "상금",
-     "value": "TBD Estimated 1100$ worth of prizes (including license prizes)"
+     "value": "1st Place: 25$ + 6 Month Caido License per Member (Worth ~$545) + 4 .xyz Domain…"
     }
    ],
    "summary": "The first iteration of PINK+ CTF. Explore a variety of hand crafted challenges with a focus on steganography! Discord: https://discord.gg/VuPqnhFxH4",
