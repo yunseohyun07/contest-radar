@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-10-28T15:52:07Z",
+ "updatedAt": "2026-10-29T00:37:45Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 8,
-   "checkedAt": "2026-10-28T15:52:07Z",
-   "lastSuccess": "2026-10-28T15:52:07Z"
+   "checkedAt": "2026-10-29T00:37:45Z",
+   "lastSuccess": "2026-10-29T00:37:45Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-10-28T15:52:07Z",
-   "lastSuccess": "2026-10-28T15:52:07Z"
+   "checkedAt": "2026-10-29T00:37:45Z",
+   "lastSuccess": "2026-10-29T00:37:45Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-10-28T15:52:07Z",
-   "lastSuccess": "2026-10-28T15:52:07Z"
+   "checkedAt": "2026-10-29T00:37:45Z",
+   "lastSuccess": "2026-10-29T00:37:45Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 37,
-   "checkedAt": "2026-10-28T15:52:07Z",
-   "lastSuccess": "2026-10-28T15:52:07Z"
+   "checkedAt": "2026-10-29T00:37:45Z",
+   "lastSuccess": "2026-10-29T00:37:45Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 109,
-   "checkedAt": "2026-10-28T15:52:07Z",
-   "lastSuccess": "2026-10-28T15:52:07Z"
+   "count": 112,
+   "checkedAt": "2026-10-29T00:37:45Z",
+   "lastSuccess": "2026-10-29T00:37:45Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 31,
-   "checkedAt": "2026-10-28T15:52:07Z",
-   "lastSuccess": "2026-10-28T15:52:07Z"
+   "checkedAt": "2026-10-29T00:37:45Z",
+   "lastSuccess": "2026-10-29T00:37:45Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-28T15:52:07Z",
-   "lastSuccess": "2026-10-28T15:52:07Z"
+   "checkedAt": "2026-10-29T00:37:45Z",
+   "lastSuccess": "2026-10-29T00:37:45Z"
   }
  },
  "contests": [
@@ -4018,7 +4018,7 @@
      "value": "원문 확인"
     }
    ],
-   "summary": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Spon…",
+   "summary": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Than…",
    "tag": "CTF"
   },
   {
@@ -4158,6 +4158,35 @@
    "title": "완주군 피지컬AI 실증단지 명칭 공모전",
    "host": "완주군",
    "url": "https://linkareer.com/activity/359362",
+   "kind": "접수 마감",
+   "date": "2026-11-15T14:59:59Z",
+   "start": null,
+   "end": "2026-11-15T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-360517",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "한국해외인프라도시개발지원공사(KIND) 뉴 슬로건 공모전",
+   "host": "한국해외인프라도시개발지원공사(KIND)",
+   "url": "https://linkareer.com/activity/360517",
    "kind": "접수 마감",
    "date": "2026-11-15T14:59:59Z",
    "start": null,
@@ -4937,6 +4966,35 @@
    "title": "나무엑스 AI 숏폼 공모전",
    "host": "SK인텔릭스(주)",
    "url": "https://linkareer.com/activity/358366",
+   "kind": "접수 마감",
+   "date": "2026-11-22T14:59:59Z",
+   "start": null,
+   "end": "2026-11-22T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-360524",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "하나은행 『하나원픽 CUP AI 게임창작대회』",
+   "host": "(주)하나은행",
+   "url": "https://linkareer.com/activity/360524",
    "kind": "접수 마감",
    "date": "2026-11-22T14:59:59Z",
    "start": null,
