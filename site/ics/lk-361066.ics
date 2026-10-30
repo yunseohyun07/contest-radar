@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:국가무형유산 상설공연 창작 콘텐츠 개발을 
+ 위한 대국민 아이디어 발굴대회
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-361066@contest-radar
+DTSTAMP:20261030T154502Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:[접수 마감] 국가무형유산 상설공연 창작 콘텐츠 
+ 개발을 위한 대국민 아이디어 발굴대회
+URL:https://linkareer.com/activity/361066
+DESCRIPTION:국가유산청\nhttps://linkareer.com/activity/361066
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: 국가무형유산 상설공연 창작 콘텐츠 
+ 개발을 위한 대국민 아이디어 발굴대회
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: 국가무형유산 상설공연 창작 콘텐츠 
+ 개발을 위한 대국민 아이디어 발굴대회
+END:VALARM
+END:VEVENT
+END:VCALENDAR
