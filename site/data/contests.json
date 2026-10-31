@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-10-30T15:45:02Z",
+ "updatedAt": "2026-10-31T00:26:22Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-30T15:45:02Z",
-   "lastSuccess": "2026-10-30T15:45:02Z"
+   "checkedAt": "2026-10-31T00:26:22Z",
+   "lastSuccess": "2026-10-31T00:26:22Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-10-30T15:45:02Z",
-   "lastSuccess": "2026-10-30T15:45:02Z"
+   "checkedAt": "2026-10-31T00:26:22Z",
+   "lastSuccess": "2026-10-31T00:26:22Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-10-30T15:45:02Z",
-   "lastSuccess": "2026-10-30T15:45:02Z"
+   "checkedAt": "2026-10-31T00:26:22Z",
+   "lastSuccess": "2026-10-31T00:26:22Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 32,
-   "checkedAt": "2026-10-30T15:45:02Z",
-   "lastSuccess": "2026-10-30T15:45:02Z"
+   "checkedAt": "2026-10-31T00:26:22Z",
+   "lastSuccess": "2026-10-31T00:26:22Z"
   },
   "링커리어": {
    "ok": true,
    "count": 97,
-   "checkedAt": "2026-10-30T15:45:02Z",
-   "lastSuccess": "2026-10-30T15:45:02Z"
+   "checkedAt": "2026-10-31T00:26:22Z",
+   "lastSuccess": "2026-10-31T00:26:22Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 24,
-   "checkedAt": "2026-10-30T15:45:02Z",
-   "lastSuccess": "2026-10-30T15:45:02Z"
+   "checkedAt": "2026-10-31T00:26:22Z",
+   "lastSuccess": "2026-10-31T00:26:22Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-30T15:45:02Z",
-   "lastSuccess": "2026-10-30T15:45:02Z"
+   "checkedAt": "2026-10-31T00:26:22Z",
+   "lastSuccess": "2026-10-31T00:26:22Z"
   }
  },
  "contests": [
@@ -1889,10 +1889,10 @@
     },
     {
      "label": "상금",
-     "value": "원문 확인"
+     "value": "Open Division: (Online + In-person) 1st - 100$ 2nd - 50$ 3rd - 25$ In-Person: 1…"
     }
    ],
-   "summary": "EVENT TIME HAS BEEN SHIFTED TO START AND END 4 HOURS AFTER TIME LISTED ABOVE REGISTRATION IS NOW AVAILABLE! BOO!! Welcome to SpookyCTF 2026! Organized by the New Jersey Institute of Technology's Cyber Security Network (formerly known as NICC), this is our annual Halloween CTF event, open to all! We've made this CTF beginner-friendly, with a mix of harder ch…",
+   "summary": "EVENT TIME HAS BEEN SHIFTED TO START AND END 2 HOURS AFTER TIME LISTED ABOVE REGISTRATION IS NOW AVAILABLE! BOO!! Welcome to SpookyCTF 2026! Organized by the New Jersey Institute of Technology's Cyber Security Network (formerly known as NICC), this is our annual Halloween CTF event, open to all! We've made this CTF beginner-friendly, with a mix of harder ch…",
    "tag": "CTF"
   },
   {
