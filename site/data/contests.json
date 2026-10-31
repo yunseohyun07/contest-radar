@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-10-31T15:13:18Z",
+ "updatedAt": "2026-10-31T23:57:18Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-10-31T15:13:18Z",
-   "lastSuccess": "2026-10-31T15:13:18Z"
+   "checkedAt": "2026-10-31T23:57:18Z",
+   "lastSuccess": "2026-10-31T23:57:18Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-10-31T15:13:18Z",
-   "lastSuccess": "2026-10-31T15:13:18Z"
+   "checkedAt": "2026-10-31T23:57:18Z",
+   "lastSuccess": "2026-10-31T23:57:18Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-10-31T15:13:18Z",
-   "lastSuccess": "2026-10-31T15:13:18Z"
+   "checkedAt": "2026-10-31T23:57:18Z",
+   "lastSuccess": "2026-10-31T23:57:18Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 28,
-   "checkedAt": "2026-10-31T15:13:18Z",
-   "lastSuccess": "2026-10-31T15:13:18Z"
+   "checkedAt": "2026-10-31T23:57:18Z",
+   "lastSuccess": "2026-10-31T23:57:18Z"
   },
   "링커리어": {
    "ok": true,
    "count": 80,
-   "checkedAt": "2026-10-31T15:13:18Z",
-   "lastSuccess": "2026-10-31T15:13:18Z"
+   "checkedAt": "2026-10-31T23:57:18Z",
+   "lastSuccess": "2026-10-31T23:57:18Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 19,
-   "checkedAt": "2026-10-31T15:13:18Z",
-   "lastSuccess": "2026-10-31T15:13:18Z"
+   "checkedAt": "2026-10-31T23:57:18Z",
+   "lastSuccess": "2026-10-31T23:57:18Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-10-31T15:13:18Z",
-   "lastSuccess": "2026-10-31T15:13:18Z"
+   "checkedAt": "2026-10-31T23:57:18Z",
+   "lastSuccess": "2026-10-31T23:57:18Z"
   }
  },
  "contests": [
@@ -2683,38 +2683,6 @@
    "tag": "CTF"
   },
   {
-   "id": "cf-2286",
-   "source": "Codeforces",
-   "cat": "algo",
-   "title": "Kotlin Heroes: Practice 15",
-   "host": "Codeforces",
-   "url": "https://codeforces.com/contests/2286",
-   "kind": "대회일",
-   "date": "2026-11-20T14:30:00Z",
-   "start": "2026-11-20T14:30:00Z",
-   "end": "2026-11-27T14:30:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "7일"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
    "id": "ck-202610120053",
    "source": "콘테스트코리아",
    "cat": "contest",
@@ -3423,38 +3391,6 @@
    "tag": null
   },
   {
-   "id": "cf-2282",
-   "source": "Codeforces",
-   "cat": "algo",
-   "title": "Kotlin Heroes: Episode 15",
-   "host": "Codeforces",
-   "url": "https://codeforces.com/contests/2282",
-   "kind": "대회일",
-   "date": "2026-11-27T14:35:00Z",
-   "start": "2026-11-27T14:35:00Z",
-   "end": "2026-11-27T17:05:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "2시간 30분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
    "id": "lk-359156",
    "source": "링커리어",
    "cat": "contest",
@@ -3514,14 +3450,14 @@
     },
     {
      "label": "상금",
-     "value": "Academic bracket Top 10 academic: invited to LakeCTF finals with lodging paid P…"
+     "value": "Academic bracket Top 10 academic: invited to LakeCTF finals with lodging paid n…"
     },
     {
      "label": "CTFtime 가중치",
      "value": "45.76"
     }
    ],
-   "summary": "Qualifications for fifth edition of LakeCTF",
+   "summary": "Qualifications for fifth edition of LakeCTF old discord server here for discussion: https://discord.gg/8FHmzT5aGM new discord server in your invite email",
    "tag": "CTF"
   },
   {
@@ -3773,6 +3709,38 @@
    "tag": null
   },
   {
+   "id": "cf-2286",
+   "source": "Codeforces",
+   "cat": "algo",
+   "title": "Kotlin Heroes: Practice 15",
+   "host": "Codeforces",
+   "url": "https://codeforces.com/contests/2286",
+   "kind": "대회일",
+   "date": "2026-12-01T14:30:00Z",
+   "start": "2026-12-01T14:30:00Z",
+   "end": "2026-12-08T14:30:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "7일"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
+  },
+  {
    "id": "ctf-3386",
    "source": "CTFtime",
    "cat": "ai",
@@ -3886,6 +3854,38 @@
    ],
    "summary": "Team bi0s invites you to our prestigious bi0sCTF 2026, a premier hacking event designed for hackers of all generations. We are dedicated to crafting challenges that incorporate the latest vulnerabilities, responsibly pushing the boundaries of innovation to ensure a delightful and enriching experience for all participants. Stay tuned for official updates by…",
    "tag": "CTF"
+  },
+  {
+   "id": "cf-2282",
+   "source": "Codeforces",
+   "cat": "algo",
+   "title": "Kotlin Heroes: Episode 15",
+   "host": "Codeforces",
+   "url": "https://codeforces.com/contests/2282",
+   "kind": "대회일",
+   "date": "2026-12-08T14:35:00Z",
+   "start": "2026-12-08T14:35:00Z",
+   "end": "2026-12-08T17:05:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "2시간 30분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
   },
   {
    "id": "lk-360286",
