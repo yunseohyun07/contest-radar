@@ -8,16 +8,15 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:ck-202610270002@contest-radar
-DTSTAMP:20261031T002622Z
+UID:lk-359841@contest-radar
+DTSTAMP:20261031T151318Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:[접수 마감] [한국프로세스혁신협회] 2026 AI 서비
  스 기획 공모전
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
- 01&str_no=202610270002
-DESCRIPTION:한국프로세스혁신협회\nhttps://www.contestkorea.com/
- sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610270002
+URL:https://linkareer.com/activity/359841
+DESCRIPTION:한국프로세스혁신협회\nhttps://linkareer.com/activit
+ y/359841
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D
