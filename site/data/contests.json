@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-11-01T15:55:22Z",
+ "updatedAt": "2026-11-02T00:18:56Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-11-01T15:55:22Z",
-   "lastSuccess": "2026-11-01T15:55:22Z"
+   "checkedAt": "2026-11-02T00:18:56Z",
+   "lastSuccess": "2026-11-02T00:18:56Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-11-01T15:55:22Z",
-   "lastSuccess": "2026-11-01T15:55:22Z"
+   "checkedAt": "2026-11-02T00:18:56Z",
+   "lastSuccess": "2026-11-02T00:18:56Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-11-01T15:55:22Z",
-   "lastSuccess": "2026-11-01T15:55:22Z"
+   "checkedAt": "2026-11-02T00:18:56Z",
+   "lastSuccess": "2026-11-02T00:18:56Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 28,
-   "checkedAt": "2026-11-01T15:55:22Z",
-   "lastSuccess": "2026-11-01T15:55:22Z"
+   "checkedAt": "2026-11-02T00:18:56Z",
+   "lastSuccess": "2026-11-02T00:18:56Z"
   },
   "링커리어": {
    "ok": true,
    "count": 76,
-   "checkedAt": "2026-11-01T15:55:22Z",
-   "lastSuccess": "2026-11-01T15:55:22Z"
+   "checkedAt": "2026-11-02T00:18:56Z",
+   "lastSuccess": "2026-11-02T00:18:56Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 17,
-   "checkedAt": "2026-11-01T15:55:22Z",
-   "lastSuccess": "2026-11-01T15:55:22Z"
+   "checkedAt": "2026-11-02T00:18:56Z",
+   "lastSuccess": "2026-11-02T00:18:56Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-01T15:55:22Z",
-   "lastSuccess": "2026-11-01T15:55:22Z"
+   "checkedAt": "2026-11-02T00:18:56Z",
+   "lastSuccess": "2026-11-02T00:18:56Z"
   }
  },
  "contests": [
@@ -2828,7 +2828,7 @@
      "value": "73.17"
     }
    ],
-   "summary": "We're excited to announce GlacierCTF 2026 for its fifth edition, a 24-hour jeopardy CTF organized by LosFuzzys. Join our discord at: https://discord.gg/DFYnRAME23 Infra sponsored by goo.gle/ctfsponsorship",
+   "summary": "We're excited to announce GlacierCTF 2026 for its fifth edition, a 24-hour jeopardy CTF organized by LosFuzzys. Join our discord at: https://discord.gg/DFYnRAME23 - Hex-Rays (hex-rays.com) - ISEC @ Graz University of Technology (isec.tugraz.at) Infra sponsored by goo.gle/ctfsponsorship",
    "tag": "CTF"
   },
   {
