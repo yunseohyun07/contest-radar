@@ -1,100 +1,50 @@
 {
- "updatedAt": "2026-11-03T02:46:58Z",
+ "updatedAt": "2026-11-03T16:56:17Z",
  "sources": {
   "Codeforces": {
    "ok": true,
-   "count": 7,
-   "checkedAt": "2026-11-03T02:46:58Z",
-   "lastSuccess": "2026-11-03T02:46:58Z"
+   "count": 9,
+   "checkedAt": "2026-11-03T16:56:17Z",
+   "lastSuccess": "2026-11-03T16:56:17Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-11-03T02:46:58Z",
-   "lastSuccess": "2026-11-03T02:46:58Z"
+   "checkedAt": "2026-11-03T16:56:17Z",
+   "lastSuccess": "2026-11-03T16:56:17Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-11-03T02:46:58Z",
-   "lastSuccess": "2026-11-03T02:46:58Z"
+   "checkedAt": "2026-11-03T16:56:17Z",
+   "lastSuccess": "2026-11-03T16:56:17Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 28,
-   "checkedAt": "2026-11-03T02:46:58Z",
-   "lastSuccess": "2026-11-03T02:46:58Z"
+   "count": 29,
+   "checkedAt": "2026-11-03T16:56:17Z",
+   "lastSuccess": "2026-11-03T16:56:17Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 77,
-   "checkedAt": "2026-11-03T02:46:58Z",
-   "lastSuccess": "2026-11-03T02:46:58Z"
+   "count": 79,
+   "checkedAt": "2026-11-03T16:56:17Z",
+   "lastSuccess": "2026-11-03T16:56:17Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 19,
-   "checkedAt": "2026-11-03T02:46:58Z",
-   "lastSuccess": "2026-11-03T02:46:58Z"
+   "count": 21,
+   "checkedAt": "2026-11-03T16:56:17Z",
+   "lastSuccess": "2026-11-03T16:56:17Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-03T02:46:58Z",
-   "lastSuccess": "2026-11-03T02:46:58Z"
+   "checkedAt": "2026-11-03T16:56:17Z",
+   "lastSuccess": "2026-11-03T16:56:17Z"
   }
  },
  "contests": [
-  {
-   "id": "ck-202610230061",
-   "source": "콘테스트코리아",
-   "cat": "hack",
-   "title": "2026 청도 바이브코딩 해커톤 with 해커그라운드",
-   "host": "해커그라운드",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610230061",
-   "kind": "접수 마감",
-   "date": "2026-11-03T14:59:59Z",
-   "start": null,
-   "end": "2026-11-03T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "유치원, 고등학생, 대학생, 대학원생, 일반인, 외국인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-10-22T15:00:00Z",
-     "end": "2026-11-03T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-11-04T15:00:00Z",
-     "end": "2026-11-06T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-04T15:00:00Z",
-     "end": "2026-11-05T14:59:59Z"
-    }
-   ]
-  },
   {
    "id": "cf-2283",
    "source": "Codeforces",
@@ -437,10 +387,10 @@
     },
     {
      "label": "상금",
-     "value": "원문 확인"
+     "value": "Three months of PIECE Elite for every verified participant with a positive scor…"
     }
    ],
-   "summary": "\"CSCTF 2026: Total Warfare\" is an international, online, free jeopardy-style CTF focused on realistic cybersecurity scenarios inspired by critical infrastructure, defense, and modern adversary tactics. Challenges cover web, pwn, crypto, reverse engineering, forensics, misc, Linux, Windows, and operational security, with scenarios connected to energy, teleco…",
+   "summary": "CSCTF 2026: Total Warfare is a free, international, 48-hour online Jeopardy-style CTF. This is the second edition of CSCTF. Last year's competition brought together 600+ players from more than 10 countries. The event is built around realistic cybersecurity scenarios inspired by critical infrastructure, defence and modern adversary tactics. Expect 40+ challe…",
    "tag": "CTF"
   },
   {
@@ -2111,12 +2061,91 @@
    "tag": null
   },
   {
+   "id": "ck-202611030035",
+   "source": "콘테스트코리아",
+   "cat": "contest",
+   "title": "AX인재전쟁 온라인 x 삼일PwC: 스펙·학력 없이 AI 역량으로 채용까지",
+   "host": "조코딩AX파트너스",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611030035",
+   "kind": "접수 마감",
+   "date": "2026-11-15T14:59:59Z",
+   "start": null,
+   "end": "2026-11-15T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "대학생, 대학원생, 일반인"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-10-30T15:00:00Z",
+     "end": "2026-11-15T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-11-15T15:00:00Z",
+     "end": "2026-11-22T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-11-22T15:00:00Z",
+     "end": "2026-11-23T14:59:59Z"
+    }
+   ]
+  },
+  {
    "id": "lk-359362",
    "source": "링커리어",
    "cat": "contest",
    "title": "완주군 피지컬AI 실증단지 명칭 공모전",
    "host": "완주군",
    "url": "https://linkareer.com/activity/359362",
+   "kind": "접수 마감",
+   "date": "2026-11-15T14:59:59Z",
+   "start": null,
+   "end": "2026-11-15T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-361452",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "조코딩 AX인재전쟁 온라인 x 삼일PwC: 스펙·학력 없이 AI 역량으로 채용까지",
+   "host": "조코딩AX파트너스",
+   "url": "https://linkareer.com/activity/361452",
    "kind": "접수 마감",
    "date": "2026-11-15T14:59:59Z",
    "start": null,
@@ -2246,35 +2275,6 @@
      "end": "2026-12-18T14:59:59Z"
     }
    ]
-  },
-  {
-   "id": "lk-343445",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026 AI 캐릭터창작공모전",
-   "host": "(사)캐릭터디자인협회",
-   "url": "https://linkareer.com/activity/343445",
-   "kind": "접수 마감",
-   "date": "2026-11-16T14:59:59Z",
-   "start": null,
-   "end": "2026-11-16T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
   },
   {
    "id": "ck-202609160045",
@@ -2464,6 +2464,64 @@
    "tag": null
   },
   {
+   "id": "lk-347984",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "유스업(Youth UP!) 제1회 SDGs 실천 아이디어·숏츠 공모전[AI활용가능,최종 마감일 11.18정정]",
+   "host": "사단법인 무궁화복지월드",
+   "url": "https://linkareer.com/activity/347984",
+   "kind": "접수 마감",
+   "date": "2026-11-18T14:59:59Z",
+   "start": null,
+   "end": "2026-11-18T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-361795",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "「전북에 빠졌쏭」 AI 뮤직쇼츠 공모전",
+   "host": "전북 AI디지털배움터",
+   "url": "https://linkareer.com/activity/361795",
+   "kind": "접수 마감",
+   "date": "2026-11-19T14:59:59Z",
+   "start": null,
+   "end": "2026-11-19T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "ctf-3419",
    "source": "CTFtime",
    "cat": "ai",
@@ -2592,6 +2650,56 @@
      "label": "발표",
      "start": "2026-12-02T15:00:00Z",
      "end": "2026-12-03T14:59:59Z"
+    }
+   ]
+  },
+  {
+   "id": "ck-202610300005",
+   "source": "콘테스트코리아",
+   "cat": "ai",
+   "title": "2026 성평등 AI 벤치마크 챌린지",
+   "host": "성평등가족부",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610300005",
+   "kind": "접수 마감",
+   "date": "2026-11-20T14:59:59Z",
+   "start": null,
+   "end": "2026-11-20T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI",
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-11-01T15:00:00Z",
+     "end": "2026-11-20T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-11-01T15:00:00Z",
+     "end": "2026-11-30T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-11-30T15:00:00Z",
+     "end": "2026-12-01T14:59:59Z"
     }
    ]
   },
@@ -2789,6 +2897,35 @@
    ],
    "summary": "",
    "tag": "AI"
+  },
+  {
+   "id": "lk-361801",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "[산림청] 산림공공데이터 어디까지 써봤니 활용사례 공모",
+   "host": "산림청",
+   "url": "https://linkareer.com/activity/361801",
+   "kind": "접수 마감",
+   "date": "2026-11-20T14:59:59Z",
+   "start": null,
+   "end": "2026-11-20T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "ck-202610210040",
@@ -3029,6 +3166,70 @@
    "tag": "CTF"
   },
   {
+   "id": "cf-2287",
+   "source": "Codeforces",
+   "cat": "algo",
+   "title": "Codeforces Round (Div. 1)",
+   "host": "Codeforces",
+   "url": "https://codeforces.com/contests/2287",
+   "kind": "대회일",
+   "date": "2026-11-21T14:35:00Z",
+   "start": "2026-11-21T14:35:00Z",
+   "end": "2026-11-21T16:35:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "2시간"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나 (Div. 1)"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
+  },
+  {
+   "id": "cf-2288",
+   "source": "Codeforces",
+   "cat": "algo",
+   "title": "Codeforces Round (Div. 2)",
+   "host": "Codeforces",
+   "url": "https://codeforces.com/contests/2288",
+   "kind": "대회일",
+   "date": "2026-11-21T14:35:00Z",
+   "start": "2026-11-21T14:35:00Z",
+   "end": "2026-11-21T16:35:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "2시간"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나 (Div. 2)"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
+  },
+  {
    "id": "ctf-3436",
    "source": "CTFtime",
    "cat": "ai",
@@ -3133,6 +3334,35 @@
    "title": "나무엑스 AI 숏폼 공모전",
    "host": "SK인텔릭스(주)",
    "url": "https://linkareer.com/activity/358366",
+   "kind": "접수 마감",
+   "date": "2026-11-22T14:59:59Z",
+   "start": null,
+   "end": "2026-11-22T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-361730",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "부산 동구 AI 숏폼 영상 공모전",
+   "host": "부산동구청",
+   "url": "https://linkareer.com/activity/361730",
    "kind": "접수 마감",
    "date": "2026-11-22T14:59:59Z",
    "start": null,
@@ -3286,35 +3516,6 @@
    ],
    "summary": "",
    "tag": "AI"
-  },
-  {
-   "id": "lk-347984",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "유스업(Youth UP!) 제1회 SDGs 실천 아이디어·숏츠 공모전[AI활용가능,마감1주일연기]",
-   "host": "사단법인 무궁화복지월드",
-   "url": "https://linkareer.com/activity/347984",
-   "kind": "접수 마감",
-   "date": "2026-11-25T14:59:59Z",
-   "start": null,
-   "end": "2026-11-25T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
   },
   {
    "id": "lk-359156",
@@ -3835,6 +4036,43 @@
    "tag": "CTF"
   },
   {
+   "id": "ctf-3493",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "OTERIA Cyber Cup #4",
+   "host": "OteriHack",
+   "url": "https://ctftime.org/event/3493/",
+   "kind": "대회일",
+   "date": "2026-12-05T09:00:00Z",
+   "start": "2026-12-05T09:00:00Z",
+   "end": "2026-12-05T17:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "오프라인 · France, Gennevilliers"
+    },
+    {
+     "label": "참가 자격",
+     "value": "학생"
+    },
+    {
+     "label": "진행 시간",
+     "value": "8시간"
+    },
+    {
+     "label": "상금",
+     "value": "1st place: 500€ + goodies 2nd place: 300€ + goodies 3rd place: 150€ + goodies T…"
+    }
+   ],
+   "summary": "# OTERIA Cyber ​​Cup #4 Rejoignez-nous le 5 décembre 2026 pour la quatrième édition de l'OTERIA Cyber ​​Cup, une compétition de type « Capture The Flag » (CTF) destinée aux étudiants, organisée par l'OTERIA Cyber ​​School à Gennevilliers, en France. Détails de l'événement - Date : 5 décembre 2026 - Lieu : OTERIA Cyber ​​School, 1 Rue du 19 Mars 1962, 92230…",
+   "tag": "CTF"
+  },
+  {
    "id": "cf-2282",
    "source": "Codeforces",
    "cat": "algo",
@@ -4352,6 +4590,56 @@
    ],
    "summary": "",
    "tag": null
+  },
+  {
+   "id": "ck-202611020040",
+   "source": "콘테스트코리아",
+   "cat": "contest",
+   "title": "2027 동계 청소년 IT학술대회 및 대학생 IT논문경진대회",
+   "host": "한국정보기술진흥원",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611020040",
+   "kind": "접수 마감",
+   "date": "2027-01-15T14:59:59Z",
+   "start": null,
+   "end": "2027-01-15T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "초등학생, 중학생, 고등학생, 대학생, 해당자 ▶"
+    },
+    {
+     "label": "참가비",
+     "value": "유료"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-11-01T15:00:00Z",
+     "end": "2027-01-15T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2027-01-14T15:00:00Z",
+     "end": "2027-01-22T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2027-01-21T15:00:00Z",
+     "end": "2027-01-22T14:59:59Z"
+    }
+   ]
   },
   {
    "id": "lk-361280",
