@@ -2,30 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//contest-radar//KO
 CALSCALE:GREGORIAN
-X-WR-CALNAME:「전북에 빠졌쏭」 AI 뮤직쇼츠 공모전
+X-WR-CALNAME:2026 전북 AI디지털배움터 「전북에 빠졌쏭(song
+ )」 AI 뮤직숏폼 공모전
 X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:lk-361795@contest-radar
-DTSTAMP:20261104T010344Z
+DTSTAMP:20261104T165850Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:[접수 마감] 「전북에 빠졌쏭」 AI 뮤직쇼츠 공모
- 전
+SUMMARY:[접수 마감] 2026 전북 AI디지털배움터 「전북에 빠
+ 졌쏭(song)」 AI 뮤직숏폼 공모전
 URL:https://linkareer.com/activity/361795
-DESCRIPTION:전북 AI디지털배움터\nhttps://linkareer.com/activity/3
- 61795
+DESCRIPTION:(주)케이티씨에스 전북AI디지털배움터\nhttps://l
+ inkareer.com/activity/361795
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D
-DESCRIPTION:3일 전: 「전북에 빠졌쏭」 AI 뮤직쇼츠 공모전
+DESCRIPTION:3일 전: 2026 전북 AI디지털배움터 「전북에 빠
+ 졌쏭(song)」 AI 뮤직숏폼 공모전
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P1D
-DESCRIPTION:하루 전: 「전북에 빠졌쏭」 AI 뮤직쇼츠 공모
- 전
+DESCRIPTION:하루 전: 2026 전북 AI디지털배움터 「전북에 빠
+ 졌쏭(song)」 AI 뮤직숏폼 공모전
 END:VALARM
 END:VEVENT
 END:VCALENDAR
