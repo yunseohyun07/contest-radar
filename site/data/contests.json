@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-11-04T16:58:50Z",
+ "updatedAt": "2026-11-05T01:19:05Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 8,
-   "checkedAt": "2026-11-04T16:58:50Z",
-   "lastSuccess": "2026-11-04T16:58:50Z"
+   "checkedAt": "2026-11-05T01:19:05Z",
+   "lastSuccess": "2026-11-05T01:19:05Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 8,
-   "checkedAt": "2026-11-04T16:58:50Z",
-   "lastSuccess": "2026-11-04T16:58:50Z"
+   "checkedAt": "2026-11-05T01:19:05Z",
+   "lastSuccess": "2026-11-05T01:19:05Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-11-04T16:58:50Z",
-   "lastSuccess": "2026-11-04T16:58:50Z"
+   "checkedAt": "2026-11-05T01:19:05Z",
+   "lastSuccess": "2026-11-05T01:19:05Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 30,
-   "checkedAt": "2026-11-04T16:58:50Z",
-   "lastSuccess": "2026-11-04T16:58:50Z"
+   "checkedAt": "2026-11-05T01:19:05Z",
+   "lastSuccess": "2026-11-05T01:19:05Z"
   },
   "링커리어": {
    "ok": true,
    "count": 83,
-   "checkedAt": "2026-11-04T16:58:50Z",
-   "lastSuccess": "2026-11-04T16:58:50Z"
+   "checkedAt": "2026-11-05T01:19:05Z",
+   "lastSuccess": "2026-11-05T01:19:05Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 21,
-   "checkedAt": "2026-11-04T16:58:50Z",
-   "lastSuccess": "2026-11-04T16:58:50Z"
+   "count": 22,
+   "checkedAt": "2026-11-05T01:19:05Z",
+   "lastSuccess": "2026-11-05T01:19:05Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-04T16:58:50Z",
-   "lastSuccess": "2026-11-04T16:58:50Z"
+   "checkedAt": "2026-11-05T01:19:05Z",
+   "lastSuccess": "2026-11-05T01:19:05Z"
   }
  },
  "contests": [
@@ -1996,12 +1996,12 @@
    "summary": ""
   },
   {
-   "id": "lk-360881",
-   "source": "링커리어",
+   "id": "ck-202610290006",
+   "source": "콘테스트코리아",
    "cat": "contest",
    "title": "2026 대구 대학(원) AI 드래프톤",
-   "host": "대구시",
-   "url": "https://linkareer.com/activity/360881",
+   "host": "대구광역시",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610290006",
    "kind": "접수 마감",
    "date": "2026-11-15T14:59:59Z",
    "start": null,
@@ -2009,11 +2009,15 @@
    "allDay": true,
    "meta": [
     {
-     "label": "상금",
+     "label": "참가 대상",
+     "value": "대학생, 대학원생"
+    },
+    {
+     "label": "참가비",
      "value": "원문 확인"
     },
     {
-     "label": "참가 자격",
+     "label": "상금",
      "value": "원문 확인"
     },
     {
@@ -2022,36 +2026,19 @@
     }
    ],
    "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-360309",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026 대구 대학(원) AI 드래프톤",
-   "host": "대구테크노파크",
-   "url": "https://linkareer.com/activity/360309",
-   "kind": "접수 마감",
-   "date": "2026-11-15T14:59:59Z",
-   "start": null,
-   "end": "2026-11-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
+   "tag": null,
+   "timeline": [
     {
-     "label": "상금",
-     "value": "원문 확인"
+     "label": "접수",
+     "start": "2026-10-27T15:00:00Z",
+     "end": "2026-11-15T14:59:59Z"
     },
     {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
+     "label": "발표",
+     "start": "2026-11-24T15:00:00Z",
+     "end": "2026-11-25T14:59:59Z"
     }
-   ],
-   "summary": "",
-   "tag": null
+   ]
   },
   {
    "id": "ck-202611030035",

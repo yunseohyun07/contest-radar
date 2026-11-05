@@ -7,13 +7,15 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:lk-360881@contest-radar
-DTSTAMP:20261104T165850Z
+UID:ck-202610290006@contest-radar
+DTSTAMP:20261105T011905Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:[접수 마감] 2026 대구 대학(원) AI 드래프톤
-URL:https://linkareer.com/activity/360881
-DESCRIPTION:대구시\nhttps://linkareer.com/activity/360881
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202610290006
+DESCRIPTION:대구광역시\nhttps://www.contestkorea.com/sub/view.php?in
+ t_gbn=1&Txt_bcode=030310001&str_no=202610290006
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D
