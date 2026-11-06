@@ -1,342 +1,50 @@
 {
- "updatedAt": "2026-11-06T01:23:34Z",
+ "updatedAt": "2026-11-06T16:40:18Z",
  "sources": {
   "Codeforces": {
    "ok": true,
-   "count": 8,
-   "checkedAt": "2026-11-06T01:23:34Z",
-   "lastSuccess": "2026-11-06T01:23:34Z"
+   "count": 7,
+   "checkedAt": "2026-11-06T16:40:18Z",
+   "lastSuccess": "2026-11-06T16:40:18Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 8,
-   "checkedAt": "2026-11-06T01:23:34Z",
-   "lastSuccess": "2026-11-06T01:23:34Z"
+   "checkedAt": "2026-11-06T16:40:18Z",
+   "lastSuccess": "2026-11-06T16:40:18Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-11-06T01:23:34Z",
-   "lastSuccess": "2026-11-06T01:23:34Z"
+   "checkedAt": "2026-11-06T16:40:18Z",
+   "lastSuccess": "2026-11-06T16:40:18Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 30,
-   "checkedAt": "2026-11-06T01:23:34Z",
-   "lastSuccess": "2026-11-06T01:23:34Z"
+   "count": 27,
+   "checkedAt": "2026-11-06T16:40:18Z",
+   "lastSuccess": "2026-11-06T16:40:18Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 81,
-   "checkedAt": "2026-11-06T01:23:34Z",
-   "lastSuccess": "2026-11-06T01:23:34Z"
+   "count": 77,
+   "checkedAt": "2026-11-06T16:40:18Z",
+   "lastSuccess": "2026-11-06T16:40:18Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 21,
-   "checkedAt": "2026-11-06T01:23:34Z",
-   "lastSuccess": "2026-11-06T01:23:34Z"
+   "checkedAt": "2026-11-06T16:40:18Z",
+   "lastSuccess": "2026-11-06T16:40:18Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-06T01:23:34Z",
-   "lastSuccess": "2026-11-06T01:23:34Z"
+   "checkedAt": "2026-11-06T16:40:18Z",
+   "lastSuccess": "2026-11-06T16:40:18Z"
   }
  },
  "contests": [
-  {
-   "id": "ctf-3418",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "HKCERT CTF 2026 (Qualifying Round)",
-   "host": "Black Bauhinia, HKCERT",
-   "url": "https://ctftime.org/event/3418/",
-   "kind": "대회일",
-   "date": "2026-11-06T10:00:00Z",
-   "start": "2026-11-06T10:00:00Z",
-   "end": "2026-11-07T10:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "진행 시간",
-     "value": "24시간"
-    },
-    {
-     "label": "상금",
-     "value": "There are 2 rounds of the competition -> qualifying round and final round. The…"
-    },
-    {
-     "label": "CTFtime 가중치",
-     "value": "10.31"
-    }
-   ],
-   "summary": "HKCERT Capture The Flag 2026,” organised by the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT), the Hong Kong Productivity Council (HKPC) and the Digital Policy Office of HKSAR, is now in its sixth edition. It is one of the largest cybersecurity competitions in Hong Kong, featuring four categories: Secondary School, Tertiary, Open,…",
-   "tag": "CTF"
-  },
-  {
-   "id": "ctf-3331",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "PINK+ CTF 2026",
-   "host": "PINK+",
-   "url": "https://ctftime.org/event/3331/",
-   "kind": "대회일",
-   "date": "2026-11-06T12:00:00Z",
-   "start": "2026-11-06T12:00:00Z",
-   "end": "2026-11-09T12:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "진행 시간",
-     "value": "3일"
-    },
-    {
-     "label": "상금",
-     "value": "1st Place: 25$ + 6 Month Caido License per Member (Worth ~$545) + 4 .xyz Domain…"
-    }
-   ],
-   "summary": "The first iteration of PINK+ CTF. Explore a variety of hand crafted challenges with a focus on steganography! Discord: https://discord.gg/VuPqnhFxH4",
-   "tag": "CTF"
-  },
-  {
-   "id": "ctf-3333",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "CSCTF 2026",
-   "host": "Mirachron",
-   "url": "https://ctftime.org/event/3333/",
-   "kind": "대회일",
-   "date": "2026-11-06T13:00:00Z",
-   "start": "2026-11-06T13:00:00Z",
-   "end": "2026-11-08T13:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "진행 시간",
-     "value": "2일"
-    },
-    {
-     "label": "상금",
-     "value": "Three months of PIECE Elite for every verified participant with a positive scor…"
-    }
-   ],
-   "summary": "CSCTF 2026: Total Warfare is a free, international, 48-hour online Jeopardy-style CTF. This is the second edition of CSCTF. Last year's competition brought together 600+ players from more than 10 countries. The event is built around realistic cybersecurity scenarios inspired by critical infrastructure, defence and modern adversary tactics. Expect 40+ challe…",
-   "tag": "CTF"
-  },
-  {
-   "id": "cf-2284",
-   "source": "Codeforces",
-   "cat": "algo",
-   "title": "Codeforces Round 1132 (Div. 2)",
-   "host": "Codeforces",
-   "url": "https://codeforces.com/contests/2284",
-   "kind": "대회일",
-   "date": "2026-11-06T14:35:00Z",
-   "start": "2026-11-06T14:35:00Z",
-   "end": "2026-11-06T16:50:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "2시간 15분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나 (Div. 2)"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "lk-359582",
-   "source": "링커리어",
-   "cat": "ai",
-   "title": "[11/6 마감·참가비 0원] AI 헬스케어 미니 데이터 챌린지 | 데이콘 수강권·수료증 제공",
-   "host": "넥스트러너스",
-   "url": "https://linkareer.com/activity/359582",
-   "kind": "접수 마감",
-   "date": "2026-11-06T14:59:59Z",
-   "start": null,
-   "end": "2026-11-06T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": "AI"
-  },
-  {
-   "id": "lk-357820",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "[광양시] 2026 광양시 매돌이 AI 영상 공모전 – 매돌이, AI로 살아나다!",
-   "host": "광양시",
-   "url": "https://linkareer.com/activity/357820",
-   "kind": "접수 마감",
-   "date": "2026-11-06T14:59:59Z",
-   "start": null,
-   "end": "2026-11-06T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-355771",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "구름톤 아레나 2026 — 전국 프로그래밍 챔피언십",
-   "host": "주식회사 구름",
-   "url": "https://linkareer.com/activity/355771",
-   "kind": "접수 마감",
-   "date": "2026-11-06T14:59:59Z",
-   "start": null,
-   "end": "2026-11-06T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-359961",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "모두의 AI 정책브랜드 대국민 공모전",
-   "host": "과학기술정보통신부",
-   "url": "https://linkareer.com/activity/359961",
-   "kind": "접수 마감",
-   "date": "2026-11-06T14:59:59Z",
-   "start": null,
-   "end": "2026-11-06T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-362194",
-   "source": "링커리어",
-   "cat": "hack",
-   "title": "비전공자도 완성하는 의료AI 해커톤 ​",
-   "host": "넥스트러너스",
-   "url": "https://linkareer.com/activity/362194",
-   "kind": "접수 마감",
-   "date": "2026-11-06T14:59:59Z",
-   "start": null,
-   "end": "2026-11-06T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "ctf-3339",
    "source": "CTFtime",
@@ -3535,6 +3243,35 @@
    ],
    "summary": "",
    "tag": "AI"
+  },
+  {
+   "id": "lk-362797",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "제1회 Daum AI 숏드라마 시나리오 공모전",
+   "host": "주식회사 다음",
+   "url": "https://linkareer.com/activity/362797",
+   "kind": "접수 마감",
+   "date": "2026-11-26T14:59:59Z",
+   "start": null,
+   "end": "2026-11-26T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "lk-359156",
