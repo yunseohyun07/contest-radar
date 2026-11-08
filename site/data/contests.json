@@ -1,544 +1,50 @@
 {
- "updatedAt": "2026-11-08T00:13:34Z",
+ "updatedAt": "2026-11-08T15:53:02Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-11-08T00:13:34Z",
-   "lastSuccess": "2026-11-08T00:13:34Z"
+   "checkedAt": "2026-11-08T15:53:02Z",
+   "lastSuccess": "2026-11-08T15:53:02Z"
   },
   "AtCoder": {
    "ok": true,
-   "count": 7,
-   "checkedAt": "2026-11-08T00:13:34Z",
-   "lastSuccess": "2026-11-08T00:13:34Z"
+   "count": 6,
+   "checkedAt": "2026-11-08T15:53:02Z",
+   "lastSuccess": "2026-11-08T15:53:02Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-11-08T00:13:34Z",
-   "lastSuccess": "2026-11-08T00:13:34Z"
+   "checkedAt": "2026-11-08T15:53:02Z",
+   "lastSuccess": "2026-11-08T15:53:02Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 26,
-   "checkedAt": "2026-11-08T00:13:34Z",
-   "lastSuccess": "2026-11-08T00:13:34Z"
+   "checkedAt": "2026-11-08T15:53:02Z",
+   "lastSuccess": "2026-11-08T15:53:02Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 78,
-   "checkedAt": "2026-11-08T00:13:34Z",
-   "lastSuccess": "2026-11-08T00:13:34Z"
+   "count": 68,
+   "checkedAt": "2026-11-08T15:53:02Z",
+   "lastSuccess": "2026-11-08T15:53:02Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 21,
-   "checkedAt": "2026-11-08T00:13:34Z",
-   "lastSuccess": "2026-11-08T00:13:34Z"
+   "count": 19,
+   "checkedAt": "2026-11-08T15:53:02Z",
+   "lastSuccess": "2026-11-08T15:53:02Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-08T00:13:34Z",
-   "lastSuccess": "2026-11-08T00:13:34Z"
+   "checkedAt": "2026-11-08T15:53:02Z",
+   "lastSuccess": "2026-11-08T15:53:02Z"
   }
  },
  "contests": [
-  {
-   "id": "lc-weekly-contest-527",
-   "source": "LeetCode",
-   "cat": "algo",
-   "title": "LeetCode Weekly Contest 527",
-   "host": "LeetCode",
-   "url": "https://leetcode.com/contest/weekly-contest-527",
-   "kind": "대회일",
-   "date": "2026-11-08T02:30:00Z",
-   "start": "2026-11-08T02:30:00Z",
-   "end": "2026-11-08T04:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "1시간 30분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "atc-agc079",
-   "source": "AtCoder",
-   "cat": "algo",
-   "title": "AtCoder Grand Contest 079",
-   "host": "AtCoder",
-   "url": "https://atcoder.jp/contests/agc079",
-   "kind": "대회일",
-   "date": "2026-11-08T12:00:00Z",
-   "start": "2026-11-08T12:00:00Z",
-   "end": "2026-11-08T15:30:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "3시간 30분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "레이팅 범위",
-     "value": "2000 -"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "lk-351976",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026 대한지방행정공제회 생성형 AI 콘텐츠 공모전",
-   "host": "대한지방행정공제회",
-   "url": "https://linkareer.com/activity/351976",
-   "kind": "접수 마감",
-   "date": "2026-11-08T14:59:59Z",
-   "start": null,
-   "end": "2026-11-08T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "ck-202610190021",
-   "source": "콘테스트코리아",
-   "cat": "hack",
-   "title": "2026 서울AI디지털배움터 청년 AI 해커톤",
-   "host": "서울시·서울AI재단·NIA·과학기술정보통신부",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610190021",
-   "kind": "접수 마감",
-   "date": "2026-11-08T14:59:59Z",
-   "start": null,
-   "end": "2026-11-08T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "대학생, 일반인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-10-04T15:00:00Z",
-     "end": "2026-11-08T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-20T15:00:00Z",
-     "end": "2026-11-21T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-359801",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026년 EBS AI교육 실습 도구 명칭 공모전",
-   "host": "EBS",
-   "url": "https://linkareer.com/activity/359801",
-   "kind": "접수 마감",
-   "date": "2026-11-08T14:59:59Z",
-   "start": null,
-   "end": "2026-11-08T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-359505",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026년 EBS AI교육 실습 도구 명칭 공모전",
-   "host": "EBS",
-   "url": "https://linkareer.com/activity/359505",
-   "kind": "접수 마감",
-   "date": "2026-11-08T14:59:59Z",
-   "start": null,
-   "end": "2026-11-08T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-351460",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026년 제4회 청소년 안전 AI 영상 공모전",
-   "host": "서울특별시립청소년활동진흥센터",
-   "url": "https://linkareer.com/activity/351460",
-   "kind": "접수 마감",
-   "date": "2026-11-08T14:59:59Z",
-   "start": null,
-   "end": "2026-11-08T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-351172",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026년 제4회 청소년 안전 AI 영상 공모전",
-   "host": "서울특별시립청소년활동진흥센터 / 서울특별시립청소년활동진흥센터",
-   "url": "https://linkareer.com/activity/351172",
-   "kind": "접수 마감",
-   "date": "2026-11-08T14:59:59Z",
-   "start": null,
-   "end": "2026-11-08T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-358665",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026년 제4회 청소년 안전 AI 영상 공모전 공모전",
-   "host": "서울특별시립청소년활동진흥센터",
-   "url": "https://linkareer.com/activity/358665",
-   "kind": "접수 마감",
-   "date": "2026-11-08T14:59:59Z",
-   "start": null,
-   "end": "2026-11-08T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-351589",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "[의정부도시공사] AI 혁신 아이디어 공모전",
-   "host": "의정부도시공사",
-   "url": "https://linkareer.com/activity/351589",
-   "kind": "접수 마감",
-   "date": "2026-11-08T14:59:59Z",
-   "start": null,
-   "end": "2026-11-08T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-358501",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "doodll 2nd AI Makeathon",
-   "host": "(주)컴포랩스",
-   "url": "https://linkareer.com/activity/358501",
-   "kind": "접수 마감",
-   "date": "2026-11-08T14:59:59Z",
-   "start": null,
-   "end": "2026-11-08T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "ck-202609170026",
-   "source": "콘테스트코리아",
-   "cat": "contest",
-   "title": "의정부도시공사 AI 혁신 아이디어 공모전",
-   "host": "의정부도시공사",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202609170026",
-   "kind": "접수 마감",
-   "date": "2026-11-08T14:59:59Z",
-   "start": null,
-   "end": "2026-11-08T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-09-14T15:00:00Z",
-     "end": "2026-11-08T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-11-08T15:00:00Z",
-     "end": "2026-12-31T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-362053",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "자원봉사 × AI 영상 공모전",
-   "host": "한국중앙자원봉사센터",
-   "url": "https://linkareer.com/activity/362053",
-   "kind": "접수 마감",
-   "date": "2026-11-08T14:59:59Z",
-   "start": null,
-   "end": "2026-11-08T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-359141",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "제 2회 직스캐드 AX 경진대회 (CAD 공모전, 설계 공모전, 영상 공모전)",
-   "host": "주식회사 직스테크놀로지",
-   "url": "https://linkareer.com/activity/359141",
-   "kind": "접수 마감",
-   "date": "2026-11-08T14:59:59Z",
-   "start": null,
-   "end": "2026-11-08T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "ck-202608310001",
-   "source": "콘테스트코리아",
-   "cat": "contest",
-   "title": "제2회 ZYXCAD AX 경진대회",
-   "host": "(주)직스테크놀로지",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202608310001",
-   "kind": "접수 마감",
-   "date": "2026-11-08T14:59:59Z",
-   "start": null,
-   "end": "2026-11-08T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "고등학생, 대학생"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-08-30T15:00:00Z",
-     "end": "2026-11-08T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-11-08T15:00:00Z",
-     "end": "2026-11-16T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-26T15:00:00Z",
-     "end": "2026-11-27T14:59:59Z"
-    }
-   ]
-  },
   {
    "id": "ctf-3499",
    "source": "CTFtime",
@@ -1404,6 +910,38 @@
    "tag": "CTF"
   },
   {
+   "id": "lc-weekly-contest-528",
+   "source": "LeetCode",
+   "cat": "algo",
+   "title": "LeetCode Weekly Contest 528",
+   "host": "LeetCode",
+   "url": "https://leetcode.com/contest/weekly-contest-528",
+   "kind": "대회일",
+   "date": "2026-11-15T02:30:00Z",
+   "start": "2026-11-15T02:30:00Z",
+   "end": "2026-11-15T04:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "1시간 30분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
+  },
+  {
    "id": "cf-2285",
    "source": "Codeforces",
    "cat": "algo",
@@ -1971,12 +1509,12 @@
    "tag": null
   },
   {
-   "id": "lk-361066",
-   "source": "링커리어",
+   "id": "ck-202610300011",
+   "source": "콘테스트코리아",
    "cat": "contest",
    "title": "국가무형유산 상설공연 창작 콘텐츠 개발을 위한 대국민 아이디어 발굴대회",
    "host": "국가유산청",
-   "url": "https://linkareer.com/activity/361066",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610300011",
    "kind": "접수 마감",
    "date": "2026-11-18T14:59:59Z",
    "start": null,
@@ -1984,11 +1522,15 @@
    "allDay": true,
    "meta": [
     {
-     "label": "상금",
+     "label": "참가 대상",
+     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
+    },
+    {
+     "label": "참가비",
      "value": "원문 확인"
     },
     {
-     "label": "참가 자격",
+     "label": "상금",
      "value": "원문 확인"
     },
     {
@@ -1997,7 +1539,24 @@
     }
    ],
    "summary": "",
-   "tag": null
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-11-08T15:00:00Z",
+     "end": "2026-11-18T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-11-18T15:00:00Z",
+     "end": "2026-12-30T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-12-30T15:00:00Z",
+     "end": "2026-12-31T14:59:59Z"
+    }
+   ]
   },
   {
    "id": "lk-347984",
