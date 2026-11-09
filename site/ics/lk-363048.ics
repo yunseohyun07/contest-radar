@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:제12회 수원시 건강한 내-일\, 행복한 내일 (AI
+ 동영상) 공모전
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-363048@contest-radar
+DTSTAMP:20261109T194100Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:[접수 마감] 제12회 수원시 건강한 내-일\, 행복한 
+ 내일 (AI동영상) 공모전
+URL:https://linkareer.com/activity/363048
+DESCRIPTION:수원시비정규직노동자복지센터\nhttps://linkareer
+ .com/activity/363048
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: 제12회 수원시 건강한 내-일\, 행복한 
+ 내일 (AI동영상) 공모전
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: 제12회 수원시 건강한 내-일\, 행복한 
+ 내일 (AI동영상) 공모전
+END:VALARM
+END:VEVENT
+END:VCALENDAR

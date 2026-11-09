@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//contest-radar//KO
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Korea Local Marketing Hackathon 2026 · 경복궁 말고\, 
+ 외국인 친구에게 알려 줄 동네 지도
+X-WR-TIMEZONE:Asia/Seoul
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lk-362973@contest-radar
+DTSTAMP:20261109T194100Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:[접수 마감] Korea Local Marketing Hackathon 2026 · 경복궁
+  말고\, 외국인 친구에게 알려 줄 동네 지도
+URL:https://linkareer.com/activity/362973
+DESCRIPTION:해커온\nhttps://linkareer.com/activity/362973
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P3D
+DESCRIPTION:3일 전: Korea Local Marketing Hackathon 2026 · 경복궁 
+ 말고\, 외국인 친구에게 알려 줄 동네 지도
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:하루 전: Korea Local Marketing Hackathon 2026 · 경복궁
+  말고\, 외국인 친구에게 알려 줄 동네 지도
+END:VALARM
+END:VEVENT
+END:VCALENDAR
