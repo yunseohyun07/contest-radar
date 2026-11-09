@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-11-08T15:53:02Z",
+ "updatedAt": "2026-11-09T00:34:37Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-11-08T15:53:02Z",
-   "lastSuccess": "2026-11-08T15:53:02Z"
+   "checkedAt": "2026-11-09T00:34:37Z",
+   "lastSuccess": "2026-11-09T00:34:37Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-11-08T15:53:02Z",
-   "lastSuccess": "2026-11-08T15:53:02Z"
+   "checkedAt": "2026-11-09T00:34:37Z",
+   "lastSuccess": "2026-11-09T00:34:37Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-11-08T15:53:02Z",
-   "lastSuccess": "2026-11-08T15:53:02Z"
+   "checkedAt": "2026-11-09T00:34:37Z",
+   "lastSuccess": "2026-11-09T00:34:37Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 26,
-   "checkedAt": "2026-11-08T15:53:02Z",
-   "lastSuccess": "2026-11-08T15:53:02Z"
+   "checkedAt": "2026-11-09T00:34:37Z",
+   "lastSuccess": "2026-11-09T00:34:37Z"
   },
   "링커리어": {
    "ok": true,
    "count": 68,
-   "checkedAt": "2026-11-08T15:53:02Z",
-   "lastSuccess": "2026-11-08T15:53:02Z"
+   "checkedAt": "2026-11-09T00:34:37Z",
+   "lastSuccess": "2026-11-09T00:34:37Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 19,
-   "checkedAt": "2026-11-08T15:53:02Z",
-   "lastSuccess": "2026-11-08T15:53:02Z"
+   "checkedAt": "2026-11-09T00:34:37Z",
+   "lastSuccess": "2026-11-09T00:34:37Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-08T15:53:02Z",
-   "lastSuccess": "2026-11-08T15:53:02Z"
+   "checkedAt": "2026-11-09T00:34:37Z",
+   "lastSuccess": "2026-11-09T00:34:37Z"
   }
  },
  "contests": [
@@ -796,7 +796,7 @@
      "value": "원문 확인"
     }
    ],
-   "summary": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Than…",
+   "summary": "This event will be postponed to Fri, 20 Nov. 2026, 18:00 EST — Sun, 22 Nov. 2026, 18:00 EST Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.).…",
    "tag": "CTF"
   },
   {
