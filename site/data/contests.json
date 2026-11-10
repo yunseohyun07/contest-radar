@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-11-10T03:12:49Z",
+ "updatedAt": "2026-11-10T16:55:04Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-11-10T03:12:49Z",
-   "lastSuccess": "2026-11-10T03:12:49Z"
+   "checkedAt": "2026-11-10T16:55:04Z",
+   "lastSuccess": "2026-11-10T16:55:04Z"
   },
   "AtCoder": {
    "ok": true,
-   "count": 6,
-   "checkedAt": "2026-11-10T03:12:49Z",
-   "lastSuccess": "2026-11-10T03:12:49Z"
+   "count": 7,
+   "checkedAt": "2026-11-10T16:55:04Z",
+   "lastSuccess": "2026-11-10T16:55:04Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-11-10T03:12:49Z",
-   "lastSuccess": "2026-11-10T03:12:49Z"
+   "checkedAt": "2026-11-10T16:55:04Z",
+   "lastSuccess": "2026-11-10T16:55:04Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 24,
-   "checkedAt": "2026-11-10T03:12:49Z",
-   "lastSuccess": "2026-11-10T03:12:49Z"
+   "checkedAt": "2026-11-10T16:55:04Z",
+   "lastSuccess": "2026-11-10T16:55:04Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 75,
-   "checkedAt": "2026-11-10T03:12:49Z",
-   "lastSuccess": "2026-11-10T03:12:49Z"
+   "count": 79,
+   "checkedAt": "2026-11-10T16:55:04Z",
+   "lastSuccess": "2026-11-10T16:55:04Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 21,
-   "checkedAt": "2026-11-10T03:12:49Z",
-   "lastSuccess": "2026-11-10T03:12:49Z"
+   "checkedAt": "2026-11-10T16:55:04Z",
+   "lastSuccess": "2026-11-10T16:55:04Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-10T03:12:49Z",
-   "lastSuccess": "2026-11-10T03:12:49Z"
+   "checkedAt": "2026-11-10T16:55:04Z",
+   "lastSuccess": "2026-11-10T16:55:04Z"
   }
  },
  "contests": [
@@ -237,6 +237,35 @@
     }
    ],
    "summary": ""
+  },
+  {
+   "id": "lk-363391",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "2026 핀테크 라이징 스타 챌린지",
+   "host": "전북특별자치도",
+   "url": "https://linkareer.com/activity/363391",
+   "kind": "접수 마감",
+   "date": "2026-11-12T14:59:59Z",
+   "start": null,
+   "end": "2026-11-12T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "ck-202610010016",
@@ -2391,21 +2420,21 @@
    "tag": "CTF"
   },
   {
-   "id": "atc-arc234",
+   "id": "atc-agc080",
    "source": "AtCoder",
    "cat": "algo",
-   "title": "AtCoder Regular Contest++ 234",
+   "title": "AtCoder Grand Contest 080",
    "host": "AtCoder",
-   "url": "https://atcoder.jp/contests/arc234",
+   "url": "https://atcoder.jp/contests/agc080",
    "kind": "대회일",
    "date": "2026-11-22T12:00:00Z",
    "start": "2026-11-22T12:00:00Z",
-   "end": "2026-11-22T14:30:00Z",
+   "end": "2026-11-22T15:00:00Z",
    "allDay": false,
    "meta": [
     {
      "label": "진행 시간",
-     "value": "2시간 30분"
+     "value": "3시간"
     },
     {
      "label": "진행 방식",
@@ -2413,7 +2442,7 @@
     },
     {
      "label": "레이팅 범위",
-     "value": "1600 - 2999"
+     "value": "2000 -"
     },
     {
      "label": "팀 구성",
@@ -3471,6 +3500,38 @@
    "tag": "CTF"
   },
   {
+   "id": "atc-abc487",
+   "source": "AtCoder",
+   "cat": "algo",
+   "title": "AtCoder Beginner Contest 487",
+   "host": "AtCoder",
+   "url": "https://atcoder.jp/contests/abc487",
+   "kind": "대회일",
+   "date": "2026-12-05T12:00:00Z",
+   "start": "2026-12-05T12:00:00Z",
+   "end": "2026-12-05T13:40:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "1시간 40분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "레이팅 범위",
+     "value": "- 1999"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
+  },
+  {
    "id": "lk-362057",
    "source": "링커리어",
    "cat": "contest",
@@ -3639,12 +3700,12 @@
    "tag": "CTF"
   },
   {
-   "id": "atc-agc080",
+   "id": "atc-agc081",
    "source": "AtCoder",
    "cat": "algo",
-   "title": "AtCoder Grand Contest 080",
+   "title": "AtCoder Grand Contest 081",
    "host": "AtCoder",
-   "url": "https://atcoder.jp/contests/agc080",
+   "url": "https://atcoder.jp/contests/agc081",
    "kind": "대회일",
    "date": "2026-12-13T12:00:00Z",
    "start": "2026-12-13T12:00:00Z",
@@ -3869,6 +3930,64 @@
    "tag": null
   },
   {
+   "id": "lk-363343",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "[세종사이버대학교] 2026 전국민 AI 공모전 AI 불씨",
+   "host": "세종사이버대학교",
+   "url": "https://linkareer.com/activity/363343",
+   "kind": "접수 마감",
+   "date": "2026-12-20T14:59:59Z",
+   "start": null,
+   "end": "2026-12-20T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-362093",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "[부산과학기술대학교·KNN] 2026 부산 미래 직업·평생교육 AI 영상 공모전(~12.23)",
+   "host": "위더스콘텐츠",
+   "url": "https://linkareer.com/activity/362093",
+   "kind": "접수 마감",
+   "date": "2026-12-23T14:59:59Z",
+   "start": null,
+   "end": "2026-12-23T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "lk-350248",
    "source": "링커리어",
    "cat": "contest",
@@ -3898,12 +4017,12 @@
    "tag": null
   },
   {
-   "id": "atc-agc081",
+   "id": "atc-agc082",
    "source": "AtCoder",
    "cat": "algo",
-   "title": "AtCoder Grand Contest 081",
+   "title": "AtCoder Grand Contest 082",
    "host": "AtCoder",
-   "url": "https://atcoder.jp/contests/agc081",
+   "url": "https://atcoder.jp/contests/agc082",
    "kind": "대회일",
    "date": "2026-12-27T12:00:00Z",
    "start": "2026-12-27T12:00:00Z",
@@ -4006,6 +4125,35 @@
    "title": "2026 AI 플레이 콘텐츠 제작 공모전 공모전",
    "host": "중앙대학교",
    "url": "https://linkareer.com/activity/358358",
+   "kind": "접수 마감",
+   "date": "2026-12-31T14:59:59Z",
+   "start": null,
+   "end": "2026-12-31T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-363354",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "[SCENE] 2026 SCENE AI·실사 웹드라마 공모전",
+   "host": "SCENE",
+   "url": "https://linkareer.com/activity/363354",
    "kind": "접수 마감",
    "date": "2026-12-31T14:59:59Z",
    "start": null,
