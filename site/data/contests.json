@@ -1,211 +1,50 @@
 {
- "updatedAt": "2026-11-11T01:02:30Z",
+ "updatedAt": "2026-11-11T16:59:43Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 6,
-   "checkedAt": "2026-11-11T01:02:30Z",
-   "lastSuccess": "2026-11-11T01:02:30Z"
+   "checkedAt": "2026-11-11T16:59:43Z",
+   "lastSuccess": "2026-11-11T16:59:43Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 7,
-   "checkedAt": "2026-11-11T01:02:30Z",
-   "lastSuccess": "2026-11-11T01:02:30Z"
+   "checkedAt": "2026-11-11T16:59:43Z",
+   "lastSuccess": "2026-11-11T16:59:43Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-11-11T01:02:30Z",
-   "lastSuccess": "2026-11-11T01:02:30Z"
+   "checkedAt": "2026-11-11T16:59:43Z",
+   "lastSuccess": "2026-11-11T16:59:43Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 24,
-   "checkedAt": "2026-11-11T01:02:30Z",
-   "lastSuccess": "2026-11-11T01:02:30Z"
+   "checkedAt": "2026-11-11T16:59:43Z",
+   "lastSuccess": "2026-11-11T16:59:43Z"
   },
   "링커리어": {
    "ok": true,
    "count": 78,
-   "checkedAt": "2026-11-11T01:02:30Z",
-   "lastSuccess": "2026-11-11T01:02:30Z"
+   "checkedAt": "2026-11-11T16:59:43Z",
+   "lastSuccess": "2026-11-11T16:59:43Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 21,
-   "checkedAt": "2026-11-11T01:02:30Z",
-   "lastSuccess": "2026-11-11T01:02:30Z"
+   "count": 20,
+   "checkedAt": "2026-11-11T16:59:43Z",
+   "lastSuccess": "2026-11-11T16:59:43Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-11T01:02:30Z",
-   "lastSuccess": "2026-11-11T01:02:30Z"
+   "checkedAt": "2026-11-11T16:59:43Z",
+   "lastSuccess": "2026-11-11T16:59:43Z"
   }
  },
  "contests": [
-  {
-   "id": "ck-202610290007",
-   "source": "콘테스트코리아",
-   "cat": "hack",
-   "title": "2026 AI활용 전국 대학생 창업 해커톤 대회",
-   "host": "교육부, 한국교육학술정보원(KERIS)",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610290007",
-   "kind": "접수 마감",
-   "date": "2026-11-11T14:59:59Z",
-   "start": null,
-   "end": "2026-11-11T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "대학생"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-10-26T15:00:00Z",
-     "end": "2026-11-11T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-10-26T15:00:00Z",
-     "end": "2026-11-11T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-358160",
-   "source": "링커리어",
-   "cat": "ai",
-   "title": "[산사람 x AI-Kive] 진짜 오타쿠 AI MV 챌린지",
-   "host": "(주)스튜디오프리윌루전",
-   "url": "https://linkareer.com/activity/358160",
-   "kind": "접수 마감",
-   "date": "2026-11-11T14:59:59Z",
-   "start": null,
-   "end": "2026-11-11T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": "AI"
-  },
-  {
-   "id": "lk-360379",
-   "source": "링커리어",
-   "cat": "hack",
-   "title": "[총상금 1,500만 원] 2026 AI 활용 전국 대학생 창업 해커톤 대회 참가자 모집",
-   "host": "터그",
-   "url": "https://linkareer.com/activity/360379",
-   "kind": "접수 마감",
-   "date": "2026-11-11T14:59:59Z",
-   "start": null,
-   "end": "2026-11-11T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-361393",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "소싱인마켓 급부상 AI광고제",
-   "host": "소싱인마켓 2026",
-   "url": "https://linkareer.com/activity/361393",
-   "kind": "접수 마감",
-   "date": "2026-11-11T14:59:59Z",
-   "start": null,
-   "end": "2026-11-11T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-351840",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "제 3회 송파 글로벌 AI영화음악 축제",
-   "host": "AI영화조직위원회 / AI융합산업협회, Global K",
-   "url": "https://linkareer.com/activity/351840",
-   "kind": "접수 마감",
-   "date": "2026-11-11T14:59:59Z",
-   "start": null,
-   "end": "2026-11-11T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "cf-2290",
    "source": "Codeforces",
@@ -1030,6 +869,35 @@
      "end": "2026-11-23T14:59:59Z"
     }
    ]
+  },
+  {
+   "id": "lk-363610",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "생성형 AI를 활용한 평택시청소년재단 캐릭터(마스코트) 공모전",
+   "host": "평택시",
+   "url": "https://linkareer.com/activity/363610",
+   "kind": "접수 마감",
+   "date": "2026-11-15T14:59:59Z",
+   "start": null,
+   "end": "2026-11-15T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "lk-359362",
@@ -2420,21 +2288,21 @@
    "tag": "CTF"
   },
   {
-   "id": "atc-agc080",
+   "id": "atc-arc234",
    "source": "AtCoder",
    "cat": "algo",
-   "title": "AtCoder Grand Contest 080",
+   "title": "AtCoder Regular Contest++ 234",
    "host": "AtCoder",
-   "url": "https://atcoder.jp/contests/agc080",
+   "url": "https://atcoder.jp/contests/arc234",
    "kind": "대회일",
    "date": "2026-11-22T12:00:00Z",
    "start": "2026-11-22T12:00:00Z",
-   "end": "2026-11-22T15:00:00Z",
+   "end": "2026-11-22T14:30:00Z",
    "allDay": false,
    "meta": [
     {
      "label": "진행 시간",
-     "value": "3시간"
+     "value": "2시간 30분"
     },
     {
      "label": "진행 방식",
@@ -2442,7 +2310,7 @@
     },
     {
      "label": "레이팅 범위",
-     "value": "2000 -"
+     "value": "1600 - 2999"
     },
     {
      "label": "팀 구성",
@@ -3021,6 +2889,35 @@
    "tag": null
   },
   {
+   "id": "lk-363760",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "2026 귀뚜라미 AI 숏폼 영상 챌린지",
+   "host": "귀뚜라미 보일러",
+   "url": "https://linkareer.com/activity/363760",
+   "kind": "접수 마감",
+   "date": "2026-11-30T14:59:59Z",
+   "start": null,
+   "end": "2026-11-30T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI"
+  },
+  {
    "id": "lk-363213",
    "source": "링커리어",
    "cat": "contest",
@@ -3422,6 +3319,35 @@
    "tag": "CTF"
   },
   {
+   "id": "lk-363649",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "제2회 저상버스 인식개선 사진·AI 이미지 공모전",
+   "host": "부산뇌병변복지관",
+   "url": "https://linkareer.com/activity/363649",
+   "kind": "접수 마감",
+   "date": "2026-12-04T14:59:59Z",
+   "start": null,
+   "end": "2026-12-04T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "ctf-3450",
    "source": "CTFtime",
    "cat": "ai",
@@ -3700,12 +3626,12 @@
    "tag": "CTF"
   },
   {
-   "id": "atc-agc081",
+   "id": "atc-agc080",
    "source": "AtCoder",
    "cat": "algo",
-   "title": "AtCoder Grand Contest 081",
+   "title": "AtCoder Grand Contest 080",
    "host": "AtCoder",
-   "url": "https://atcoder.jp/contests/agc081",
+   "url": "https://atcoder.jp/contests/agc080",
    "kind": "대회일",
    "date": "2026-12-13T12:00:00Z",
    "start": "2026-12-13T12:00:00Z",
@@ -3730,6 +3656,35 @@
     }
    ],
    "summary": ""
+  },
+  {
+   "id": "lk-363775",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "2026년 제3회 AMT AI 작곡대회 – KILLING DANCE 챌린지",
+   "host": "주식회사 프롬프트뱅크",
+   "url": "https://linkareer.com/activity/363775",
+   "kind": "접수 마감",
+   "date": "2026-12-13T14:59:59Z",
+   "start": null,
+   "end": "2026-12-13T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI"
   },
   {
    "id": "lk-362992",
@@ -4017,12 +3972,12 @@
    "tag": null
   },
   {
-   "id": "atc-agc082",
+   "id": "atc-agc081",
    "source": "AtCoder",
    "cat": "algo",
-   "title": "AtCoder Grand Contest 082",
+   "title": "AtCoder Grand Contest 081",
    "host": "AtCoder",
-   "url": "https://atcoder.jp/contests/agc082",
+   "url": "https://atcoder.jp/contests/agc081",
    "kind": "대회일",
    "date": "2026-12-27T12:00:00Z",
    "start": "2026-12-27T12:00:00Z",
