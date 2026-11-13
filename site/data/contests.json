@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-11-12T17:29:18Z",
+ "updatedAt": "2026-11-13T01:41:53Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-11-12T17:29:18Z",
-   "lastSuccess": "2026-11-12T17:29:18Z"
+   "checkedAt": "2026-11-13T01:41:53Z",
+   "lastSuccess": "2026-11-13T01:41:53Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 10,
-   "checkedAt": "2026-11-12T17:29:18Z",
-   "lastSuccess": "2026-11-12T17:29:18Z"
+   "checkedAt": "2026-11-13T01:41:53Z",
+   "lastSuccess": "2026-11-13T01:41:53Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-11-12T17:29:18Z",
-   "lastSuccess": "2026-11-12T17:29:18Z"
+   "checkedAt": "2026-11-13T01:41:53Z",
+   "lastSuccess": "2026-11-13T01:41:53Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 23,
-   "checkedAt": "2026-11-12T17:29:18Z",
-   "lastSuccess": "2026-11-12T17:29:18Z"
+   "checkedAt": "2026-11-13T01:41:53Z",
+   "lastSuccess": "2026-11-13T01:41:53Z"
   },
   "링커리어": {
    "ok": true,
    "count": 80,
-   "checkedAt": "2026-11-12T17:29:18Z",
-   "lastSuccess": "2026-11-12T17:29:18Z"
+   "checkedAt": "2026-11-13T01:41:53Z",
+   "lastSuccess": "2026-11-13T01:41:53Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 19,
-   "checkedAt": "2026-11-12T17:29:18Z",
-   "lastSuccess": "2026-11-12T17:29:18Z"
+   "count": 20,
+   "checkedAt": "2026-11-13T01:41:53Z",
+   "lastSuccess": "2026-11-13T01:41:53Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-12T17:29:18Z",
-   "lastSuccess": "2026-11-12T17:29:18Z"
+   "checkedAt": "2026-11-13T01:41:53Z",
+   "lastSuccess": "2026-11-13T01:41:53Z"
   }
  },
  "contests": [
@@ -571,7 +571,7 @@
    "id": "cf-2285",
    "source": "Codeforces",
    "cat": "algo",
-   "title": "Codeforces Round (Div. 2)",
+   "title": "Codeforces Round 1135 (Div. 2)",
    "host": "Codeforces",
    "url": "https://codeforces.com/contests/2285",
    "kind": "대회일",
@@ -2258,6 +2258,56 @@
    ],
    "summary": "",
    "tag": null
+  },
+  {
+   "id": "ck-202611120022",
+   "source": "콘테스트코리아",
+   "cat": "hack",
+   "title": "신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집",
+   "host": "신한금융희망재단",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611120022",
+   "kind": "접수 마감",
+   "date": "2026-11-22T14:59:59Z",
+   "start": null,
+   "end": "2026-11-22T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "대학생, 대학원생, 일반인"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-11-10T15:00:00Z",
+     "end": "2026-11-22T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-12-01T15:00:00Z",
+     "end": "2026-12-04T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-12-08T15:00:00Z",
+     "end": "2026-12-09T14:59:59Z"
+    }
+   ]
   },
   {
    "id": "lk-364086",
