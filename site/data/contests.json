@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-11-13T01:41:53Z",
+ "updatedAt": "2026-11-13T17:03:56Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-11-13T01:41:53Z",
-   "lastSuccess": "2026-11-13T01:41:53Z"
+   "checkedAt": "2026-11-13T17:03:56Z",
+   "lastSuccess": "2026-11-13T17:03:56Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 10,
-   "checkedAt": "2026-11-13T01:41:53Z",
-   "lastSuccess": "2026-11-13T01:41:53Z"
+   "checkedAt": "2026-11-13T17:03:56Z",
+   "lastSuccess": "2026-11-13T17:03:56Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-11-13T01:41:53Z",
-   "lastSuccess": "2026-11-13T01:41:53Z"
+   "checkedAt": "2026-11-13T17:03:56Z",
+   "lastSuccess": "2026-11-13T17:03:56Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 23,
-   "checkedAt": "2026-11-13T01:41:53Z",
-   "lastSuccess": "2026-11-13T01:41:53Z"
+   "count": 21,
+   "checkedAt": "2026-11-13T17:03:56Z",
+   "lastSuccess": "2026-11-13T17:03:56Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 80,
-   "checkedAt": "2026-11-13T01:41:53Z",
-   "lastSuccess": "2026-11-13T01:41:53Z"
+   "count": 75,
+   "checkedAt": "2026-11-13T17:03:56Z",
+   "lastSuccess": "2026-11-13T17:03:56Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 20,
-   "checkedAt": "2026-11-13T01:41:53Z",
-   "lastSuccess": "2026-11-13T01:41:53Z"
+   "count": 19,
+   "checkedAt": "2026-11-13T17:03:56Z",
+   "lastSuccess": "2026-11-13T17:03:56Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-13T01:41:53Z",
-   "lastSuccess": "2026-11-13T01:41:53Z"
+   "checkedAt": "2026-11-13T17:03:56Z",
+   "lastSuccess": "2026-11-13T17:03:56Z"
   }
  },
  "contests": [
@@ -85,308 +85,6 @@
      "end": "2026-11-14T14:59:59Z"
     }
    ]
-  },
-  {
-   "id": "ctf-3486",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "TVX CTF 2026",
-   "host": "Tech Visions",
-   "url": "https://ctftime.org/event/3486/",
-   "kind": "대회일",
-   "date": "2026-11-13T10:00:00Z",
-   "start": "2026-11-13T10:00:00Z",
-   "end": "2026-11-13T20:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "Casual"
-    },
-    {
-     "label": "진행 시간",
-     "value": "10시간"
-    },
-    {
-     "label": "상금",
-     "value": "TVX CTF 2026 – A Prize Pool Worth Over $10,000! TVX CTF 2026 brings an incredib…"
-    }
-   ],
-   "summary": "TVX CTF is a cybersecurity Capture The Flag competition organized by Tech Visions. Challenge categories include: • DFIR (Digital Forensics & Incident Response) • Cloud Security • Malware Analysis • Reverse Engineering • Pwn (Binary Exploitation) • Web Exploitation • Cryptography • OSINT (Open-Source Intelligence) Test your skills, solve real-world-inspired…",
-   "tag": "CTF"
-  },
-  {
-   "id": "lk-352004",
-   "source": "링커리어",
-   "cat": "ai",
-   "title": "2026 동남 버그바운티 대회",
-   "host": "파인더갭",
-   "url": "https://linkareer.com/activity/352004",
-   "kind": "접수 마감",
-   "date": "2026-11-13T14:59:59Z",
-   "start": null,
-   "end": "2026-11-13T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": "보안"
-  },
-  {
-   "id": "lk-353862",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "5극3특 성장엔진 미래지도 AI 영상 공모전",
-   "host": "한국산업기술진흥원",
-   "url": "https://linkareer.com/activity/353862",
-   "kind": "접수 마감",
-   "date": "2026-11-13T14:59:59Z",
-   "start": null,
-   "end": "2026-11-13T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-350361",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "AI 활용 옥외광고 간판 디자인 공모전",
-   "host": "한국지방재정공제회 한국옥외광고센터",
-   "url": "https://linkareer.com/activity/350361",
-   "kind": "접수 마감",
-   "date": "2026-11-13T14:59:59Z",
-   "start": null,
-   "end": "2026-11-13T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-362570",
-   "source": "링커리어",
-   "cat": "ai",
-   "title": "AI를 활용한 3분 숏츠 챌린지 대회",
-   "host": "대전일자리경제진흥원",
-   "url": "https://linkareer.com/activity/362570",
-   "kind": "접수 마감",
-   "date": "2026-11-13T14:59:59Z",
-   "start": null,
-   "end": "2026-11-13T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": "AI"
-  },
-  {
-   "id": "lk-359538",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "[CJ제일제당] 햇반 30주년 AI 공모전 ‘갓 지은 AI디어’",
-   "host": "CJ제일제당",
-   "url": "https://linkareer.com/activity/359538",
-   "kind": "접수 마감",
-   "date": "2026-11-13T14:59:59Z",
-   "start": null,
-   "end": "2026-11-13T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-359552",
-   "source": "링커리어",
-   "cat": "ai",
-   "title": "[엘리스] 과기부 × 엘리스 AI 챌린지 : 일상 속 문제, AI로 해결하다 (전국민 AI 경진대회)",
-   "host": "엘리스",
-   "url": "https://linkareer.com/activity/359552",
-   "kind": "접수 마감",
-   "date": "2026-11-13T14:59:59Z",
-   "start": null,
-   "end": "2026-11-13T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": "AI"
-  },
-  {
-   "id": "ck-202610260051",
-   "source": "콘테스트코리아",
-   "cat": "contest",
-   "title": "[햇반 30주년] 갓 지은 AI디어 공모전",
-   "host": "CJ제일제당",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202610260051",
-   "kind": "접수 마감",
-   "date": "2026-11-13T14:59:59Z",
-   "start": null,
-   "end": "2026-11-13T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "중학생, 고등학생, 대학생, 일반인, 해당자 ▶"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-10-25T15:00:00Z",
-     "end": "2026-11-13T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-10-13T15:00:00Z",
-     "end": "2026-11-26T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-26T15:00:00Z",
-     "end": "2026-11-27T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "ctf-3082",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "Platypwn 2026",
-   "host": "Platypwnies",
-   "url": "https://ctftime.org/event/3082/",
-   "kind": "대회일",
-   "date": "2026-11-13T17:00:00Z",
-   "start": "2026-11-13T17:00:00Z",
-   "end": "2026-11-14T11:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "진행 시간",
-     "value": "18시간"
-    },
-    {
-     "label": "상금",
-     "value": "See https://platypwnies.de/events/platypwn"
-    },
-    {
-     "label": "CTFtime 가중치",
-     "value": "37"
-    }
-   ],
-   "summary": "The Platypwn 2026 is an online Jeopardy CTF which offers easy challenges for beginners, but also medium and difficult challenges for advanced players. See https://platypwnies.de/events/platypwn for further details.",
-   "tag": "CTF"
   },
   {
    "id": "ctf-3049",
@@ -2857,6 +2555,35 @@
    "tag": null
   },
   {
+   "id": "lk-364265",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "쉽고 바른 정보통신기술(ICT) 공공언어 웹툰 공모전",
+   "host": "동아대 국어문화원",
+   "url": "https://linkareer.com/activity/364265",
+   "kind": "접수 마감",
+   "date": "2026-11-29T14:59:59Z",
+   "start": null,
+   "end": "2026-11-29T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "lk-364040",
    "source": "링커리어",
    "cat": "contest",
@@ -3377,7 +3104,7 @@
    "id": "lk-363957",
    "source": "링커리어",
    "cat": "contest",
-   "title": "서울 로컬브랜드 AI 숏폼 공모전",
+   "title": "서울 로컬브랜드 AI 기반 콘텐츠 마케팅 공모전",
    "host": "한국에스엔에스인재개발원",
    "url": "https://linkareer.com/activity/363957",
    "kind": "접수 마감",
