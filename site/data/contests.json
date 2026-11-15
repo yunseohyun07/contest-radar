@@ -1,91 +1,50 @@
 {
- "updatedAt": "2026-11-14T15:41:42Z",
+ "updatedAt": "2026-11-15T00:47:52Z",
  "sources": {
   "Codeforces": {
    "ok": true,
-   "count": 5,
-   "checkedAt": "2026-11-14T15:41:42Z",
-   "lastSuccess": "2026-11-14T15:41:42Z"
+   "count": 6,
+   "checkedAt": "2026-11-15T00:47:52Z",
+   "lastSuccess": "2026-11-15T00:47:52Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-14T15:41:42Z",
-   "lastSuccess": "2026-11-14T15:41:42Z"
+   "checkedAt": "2026-11-15T00:47:52Z",
+   "lastSuccess": "2026-11-15T00:47:52Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-11-14T15:41:42Z",
-   "lastSuccess": "2026-11-14T15:41:42Z"
+   "checkedAt": "2026-11-15T00:47:52Z",
+   "lastSuccess": "2026-11-15T00:47:52Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 18,
-   "checkedAt": "2026-11-14T15:41:42Z",
-   "lastSuccess": "2026-11-14T15:41:42Z"
+   "count": 21,
+   "checkedAt": "2026-11-15T00:47:52Z",
+   "lastSuccess": "2026-11-15T00:47:52Z"
   },
   "링커리어": {
    "ok": true,
    "count": 76,
-   "checkedAt": "2026-11-14T15:41:42Z",
-   "lastSuccess": "2026-11-14T15:41:42Z"
+   "checkedAt": "2026-11-15T00:47:52Z",
+   "lastSuccess": "2026-11-15T00:47:52Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 20,
-   "checkedAt": "2026-11-14T15:41:42Z",
-   "lastSuccess": "2026-11-14T15:41:42Z"
+   "checkedAt": "2026-11-15T00:47:52Z",
+   "lastSuccess": "2026-11-15T00:47:52Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-14T15:41:42Z",
-   "lastSuccess": "2026-11-14T15:41:42Z"
+   "checkedAt": "2026-11-15T00:47:52Z",
+   "lastSuccess": "2026-11-15T00:47:52Z"
   }
  },
  "contests": [
-  {
-   "id": "annual-icpc-seoul-1",
-   "source": "연례 대회",
-   "cat": "algo",
-   "title": "ICPC 서울 리저널 본선",
-   "host": "ICPC Korea",
-   "url": "https://icpckorea.org/",
-   "kind": "본선",
-   "date": "2026-11-12T15:00:00Z",
-   "start": "2026-11-12T15:00:00Z",
-   "end": "2026-11-14T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 자격",
-     "value": "대학(원)생"
-    },
-    {
-     "label": "팀 구성",
-     "value": "같은 학교 3명"
-    },
-    {
-     "label": "진행 방식",
-     "value": "예선 온라인 · 본선 오프라인"
-    }
-   ],
-   "summary": "세계 대학생 프로그래밍 대회(ICPC)의 한국 지역 대회. 인터넷 예선 후 본선을 치러요.",
-   "tag": "연례",
-   "timeline": [
-    {
-     "label": "인터넷 예선",
-     "start": "2026-10-15T15:00:00Z",
-     "end": "2026-10-17T14:59:59Z"
-    },
-    {
-     "label": "본선",
-     "start": "2026-11-12T15:00:00Z",
-     "end": "2026-11-14T14:59:59Z"
-    }
-   ]
-  },
   {
    "id": "lc-weekly-contest-528",
    "source": "LeetCode",
@@ -1531,6 +1490,43 @@
    "tag": "CTF"
   },
   {
+   "id": "ctf-3049",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "WolvCTF 2026",
+   "host": "w01verines",
+   "url": "https://ctftime.org/event/3049/",
+   "kind": "대회일",
+   "date": "2026-11-20T23:00:00Z",
+   "start": "2026-11-20T23:00:00Z",
+   "end": "2026-11-22T23:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "2일"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "This event will be postponed to Fri, 20 Nov. 2026, 18:00 EST — Sun, 22 Nov. 2026, 18:00 EST Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.).…",
+   "tag": "CTF"
+  },
+  {
    "id": "ctf-3408",
    "source": "CTFtime",
    "cat": "ai",
@@ -1772,6 +1768,38 @@
    ],
    "summary": "CyberSci is Canada's national Cyber Security Challenge for university and college students. - Think you've got an elite team of students? Come and prove it. Our winners will go on to compete against the best in the world. - Just starting out? This is the best way to learn and rise to the top. - Annual in-person events since 2016. (Online during Covid.) Over…",
    "tag": "CTF"
+  },
+  {
+   "id": "cf-2289",
+   "source": "Codeforces",
+   "cat": "algo",
+   "title": "Codeforces Round (Div. 2)",
+   "host": "Codeforces",
+   "url": "https://codeforces.com/contests/2289",
+   "kind": "대회일",
+   "date": "2026-11-22T09:05:00Z",
+   "start": "2026-11-22T09:05:00Z",
+   "end": "2026-11-22T11:05:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "2시간"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나 (Div. 2)"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
   },
   {
    "id": "atc-arc234",
@@ -3372,6 +3400,43 @@
    "tag": "CTF"
   },
   {
+   "id": "ctf-3505",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "OTERIA Cyber Cup #4",
+   "host": "OteriHack",
+   "url": "https://ctftime.org/event/3505/",
+   "kind": "대회일",
+   "date": "2026-12-12T09:00:00Z",
+   "start": "2026-12-12T09:00:00Z",
+   "end": "2026-12-12T17:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "오프라인 · France, Gennevilliers"
+    },
+    {
+     "label": "참가 자격",
+     "value": "학생"
+    },
+    {
+     "label": "진행 시간",
+     "value": "8시간"
+    },
+    {
+     "label": "상금",
+     "value": "1st place: 500€ + goodies 2nd place: 300€ + goodies 3rd place: 150€ + goodies T…"
+    }
+   ],
+   "summary": "# OTERIA Cyber ​​Cup #4 Rejoignez-nous le 12 décembre 2026 pour la quatrième édition de l'OTERIA Cyber ​​Cup, une compétition de type « Capture The Flag » (CTF) destinée aux étudiants, organisée par l'OTERIA Cyber ​​School à Gennevilliers, en France. Détails de l'événement - Date : 12 décembre 2026 - Lieu : OTERIA Cyber ​​School, 1 Rue du 19 Mars 1962, 9223…",
+   "tag": "CTF"
+  },
+  {
    "id": "atc-agc080",
    "source": "AtCoder",
    "cat": "algo",
@@ -3966,6 +4031,47 @@
     }
    ],
    "summary": "GaianSpace CTF, hosted by GaianSpace! Challenges to secure ground and space systems through Web, Pwn, Forensics, Reverse, Network, Crypto and more. Varied difficulties ensure fun for all skill levels. Hack the cosmos with us! Location: Online Event format: Jeopardy Event start datetime: 2027.01.02 6:00pm (UTC) Event finish datetime: 2027.01.03 6:00pm (UTC)…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3508",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "UofTCTF 2027",
+   "host": "UofTCTF",
+   "url": "https://ctftime.org/event/3508/",
+   "kind": "대회일",
+   "date": "2027-01-09T00:00:00Z",
+   "start": "2027-01-09T00:00:00Z",
+   "end": "2027-01-11T00:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "2일"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "CTFtime 가중치",
+     "value": "50"
+    }
+   ],
+   "summary": "UofTCTF 2027 is the annual capture-the-flag competition organized by the UofTCTF team. This year’s event will take place online from January 8, 2027, at 7:00 PM EST to January 10, 2027, at 7:00 PM EST. It will be a jeopardy-style CTF with classic categories like web, pwn, crypto, rev, forensics, and misc. Join the event discord server: https://discord.gg/4m…",
    "tag": "CTF"
   },
   {
