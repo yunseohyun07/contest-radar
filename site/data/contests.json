@@ -1,462 +1,50 @@
 {
- "updatedAt": "2026-11-15T00:47:52Z",
+ "updatedAt": "2026-11-15T16:11:46Z",
  "sources": {
   "Codeforces": {
    "ok": true,
-   "count": 6,
-   "checkedAt": "2026-11-15T00:47:52Z",
-   "lastSuccess": "2026-11-15T00:47:52Z"
+   "count": 5,
+   "checkedAt": "2026-11-15T16:11:46Z",
+   "lastSuccess": "2026-11-15T16:11:46Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-15T00:47:52Z",
-   "lastSuccess": "2026-11-15T00:47:52Z"
+   "checkedAt": "2026-11-15T16:11:46Z",
+   "lastSuccess": "2026-11-15T16:11:46Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-11-15T00:47:52Z",
-   "lastSuccess": "2026-11-15T00:47:52Z"
+   "checkedAt": "2026-11-15T16:11:46Z",
+   "lastSuccess": "2026-11-15T16:11:46Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 21,
-   "checkedAt": "2026-11-15T00:47:52Z",
-   "lastSuccess": "2026-11-15T00:47:52Z"
+   "count": 25,
+   "checkedAt": "2026-11-15T16:11:46Z",
+   "lastSuccess": "2026-11-15T16:11:46Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 76,
-   "checkedAt": "2026-11-15T00:47:52Z",
-   "lastSuccess": "2026-11-15T00:47:52Z"
+   "count": 66,
+   "checkedAt": "2026-11-15T16:11:46Z",
+   "lastSuccess": "2026-11-15T16:11:46Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 20,
-   "checkedAt": "2026-11-15T00:47:52Z",
-   "lastSuccess": "2026-11-15T00:47:52Z"
+   "count": 17,
+   "checkedAt": "2026-11-15T16:11:46Z",
+   "lastSuccess": "2026-11-15T16:11:46Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-15T00:47:52Z",
-   "lastSuccess": "2026-11-15T00:47:52Z"
+   "checkedAt": "2026-11-15T16:11:46Z",
+   "lastSuccess": "2026-11-15T16:11:46Z"
   }
  },
  "contests": [
-  {
-   "id": "lc-weekly-contest-528",
-   "source": "LeetCode",
-   "cat": "algo",
-   "title": "LeetCode Weekly Contest 528",
-   "host": "LeetCode",
-   "url": "https://leetcode.com/contest/weekly-contest-528",
-   "kind": "대회일",
-   "date": "2026-11-15T02:30:00Z",
-   "start": "2026-11-15T02:30:00Z",
-   "end": "2026-11-15T04:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "1시간 30분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "cf-2285",
-   "source": "Codeforces",
-   "cat": "algo",
-   "title": "Codeforces Round 1135 (Div. 2)",
-   "host": "Codeforces",
-   "url": "https://codeforces.com/contests/2285",
-   "kind": "대회일",
-   "date": "2026-11-15T14:35:00Z",
-   "start": "2026-11-15T14:35:00Z",
-   "end": "2026-11-15T16:35:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "2시간"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나 (Div. 2)"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "ck-202610290006",
-   "source": "콘테스트코리아",
-   "cat": "contest",
-   "title": "2026 대구 대학(원) AI 드래프톤",
-   "host": "대구광역시",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610290006",
-   "kind": "접수 마감",
-   "date": "2026-11-15T14:59:59Z",
-   "start": null,
-   "end": "2026-11-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "대학생, 대학원생"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-10-27T15:00:00Z",
-     "end": "2026-11-15T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-24T15:00:00Z",
-     "end": "2026-11-25T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-362617",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026 진안고원 치유골목 AI 쇼츠영상 콘테스트",
-   "host": "진안군",
-   "url": "https://linkareer.com/activity/362617",
-   "kind": "접수 마감",
-   "date": "2026-11-15T14:59:59Z",
-   "start": null,
-   "end": "2026-11-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "ck-202611030035",
-   "source": "콘테스트코리아",
-   "cat": "contest",
-   "title": "AX인재전쟁 온라인 x 삼일PwC: 스펙·학력 없이 AI 역량으로 채용까지",
-   "host": "조코딩AX파트너스",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611030035",
-   "kind": "접수 마감",
-   "date": "2026-11-15T14:59:59Z",
-   "start": null,
-   "end": "2026-11-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "대학생, 대학원생, 일반인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-10-30T15:00:00Z",
-     "end": "2026-11-15T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-11-15T15:00:00Z",
-     "end": "2026-11-22T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-22T15:00:00Z",
-     "end": "2026-11-23T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-363610",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "생성형 AI를 활용한 평택시청소년재단 캐릭터(마스코트) 공모전",
-   "host": "평택시",
-   "url": "https://linkareer.com/activity/363610",
-   "kind": "접수 마감",
-   "date": "2026-11-15T14:59:59Z",
-   "start": null,
-   "end": "2026-11-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-359362",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "완주군 피지컬AI 실증단지 명칭 공모전",
-   "host": "완주군",
-   "url": "https://linkareer.com/activity/359362",
-   "kind": "접수 마감",
-   "date": "2026-11-15T14:59:59Z",
-   "start": null,
-   "end": "2026-11-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-361452",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "조코딩 AX인재전쟁 온라인 x 삼일PwC: 스펙·학력 없이 AI 역량으로 채용까지",
-   "host": "조코딩AX파트너스",
-   "url": "https://linkareer.com/activity/361452",
-   "kind": "접수 마감",
-   "date": "2026-11-15T14:59:59Z",
-   "start": null,
-   "end": "2026-11-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-362868",
-   "source": "링커리어",
-   "cat": "hack",
-   "title": "토마토들 학생회 아이디어톤",
-   "host": "주식회사 리에이크",
-   "url": "https://linkareer.com/activity/362868",
-   "kind": "접수 마감",
-   "date": "2026-11-15T14:59:59Z",
-   "start": null,
-   "end": "2026-11-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-360437",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "한국해외인프라도시개발지원공사 KIND 뉴 슬로건 공모전",
-   "host": "(주)휴비즈",
-   "url": "https://linkareer.com/activity/360437",
-   "kind": "접수 마감",
-   "date": "2026-11-15T14:59:59Z",
-   "start": null,
-   "end": "2026-11-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-360517",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "한국해외인프라도시개발지원공사(KIND) 뉴 슬로건 공모전",
-   "host": "한국해외인프라도시개발지원공사(KIND)",
-   "url": "https://linkareer.com/activity/360517",
-   "kind": "접수 마감",
-   "date": "2026-11-15T14:59:59Z",
-   "start": null,
-   "end": "2026-11-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "ck-202610200005",
-   "source": "콘테스트코리아",
-   "cat": "contest",
-   "title": "현대자동차그룹 차량용 앱 개발 공모전",
-   "host": "현대자동차그룹",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202610200005",
-   "kind": "접수 마감",
-   "date": "2026-11-15T14:59:59Z",
-   "start": null,
-   "end": "2026-11-15T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "대학생, 대학원생, 일반인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-10-20T15:00:00Z",
-     "end": "2026-11-15T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-11-22T15:00:00Z",
-     "end": "2026-12-04T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-12-17T15:00:00Z",
-     "end": "2026-12-18T14:59:59Z"
-    }
-   ]
-  },
   {
    "id": "lk-343445",
    "source": "링커리어",
@@ -1523,7 +1111,7 @@
      "value": "원문 확인"
     }
    ],
-   "summary": "This event will be postponed to Fri, 20 Nov. 2026, 18:00 EST — Sun, 22 Nov. 2026, 18:00 EST Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.).…",
+   "summary": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Than…",
    "tag": "CTF"
   },
   {
@@ -1768,6 +1356,38 @@
    ],
    "summary": "CyberSci is Canada's national Cyber Security Challenge for university and college students. - Think you've got an elite team of students? Come and prove it. Our winners will go on to compete against the best in the world. - Just starting out? This is the best way to learn and rise to the top. - Annual in-person events since 2016. (Online during Covid.) Over…",
    "tag": "CTF"
+  },
+  {
+   "id": "lc-weekly-contest-529",
+   "source": "LeetCode",
+   "cat": "algo",
+   "title": "LeetCode Weekly Contest 529",
+   "host": "LeetCode",
+   "url": "https://leetcode.com/contest/weekly-contest-529",
+   "kind": "대회일",
+   "date": "2026-11-22T02:30:00Z",
+   "start": "2026-11-22T02:30:00Z",
+   "end": "2026-11-22T04:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "1시간 30분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
   },
   {
    "id": "cf-2289",
@@ -2219,6 +1839,43 @@
    "tag": null
   },
   {
+   "id": "ctf-3502",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "RedReaper CTF",
+   "host": "RedReaper",
+   "url": "https://ctftime.org/event/3502/",
+   "kind": "대회일",
+   "date": "2026-11-27T11:00:00Z",
+   "start": "2026-11-27T11:00:00Z",
+   "end": "2026-11-27T19:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "8시간"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "RedReaper CTF Welcome to RedReaper CTF, a cybersecurity Capture The Flag competition organized by RedX & Reaper Enter a dark world of cybersecurity challenges, where technical knowledge, creativity, and problem-solving skills will determine who survives the hunt. Test your skills across multiple cybersecurity domains, solve challenges, uncover hidden flags,…",
+   "tag": "CTF"
+  },
+  {
    "id": "lk-359156",
    "source": "링커리어",
    "cat": "contest",
@@ -2422,6 +2079,43 @@
     }
    ],
    "summary": ""
+  },
+  {
+   "id": "ctf-3510",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "Black Hat India 2026 Official CTF",
+   "host": "CTF7",
+   "url": "https://ctftime.org/event/3510/",
+   "kind": "대회일",
+   "date": "2026-11-28T14:00:00Z",
+   "start": "2026-11-28T14:00:00Z",
+   "end": "2026-11-29T14:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": "9 Black Hat India 2027 Briefings passes in total, worth ₹7,65,000 (₹85,000 each…"
+    }
+   ],
+   "summary": "Black Hat India 2026 Official CTF is a 24-hour online Jeopardy-style CTF with 200 original challenges. The top 3 teams each win 3 Briefings passes (9 in total, each worth ₹85,000) to attend Black Hat India 2027 in Hyderabad. Dates for Black Hat India 2027 are yet to be announced. Categories: Web3, Smart Contract Exploitation, LLM Security, AI Security, IAM,…",
+   "tag": "CTF"
   },
   {
    "id": "lk-360570",
@@ -3061,6 +2755,43 @@
     }
    ],
    "summary": "Black Hat MEA Capture The Flag (CTF) 2026 ? The Black Hat MEA Capture The Flag (CTF) is the largest cybersecurity competition in the region and officially the largest Capture The Flag competition in the world, recognized with a Guinness World Record. Organized by the Saudi Federation for Cybersecurity, Programming and Drones (SAFCSP) in collaboration with B…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3509",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "2026 Qiangwang Challenge on Cyber Mimic Defense Finals",
+   "host": "LoveFromMimic",
+   "url": "https://ctftime.org/event/3509/",
+   "kind": "대회일",
+   "date": "2026-12-03T04:00:00Z",
+   "start": "2026-12-03T04:00:00Z",
+   "end": "2026-12-06T04:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Hack quest"
+    },
+    {
+     "label": "진행 방식",
+     "value": "오프라인 · Nanjing, China"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "3일"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "The 2026 Qiangwang Challenge on Cyber Mimic Defense Finals is the on-site final round of the 9th Qiangwang International Elite Challenge on Cyber Mimic Defense in Nanjing, China. Qualified and invited teams conduct security research on physical targets within the competition scope across six tracks. Judges evaluate the teams’ technical reports under the com…",
    "tag": "CTF"
   },
   {
@@ -3883,6 +3614,43 @@
    ],
    "summary": "",
    "tag": "AI"
+  },
+  {
+   "id": "ctf-3511",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "THE FINAL EXPLOIT CTF 2026—QUALIFIERS",
+   "host": "OxV01D",
+   "url": "https://ctftime.org/event/3511/",
+   "kind": "대회일",
+   "date": "2026-12-29T12:00:00Z",
+   "start": "2026-12-29T12:00:00Z",
+   "end": "2026-12-31T12:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "2일"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "THE FINAL EXPLOIT CTF 2026 — QUALIFIERS ONE LAST FLAG. ONE FINAL EXPLOIT. The year is coming to an end, but there's one last challenge waiting. Organized by 0xV01D, THE FINAL EXPLOIT CTF 2026 is a 48-hour international online Jeopardy-style competition, open to CTF teams worldwide. Compete against teams from around the world, solve challenging cybersecurity…",
+   "tag": "CTF"
   },
   {
    "id": "lk-358358",
