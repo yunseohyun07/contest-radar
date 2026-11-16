@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-11-15T16:11:46Z",
+ "updatedAt": "2026-11-16T00:47:22Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-11-15T16:11:46Z",
-   "lastSuccess": "2026-11-15T16:11:46Z"
+   "checkedAt": "2026-11-16T00:47:22Z",
+   "lastSuccess": "2026-11-16T00:47:22Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-15T16:11:46Z",
-   "lastSuccess": "2026-11-15T16:11:46Z"
+   "checkedAt": "2026-11-16T00:47:22Z",
+   "lastSuccess": "2026-11-16T00:47:22Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-11-15T16:11:46Z",
-   "lastSuccess": "2026-11-15T16:11:46Z"
+   "checkedAt": "2026-11-16T00:47:22Z",
+   "lastSuccess": "2026-11-16T00:47:22Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 25,
-   "checkedAt": "2026-11-15T16:11:46Z",
-   "lastSuccess": "2026-11-15T16:11:46Z"
+   "checkedAt": "2026-11-16T00:47:22Z",
+   "lastSuccess": "2026-11-16T00:47:22Z"
   },
   "링커리어": {
    "ok": true,
    "count": 66,
-   "checkedAt": "2026-11-15T16:11:46Z",
-   "lastSuccess": "2026-11-15T16:11:46Z"
+   "checkedAt": "2026-11-16T00:47:22Z",
+   "lastSuccess": "2026-11-16T00:47:22Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 17,
-   "checkedAt": "2026-11-15T16:11:46Z",
-   "lastSuccess": "2026-11-15T16:11:46Z"
+   "checkedAt": "2026-11-16T00:47:22Z",
+   "lastSuccess": "2026-11-16T00:47:22Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-15T16:11:46Z",
-   "lastSuccess": "2026-11-15T16:11:46Z"
+   "checkedAt": "2026-11-16T00:47:22Z",
+   "lastSuccess": "2026-11-16T00:47:22Z"
   }
  },
  "contests": [
