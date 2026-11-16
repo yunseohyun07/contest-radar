@@ -1,232 +1,50 @@
 {
- "updatedAt": "2026-11-16T00:47:22Z",
+ "updatedAt": "2026-11-16T19:27:52Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-11-16T00:47:22Z",
-   "lastSuccess": "2026-11-16T00:47:22Z"
+   "checkedAt": "2026-11-16T19:27:52Z",
+   "lastSuccess": "2026-11-16T19:27:52Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-16T00:47:22Z",
-   "lastSuccess": "2026-11-16T00:47:22Z"
+   "checkedAt": "2026-11-16T19:27:52Z",
+   "lastSuccess": "2026-11-16T19:27:52Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-11-16T00:47:22Z",
-   "lastSuccess": "2026-11-16T00:47:22Z"
+   "checkedAt": "2026-11-16T19:27:52Z",
+   "lastSuccess": "2026-11-16T19:27:52Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 25,
-   "checkedAt": "2026-11-16T00:47:22Z",
-   "lastSuccess": "2026-11-16T00:47:22Z"
+   "checkedAt": "2026-11-16T19:27:52Z",
+   "lastSuccess": "2026-11-16T19:27:52Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 66,
-   "checkedAt": "2026-11-16T00:47:22Z",
-   "lastSuccess": "2026-11-16T00:47:22Z"
+   "count": 65,
+   "checkedAt": "2026-11-16T19:27:52Z",
+   "lastSuccess": "2026-11-16T19:27:52Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 17,
-   "checkedAt": "2026-11-16T00:47:22Z",
-   "lastSuccess": "2026-11-16T00:47:22Z"
+   "count": 20,
+   "checkedAt": "2026-11-16T19:27:52Z",
+   "lastSuccess": "2026-11-16T19:27:52Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-16T00:47:22Z",
-   "lastSuccess": "2026-11-16T00:47:22Z"
+   "checkedAt": "2026-11-16T19:27:52Z",
+   "lastSuccess": "2026-11-16T19:27:52Z"
   }
  },
  "contests": [
-  {
-   "id": "lk-343445",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026 AI 캐릭터창작공모전",
-   "host": "(사)캐릭터디자인협회",
-   "url": "https://linkareer.com/activity/343445",
-   "kind": "접수 마감",
-   "date": "2026-11-16T14:59:59Z",
-   "start": null,
-   "end": "2026-11-16T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "ck-202611070021",
-   "source": "콘테스트코리아",
-   "cat": "hack",
-   "title": "Korea Local Marketing Hackathon 2026",
-   "host": "HACK:ON(해커온)",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611070021",
-   "kind": "접수 마감",
-   "date": "2026-11-16T14:59:59Z",
-   "start": null,
-   "end": "2026-11-16T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-11-06T15:00:00Z",
-     "end": "2026-11-16T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-20T15:00:00Z",
-     "end": "2026-11-21T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-362973",
-   "source": "링커리어",
-   "cat": "hack",
-   "title": "Korea Local Marketing Hackathon 2026 · 경복궁 말고, 외국인 친구에게 알려 줄 동네 지도",
-   "host": "해커온",
-   "url": "https://linkareer.com/activity/362973",
-   "kind": "접수 마감",
-   "date": "2026-11-16T14:59:59Z",
-   "start": null,
-   "end": "2026-11-16T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "ck-202609160045",
-   "source": "콘테스트코리아",
-   "cat": "ai",
-   "title": "제1회 전국 대학생 AI 재무설계 콘테스트 'AFPK 영 플래너 챌린지 2026'",
-   "host": "(사)한국재무설계협회, 한국FP학회",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202609160045",
-   "kind": "접수 마감",
-   "date": "2026-11-16T14:59:59Z",
-   "start": null,
-   "end": "2026-11-16T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "대학생"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": "AI",
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-08-31T15:00:00Z",
-     "end": "2026-11-16T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-11-16T15:00:00Z",
-     "end": "2026-12-06T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-12-06T15:00:00Z",
-     "end": "2026-12-07T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-355507",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "제2회 AI전자그림책 공모전 'AI 이야기 숲'",
-   "host": "사단법인 한국독서문화재단",
-   "url": "https://linkareer.com/activity/355507",
-   "kind": "접수 마감",
-   "date": "2026-11-16T14:59:59Z",
-   "start": null,
-   "end": "2026-11-16T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "ck-202611140023",
    "source": "콘테스트코리아",
@@ -1752,6 +1570,56 @@
    "tag": null
   },
   {
+   "id": "ck-202611160023",
+   "source": "콘테스트코리아",
+   "cat": "contest",
+   "title": "2026 포항시 AI 솔루션 아이디어 대회",
+   "host": "경북ICT융합산업진흥협회",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611160023",
+   "kind": "접수 마감",
+   "date": "2026-11-25T14:59:59Z",
+   "start": null,
+   "end": "2026-11-25T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "대학생, 대학원생, 일반인, 해당자 ▶"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-11-08T15:00:00Z",
+     "end": "2026-11-25T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-11-25T15:00:00Z",
+     "end": "2026-11-27T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-12-04T15:00:00Z",
+     "end": "2026-12-05T14:59:59Z"
+    }
+   ]
+  },
+  {
    "id": "lk-342034",
    "source": "링커리어",
    "cat": "ai",
@@ -2118,6 +1986,56 @@
    "tag": "CTF"
   },
   {
+   "id": "ck-202611160001",
+   "source": "콘테스트코리아",
+   "cat": "hack",
+   "title": "TripPups AI Game Hackathon 2026",
+   "host": "Trip-Pups",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611160001",
+   "kind": "접수 마감",
+   "date": "2026-11-28T14:59:59Z",
+   "start": null,
+   "end": "2026-11-28T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "대학생, 대학원생, 일반인, 외국인"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-11-15T15:00:00Z",
+     "end": "2026-11-28T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-11-28T15:00:00Z",
+     "end": "2026-12-04T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-12-04T15:00:00Z",
+     "end": "2026-12-05T14:59:59Z"
+    }
+   ]
+  },
+  {
    "id": "lk-360570",
    "source": "링커리어",
    "cat": "contest",
@@ -2183,12 +2101,62 @@
    "summary": ""
   },
   {
-   "id": "lk-363236",
-   "source": "링커리어",
+   "id": "ck-202611160006",
+   "source": "콘테스트코리아",
    "cat": "hack",
    "title": "『2026 SVC Seoul AI 해커톤』 | 현대건설과 함께하는 주거생활 AI 아이디어 도전",
-   "host": "앤에이솔루션(주)",
-   "url": "https://linkareer.com/activity/363236",
+   "host": "창업진흥원, 현대건설, SVC Seoul",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611160006",
+   "kind": "접수 마감",
+   "date": "2026-11-29T14:59:59Z",
+   "start": null,
+   "end": "2026-11-29T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "대학생, 해당자 ▶"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-11-09T15:00:00Z",
+     "end": "2026-11-29T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-12-06T15:00:00Z",
+     "end": "2026-12-11T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-12-10T15:00:00Z",
+     "end": "2026-12-11T14:59:59Z"
+    }
+   ]
+  },
+  {
+   "id": "lk-364763",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "듀라텍스 몽그리귀마개 AI 사진, 영상 공모전",
+   "host": "비타그램",
+   "url": "https://linkareer.com/activity/364763",
    "kind": "접수 마감",
    "date": "2026-11-29T14:59:59Z",
    "start": null,
@@ -2413,6 +2381,56 @@
    ],
    "summary": "",
    "tag": null
+  },
+  {
+   "id": "ck-202611090018",
+   "source": "콘테스트코리아",
+   "cat": "ai",
+   "title": "2026 창업도시 프로젝트 <지역문제 해결형 AI활용 경진대회>",
+   "host": "대구광역시, 대구창조경제혁신센터",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611090018",
+   "kind": "접수 마감",
+   "date": "2026-11-30T14:59:59Z",
+   "start": null,
+   "end": "2026-11-30T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI",
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-11-05T15:00:00Z",
+     "end": "2026-11-30T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-11-30T15:00:00Z",
+     "end": "2027-01-29T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2027-01-28T15:00:00Z",
+     "end": "2027-01-29T14:59:59Z"
+    }
+   ]
   },
   {
    "id": "lk-314144",
@@ -3314,6 +3332,56 @@
    ],
    "summary": "",
    "tag": null
+  },
+  {
+   "id": "ck-202611160020",
+   "source": "콘테스트코리아",
+   "cat": "contest",
+   "title": "2026 국가시범도시 AI 아이디어 · 기술 공모전",
+   "host": "국토교통부",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611160020",
+   "kind": "접수 마감",
+   "date": "2026-12-14T14:59:59Z",
+   "start": null,
+   "end": "2026-12-14T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "누구나, 유치원, 초등학생, 중학생, 고등학생, 대학생, 대학원생, 일반인, 외국인"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-11-15T15:00:00Z",
+     "end": "2026-12-14T14:59:59Z"
+    },
+    {
+     "label": "심사",
+     "start": "2026-12-14T15:00:00Z",
+     "end": "2026-12-31T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-12-30T15:00:00Z",
+     "end": "2026-12-31T14:59:59Z"
+    }
+   ]
   },
   {
    "id": "ctf-3475",

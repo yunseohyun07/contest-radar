@@ -8,14 +8,17 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:lk-363236@contest-radar
-DTSTAMP:20261116T004722Z
+UID:ck-202611160006@contest-radar
+DTSTAMP:20261116T192752Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:[접수 마감] 『2026 SVC Seoul AI 해커톤』 | 현대건설
  과 함께하는 주거생활 AI 아이디어 도전
-URL:https://linkareer.com/activity/363236
-DESCRIPTION:앤에이솔루션(주)\nhttps://linkareer.com/activity/363236
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0314100
+ 01&str_no=202611160006
+DESCRIPTION:창업진흥원\, 현대건설\, SVC Seoul\nhttps://www.conte
+ stkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=20261116000
+ 6
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D
