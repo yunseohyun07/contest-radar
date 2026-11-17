@@ -7,44 +7,8 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:ck-202611140023@contest-radar
-DTSTAMP:20261117T032602Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:[접수 마감] 2026 동남권 이노베이션 해커톤 ICT INNO
- HACK
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
- 01&str_no=202611140023
-DESCRIPTION:부산정보산업진흥원\nhttps://www.contestkorea.com/sub
- /view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611140023
-END:VEVENT
-BEGIN:VEVENT
-UID:ck-202611020001@contest-radar
-DTSTAMP:20261117T032602Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:[접수 마감] 2026 현장문제 AX 업무혁신 아이디어 
- 해커톤
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
- 01&str_no=202611020001
-DESCRIPTION:중소벤처기업진흥공단\, 충청남도\, 천안시\, 
- 아산시\, 충남테크노파크\nhttps://www.contestkorea.com/sub/view.
- php?int_gbn=1&Txt_bcode=030310001&str_no=202611020001
-END:VEVENT
-BEGIN:VEVENT
-UID:lk-361137@contest-radar
-DTSTAMP:20261117T032602Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:[접수 마감] 2026 현장문제 AX 업무혁신 아이디어 
- 해커톤 참가자 모집
-URL:https://linkareer.com/activity/361137
-DESCRIPTION:주식회사 어치브모먼트\nhttps://linkareer.com/activi
- ty/361137
-END:VEVENT
-BEGIN:VEVENT
 UID:ck-202611120022@contest-radar
-DTSTAMP:20261117T032602Z
+DTSTAMP:20261117T182155Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:[접수 마감] 신한 스퀘어브릿지 청년 해커톤 4기 
@@ -56,7 +20,7 @@ DESCRIPTION:신한금융희망재단\nhttps://www.contestkorea.com/sub/vi
 END:VEVENT
 BEGIN:VEVENT
 UID:lk-364086@contest-radar
-DTSTAMP:20261117T032602Z
+DTSTAMP:20261117T182155Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:[접수 마감] 토마토들 일본 지역 관광 아이디어톤
@@ -66,7 +30,7 @@ DESCRIPTION:주식회사 리에이크\nhttps://linkareer.com/activity/364
 END:VEVENT
 BEGIN:VEVENT
 UID:ck-202611160001@contest-radar
-DTSTAMP:20261117T032602Z
+DTSTAMP:20261117T182155Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:[접수 마감] TripPups AI Game Hackathon 2026
@@ -77,7 +41,7 @@ DESCRIPTION:Trip-Pups\nhttps://www.contestkorea.com/sub/view.php?int_gbn=
 END:VEVENT
 BEGIN:VEVENT
 UID:ck-202611160006@contest-radar
-DTSTAMP:20261117T032602Z
+DTSTAMP:20261117T182155Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:[접수 마감] 『2026 SVC Seoul AI 해커톤』 | 현대건설
@@ -87,5 +51,15 @@ URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0314100
 DESCRIPTION:창업진흥원\, 현대건설\, SVC Seoul\nhttps://www.conte
  stkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=20261116000
  6
+END:VEVENT
+BEGIN:VEVENT
+UID:lk-365130@contest-radar
+DTSTAMP:20261117T182155Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:[접수 마감] 2027 제 2회 Superb AI X BDAI Vision AI 해커톤
+URL:https://linkareer.com/activity/365130
+DESCRIPTION:비디에이아이(BDAI)\nhttps://linkareer.com/activity/3651
+ 30
 END:VEVENT
 END:VCALENDAR

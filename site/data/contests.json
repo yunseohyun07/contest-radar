@@ -1,179 +1,50 @@
 {
- "updatedAt": "2026-11-17T03:26:02Z",
+ "updatedAt": "2026-11-17T18:21:55Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-11-17T03:26:02Z",
-   "lastSuccess": "2026-11-17T03:26:02Z"
+   "checkedAt": "2026-11-17T18:21:55Z",
+   "lastSuccess": "2026-11-17T18:21:55Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-17T03:26:02Z",
-   "lastSuccess": "2026-11-17T03:26:02Z"
+   "checkedAt": "2026-11-17T18:21:55Z",
+   "lastSuccess": "2026-11-17T18:21:55Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-11-17T03:26:02Z",
-   "lastSuccess": "2026-11-17T03:26:02Z"
+   "checkedAt": "2026-11-17T18:21:55Z",
+   "lastSuccess": "2026-11-17T18:21:55Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 25,
-   "checkedAt": "2026-11-17T03:26:02Z",
-   "lastSuccess": "2026-11-17T03:26:02Z"
+   "count": 27,
+   "checkedAt": "2026-11-17T18:21:55Z",
+   "lastSuccess": "2026-11-17T18:21:55Z"
   },
   "링커리어": {
    "ok": true,
    "count": 65,
-   "checkedAt": "2026-11-17T03:26:02Z",
-   "lastSuccess": "2026-11-17T03:26:02Z"
+   "checkedAt": "2026-11-17T18:21:55Z",
+   "lastSuccess": "2026-11-17T18:21:55Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 20,
-   "checkedAt": "2026-11-17T03:26:02Z",
-   "lastSuccess": "2026-11-17T03:26:02Z"
+   "count": 18,
+   "checkedAt": "2026-11-17T18:21:55Z",
+   "lastSuccess": "2026-11-17T18:21:55Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-17T03:26:02Z",
-   "lastSuccess": "2026-11-17T03:26:02Z"
+   "checkedAt": "2026-11-17T18:21:55Z",
+   "lastSuccess": "2026-11-17T18:21:55Z"
   }
  },
  "contests": [
-  {
-   "id": "ck-202611140023",
-   "source": "콘테스트코리아",
-   "cat": "hack",
-   "title": "2026 동남권 이노베이션 해커톤 ICT INNOHACK",
-   "host": "부산정보산업진흥원",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611140023",
-   "kind": "접수 마감",
-   "date": "2026-11-17T14:59:59Z",
-   "start": null,
-   "end": "2026-11-17T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "대학생, 대학원생, 일반인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-11-13T15:00:00Z",
-     "end": "2026-11-17T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-11-26T15:00:00Z",
-     "end": "2026-11-28T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-23T15:00:00Z",
-     "end": "2026-11-24T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "ck-202611020001",
-   "source": "콘테스트코리아",
-   "cat": "hack",
-   "title": "2026 현장문제 AX 업무혁신 아이디어 해커톤",
-   "host": "중소벤처기업진흥공단, 충청남도, 천안시, 아산시, 충남테크노파크",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611020001",
-   "kind": "접수 마감",
-   "date": "2026-11-17T14:59:59Z",
-   "start": null,
-   "end": "2026-11-17T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "대학생, 대학원생, 일반인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-10-29T15:00:00Z",
-     "end": "2026-11-17T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-11-26T15:00:00Z",
-     "end": "2026-11-28T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-27T15:00:00Z",
-     "end": "2026-11-28T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-361137",
-   "source": "링커리어",
-   "cat": "hack",
-   "title": "2026 현장문제 AX 업무혁신 아이디어 해커톤 참가자 모집",
-   "host": "주식회사 어치브모먼트",
-   "url": "https://linkareer.com/activity/361137",
-   "kind": "접수 마감",
-   "date": "2026-11-17T14:59:59Z",
-   "start": null,
-   "end": "2026-11-17T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "lk-362007",
    "source": "링커리어",
@@ -926,10 +797,10 @@
     },
     {
      "label": "상금",
-     "value": "원문 확인"
+     "value": "Open Division 1st: 2 Binary Ninja licenses 2nd: Binary Ninja license 3rd: Binar…"
     }
    ],
-   "summary": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint, misc.). There are two divisions, Open and University of Michigan students. No team limit sizes. Than…",
+   "summary": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint). There are two divisions, Open and University of Michigan students. No team limit sizes. Thank you t…",
    "tag": "CTF"
   },
   {
@@ -1800,6 +1671,43 @@
    ],
    "summary": "",
    "tag": null
+  },
+  {
+   "id": "ctf-3512",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "N0v4CTF 2026",
+   "host": "NovaRun",
+   "url": "https://ctftime.org/event/3512/",
+   "kind": "대회일",
+   "date": "2026-11-27T17:00:00Z",
+   "start": "2026-11-27T17:00:00Z",
+   "end": "2026-11-28T17:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "24시간"
+    },
+    {
+     "label": "상금",
+     "value": "Prize details, if applicable, will be announced later."
+    }
+   ],
+   "summary": "N0v4CTF 2026 is a free, 24-hour online Jeopardy-style Capture the Flag competition open to teams worldwide. Challenges cover Web Exploitation, Pwn (Binary Exploitation), Reverse Engineering, Cryptography, Digital Forensics, and Miscellaneous. Teams can investigate digital evidence, recover hidden messages, and figure out how unfamiliar programs work. The ch…",
+   "tag": "CTF"
   },
   {
    "id": "ctf-3474",
@@ -3582,6 +3490,43 @@
    "tag": null
   },
   {
+   "id": "ctf-3429",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "idktheCTF 2026",
+   "host": "idktheflag",
+   "url": "https://ctftime.org/event/3429/",
+   "kind": "대회일",
+   "date": "2026-12-26T01:00:00Z",
+   "start": "2026-12-26T01:00:00Z",
+   "end": "2026-12-28T04:59:59Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "51시간 59분"
+    },
+    {
+     "label": "상금",
+     "value": "Prizes TBD, but there will be $$$!"
+    }
+   ],
+   "summary": "After coming together with an amazing run in 2026, the team at idktheflag is excited to announce our first, end of year CTF! Categories will include Crypto, Pwn, Rev, Forensics, OSINT and NOT Web (maybe)! We've taken a lot of care to ensure each challenge we put out is original and not slopped with AI. Likewise, we will take a stance against fully autonomou…",
+   "tag": "CTF"
+  },
+  {
    "id": "atc-agc081",
    "source": "AtCoder",
    "cat": "algo",
@@ -3909,6 +3854,64 @@
    ],
    "summary": "UofTCTF 2027 is the annual capture-the-flag competition organized by the UofTCTF team. This year’s event will take place online from January 8, 2027, at 7:00 PM EST to January 10, 2027, at 7:00 PM EST. It will be a jeopardy-style CTF with classic categories like web, pwn, crypto, rev, forensics, and misc. Join the event discord server: https://discord.gg/4m…",
    "tag": "CTF"
+  },
+  {
+   "id": "lk-365130",
+   "source": "링커리어",
+   "cat": "hack",
+   "title": "2027 제 2회 Superb AI X BDAI Vision AI 해커톤",
+   "host": "비디에이아이(BDAI)",
+   "url": "https://linkareer.com/activity/365130",
+   "kind": "접수 마감",
+   "date": "2027-01-10T14:59:59Z",
+   "start": null,
+   "end": "2027-01-10T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-365114",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "AI 역사 콘텐츠 공모전",
+   "host": "이오고대사연구소",
+   "url": "https://linkareer.com/activity/365114",
+   "kind": "접수 마감",
+   "date": "2027-01-10T14:59:59Z",
+   "start": null,
+   "end": "2027-01-10T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "lk-355997",
