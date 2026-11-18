@@ -7,14 +7,15 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:lk-365130@contest-radar
-DTSTAMP:20261118T024509Z
+UID:ck-202611170034@contest-radar
+DTSTAMP:20261118T175443Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:[접수 마감] 2027 제 2회 Superb AI X BDAI Vision AI 해커톤
-URL:https://linkareer.com/activity/365130
-DESCRIPTION:비디에이아이(BDAI)\nhttps://linkareer.com/activity/3651
- 30
+URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
+ 01&str_no=202611170034
+DESCRIPTION:Superb AI × BDAI\nhttps://www.contestkorea.com/sub/view.php?
+ int_gbn=1&Txt_bcode=030310001&str_no=202611170034
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D
