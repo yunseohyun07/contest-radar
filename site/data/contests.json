@@ -1,79 +1,50 @@
 {
- "updatedAt": "2026-11-19T02:17:59Z",
+ "updatedAt": "2026-11-19T18:07:16Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-11-19T02:17:59Z",
-   "lastSuccess": "2026-11-19T02:17:59Z"
+   "checkedAt": "2026-11-19T18:07:16Z",
+   "lastSuccess": "2026-11-19T18:07:16Z"
   },
   "AtCoder": {
    "ok": true,
-   "count": 10,
-   "checkedAt": "2026-11-19T02:17:59Z",
-   "lastSuccess": "2026-11-19T02:17:59Z"
+   "count": 11,
+   "checkedAt": "2026-11-19T18:07:16Z",
+   "lastSuccess": "2026-11-19T18:07:16Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-11-19T02:17:59Z",
-   "lastSuccess": "2026-11-19T02:17:59Z"
+   "checkedAt": "2026-11-19T18:07:16Z",
+   "lastSuccess": "2026-11-19T18:07:16Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 27,
-   "checkedAt": "2026-11-19T02:17:59Z",
-   "lastSuccess": "2026-11-19T02:17:59Z"
+   "checkedAt": "2026-11-19T18:07:16Z",
+   "lastSuccess": "2026-11-19T18:07:16Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 63,
-   "checkedAt": "2026-11-19T02:17:59Z",
-   "lastSuccess": "2026-11-19T02:17:59Z"
+   "count": 66,
+   "checkedAt": "2026-11-19T18:07:16Z",
+   "lastSuccess": "2026-11-19T18:07:16Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 18,
-   "checkedAt": "2026-11-19T02:17:59Z",
-   "lastSuccess": "2026-11-19T02:17:59Z"
+   "checkedAt": "2026-11-19T18:07:16Z",
+   "lastSuccess": "2026-11-19T18:07:16Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-19T02:17:59Z",
-   "lastSuccess": "2026-11-19T02:17:59Z"
+   "checkedAt": "2026-11-19T18:07:16Z",
+   "lastSuccess": "2026-11-19T18:07:16Z"
   }
  },
  "contests": [
-  {
-   "id": "lk-361795",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026 전북 AI디지털배움터 「전북에 빠졌쏭(song)」 AI 뮤직숏폼 공모전",
-   "host": "(주)케이티씨에스 전북AI디지털배움터",
-   "url": "https://linkareer.com/activity/361795",
-   "kind": "접수 마감",
-   "date": "2026-11-19T14:59:59Z",
-   "start": null,
-   "end": "2026-11-19T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "ctf-3419",
    "source": "CTFtime",
@@ -1676,7 +1647,7 @@
      "value": "원문 확인"
     }
    ],
-   "summary": "L3m0n CTF is the annual flagship capture-the-flag competition of Amrita Vishwa Vidyapeetham, Coimbatore, hosted by TIFAC-CORE in Cyber Security. This is a team-based event: teams of 1 to 4 players. The online prelims is Jeopardy-style and run for 12 hours (10:00 to 22:00 IST, 04:30 to 16:30 UTC, on 28 November 2026). The top teams are invited to on-campus f…",
+   "summary": "TIFAC-CORE, Amrita Vishwa Vidyapeetham, Coimbatore, invites you to \"L3m0n CTF 2026\", our annual flagship Capture The Flag competition! - 12-hour Jeopardy-style online qualifiers. - Open to teams of 1–4 participants. - Challenges across Web, Pwn, Cryptography, AI/LLM, Forensics, OSINT and more. - Beginner-friendly category for newcomers. - Top teams advance…",
    "tag": "CTF"
   },
   {
@@ -1899,6 +1870,35 @@
     }
    ],
    "summary": ""
+  },
+  {
+   "id": "lk-365635",
+   "source": "링커리어",
+   "cat": "hack",
+   "title": "[울산] 코딩 몰라도 OK, 1박 2일 AI 해커톤 INNO-CODER (총상금 200만 원·무료)",
+   "host": "팀모노리스",
+   "url": "https://linkareer.com/activity/365635",
+   "kind": "접수 마감",
+   "date": "2026-11-29T14:59:59Z",
+   "start": null,
+   "end": "2026-11-29T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "ck-202611160006",
@@ -2941,6 +2941,35 @@
    "tag": "CTF"
   },
   {
+   "id": "lk-365775",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "[밀양시] 밀양아리랑대축제 AI 포스터 공모전",
+   "host": "밀양시청",
+   "url": "https://linkareer.com/activity/365775",
+   "kind": "접수 마감",
+   "date": "2026-12-11T14:59:59Z",
+   "start": null,
+   "end": "2026-12-11T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "ctf-3498",
    "source": "CTFtime",
    "cat": "ai",
@@ -3327,6 +3356,38 @@
    "tag": "CTF"
   },
   {
+   "id": "atc-abc489",
+   "source": "AtCoder",
+   "cat": "algo",
+   "title": "UNIQUE VISION Programming Contest 2026 (ChristmasAtCoder Beginner Contest 489)",
+   "host": "AtCoder",
+   "url": "https://atcoder.jp/contests/abc489",
+   "kind": "대회일",
+   "date": "2026-12-20T12:00:00Z",
+   "start": "2026-12-20T12:00:00Z",
+   "end": "2026-12-20T13:40:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "1시간 40분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "레이팅 범위",
+     "value": "- 1999"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
+  },
+  {
    "id": "lk-358536",
    "source": "링커리어",
    "cat": "contest",
@@ -3366,6 +3427,64 @@
    "date": "2026-12-20T14:59:59Z",
    "start": null,
    "end": "2026-12-20T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-365707",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "[월드 AI 사운드 마스터즈 협회] 제1회 제주어 AI 음악 경진대회",
+   "host": "월드 AI 사운드 마스터즈 협회",
+   "url": "https://linkareer.com/activity/365707",
+   "kind": "접수 마감",
+   "date": "2026-12-20T14:59:59Z",
+   "start": null,
+   "end": "2026-12-20T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI"
+  },
+  {
+   "id": "lk-365596",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "[그린대로] AI 서비스 오픈 기념 이벤트",
+   "host": "크리스피드",
+   "url": "https://linkareer.com/activity/365596",
+   "kind": "접수 마감",
+   "date": "2026-12-22T14:59:59Z",
+   "start": null,
+   "end": "2026-12-22T14:59:59Z",
    "allDay": true,
    "meta": [
     {
