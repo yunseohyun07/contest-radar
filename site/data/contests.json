@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-11-18T17:54:43Z",
+ "updatedAt": "2026-11-19T02:17:59Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-11-18T17:54:43Z",
-   "lastSuccess": "2026-11-18T17:54:43Z"
+   "checkedAt": "2026-11-19T02:17:59Z",
+   "lastSuccess": "2026-11-19T02:17:59Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 10,
-   "checkedAt": "2026-11-18T17:54:43Z",
-   "lastSuccess": "2026-11-18T17:54:43Z"
+   "checkedAt": "2026-11-19T02:17:59Z",
+   "lastSuccess": "2026-11-19T02:17:59Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-11-18T17:54:43Z",
-   "lastSuccess": "2026-11-18T17:54:43Z"
+   "checkedAt": "2026-11-19T02:17:59Z",
+   "lastSuccess": "2026-11-19T02:17:59Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 27,
-   "checkedAt": "2026-11-18T17:54:43Z",
-   "lastSuccess": "2026-11-18T17:54:43Z"
+   "checkedAt": "2026-11-19T02:17:59Z",
+   "lastSuccess": "2026-11-19T02:17:59Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 64,
-   "checkedAt": "2026-11-18T17:54:43Z",
-   "lastSuccess": "2026-11-18T17:54:43Z"
+   "count": 63,
+   "checkedAt": "2026-11-19T02:17:59Z",
+   "lastSuccess": "2026-11-19T02:17:59Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 18,
-   "checkedAt": "2026-11-18T17:54:43Z",
-   "lastSuccess": "2026-11-18T17:54:43Z"
+   "checkedAt": "2026-11-19T02:17:59Z",
+   "lastSuccess": "2026-11-19T02:17:59Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-18T17:54:43Z",
-   "lastSuccess": "2026-11-18T17:54:43Z"
+   "checkedAt": "2026-11-19T02:17:59Z",
+   "lastSuccess": "2026-11-19T02:17:59Z"
   }
  },
  "contests": [
@@ -3325,35 +3325,6 @@
    ],
    "summary": "BackdoorCTF is the flagship event of InfoSecIITR. Categories will include Pwn, Rev, Web, Crypto, Forensics, Misc Discord invite for the competition is https://discord.gg/chHtsSTQ2 Supported by our Sponsors: Infrastructure Sponsored by: - Google Cloud (https://goo.gle/ctfsponsorship) Other Sponsors for BackdoorCTF 2026 will be announced soon. Happy Hacking!",
    "tag": "CTF"
-  },
-  {
-   "id": "lk-365189",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "AI공모전 'AI 불씨'",
-   "host": "세종사이버대학교",
-   "url": "https://linkareer.com/activity/365189",
-   "kind": "접수 마감",
-   "date": "2026-12-20T14:59:59Z",
-   "start": null,
-   "end": "2026-12-20T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
   },
   {
    "id": "lk-358536",
