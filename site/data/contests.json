@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-11-19T18:07:16Z",
+ "updatedAt": "2026-11-20T02:01:51Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-11-19T18:07:16Z",
-   "lastSuccess": "2026-11-19T18:07:16Z"
+   "checkedAt": "2026-11-20T02:01:51Z",
+   "lastSuccess": "2026-11-20T02:01:51Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 11,
-   "checkedAt": "2026-11-19T18:07:16Z",
-   "lastSuccess": "2026-11-19T18:07:16Z"
+   "checkedAt": "2026-11-20T02:01:51Z",
+   "lastSuccess": "2026-11-20T02:01:51Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 2,
-   "checkedAt": "2026-11-19T18:07:16Z",
-   "lastSuccess": "2026-11-19T18:07:16Z"
+   "checkedAt": "2026-11-20T02:01:51Z",
+   "lastSuccess": "2026-11-20T02:01:51Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 27,
-   "checkedAt": "2026-11-19T18:07:16Z",
-   "lastSuccess": "2026-11-19T18:07:16Z"
+   "count": 28,
+   "checkedAt": "2026-11-20T02:01:51Z",
+   "lastSuccess": "2026-11-20T02:01:51Z"
   },
   "링커리어": {
    "ok": true,
    "count": 66,
-   "checkedAt": "2026-11-19T18:07:16Z",
-   "lastSuccess": "2026-11-19T18:07:16Z"
+   "checkedAt": "2026-11-20T02:01:51Z",
+   "lastSuccess": "2026-11-20T02:01:51Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 18,
-   "checkedAt": "2026-11-19T18:07:16Z",
-   "lastSuccess": "2026-11-19T18:07:16Z"
+   "count": 19,
+   "checkedAt": "2026-11-20T02:01:51Z",
+   "lastSuccess": "2026-11-20T02:01:51Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-19T18:07:16Z",
-   "lastSuccess": "2026-11-19T18:07:16Z"
+   "checkedAt": "2026-11-20T02:01:51Z",
+   "lastSuccess": "2026-11-20T02:01:51Z"
   }
  },
  "contests": [
@@ -660,7 +660,7 @@
     },
     {
      "label": "상금",
-     "value": "Open Division 1st: 2 Binary Ninja licenses 2nd: Binary Ninja license 3rd: Binar…"
+     "value": "Open Division 1st: 2 Binary Ninja licenses, Altered Security CRTP Certificate 2…"
     }
    ],
    "summary": "Our challenges range from beginner to hard in difficulty. Our esteemed members have worked tirelessly to bring new and stimulating CTF challenges to pose varying levels of difficulty and topic (RE, binary exploit, web exploit, cryptography, forensics, osint). There are two divisions, Open and University of Michigan students. No team limit sizes. Thank you t…",
@@ -1143,12 +1143,12 @@
    ]
   },
   {
-   "id": "lk-364086",
-   "source": "링커리어",
+   "id": "ck-202611120048",
+   "source": "콘테스트코리아",
    "cat": "hack",
-   "title": "토마토들 일본 지역 관광 아이디어톤",
+   "title": "토마토들 일본지역관광 아이디어톤",
    "host": "주식회사 리에이크",
-   "url": "https://linkareer.com/activity/364086",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611120048",
    "kind": "접수 마감",
    "date": "2026-11-22T14:59:59Z",
    "start": null,
@@ -1156,11 +1156,15 @@
    "allDay": true,
    "meta": [
     {
-     "label": "상금",
+     "label": "참가 대상",
+     "value": "대학생"
+    },
+    {
+     "label": "참가비",
      "value": "원문 확인"
     },
     {
-     "label": "참가 자격",
+     "label": "상금",
      "value": "원문 확인"
     },
     {
@@ -1169,7 +1173,19 @@
     }
    ],
    "summary": "",
-   "tag": null
+   "tag": null,
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-11-12T15:00:00Z",
+     "end": "2026-11-22T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-11-26T15:00:00Z",
+     "end": "2026-11-27T14:59:59Z"
+    }
+   ]
   },
   {
    "id": "lk-360524",
@@ -2639,6 +2655,43 @@
     }
    ],
    "summary": "The 2026 Qiangwang Challenge on Cyber Mimic Defense Finals is the on-site final round of the 9th Qiangwang International Elite Challenge on Cyber Mimic Defense in Nanjing, China. Qualified and invited teams conduct security research on physical targets within the competition scope across six tracks. Judges evaluate the teams’ technical reports under the com…",
+   "tag": "CTF"
+  },
+  {
+   "id": "ctf-3518",
+   "source": "CTFtime",
+   "cat": "ai",
+   "title": "TUCTF 2026",
+   "host": "ascii overflow",
+   "url": "https://ctftime.org/event/3518/",
+   "kind": "대회일",
+   "date": "2026-12-04T10:00:00Z",
+   "start": "2026-12-04T10:00:00Z",
+   "end": "2026-12-06T18:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "형식",
+     "value": "Jeopardy"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "진행 시간",
+     "value": "2일 8시간"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "TUCTF26 is a Capture the Flag competition hosted by the CTF club at the University of Tulsa designed for a range of skill levels for teams that want to build their experience. We offer Web, Forensics, Crypto, Reverse Engineering, and Miscellanous based challenges. If you have any questions you can contact us through our Discord: https://discord.gg/Q35eWhHsw",
    "tag": "CTF"
   },
   {
