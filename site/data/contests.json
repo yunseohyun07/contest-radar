@@ -1,293 +1,50 @@
 {
- "updatedAt": "2026-11-21T01:58:53Z",
+ "updatedAt": "2026-11-21T16:41:48Z",
  "sources": {
   "Codeforces": {
    "ok": true,
-   "count": 5,
-   "checkedAt": "2026-11-21T01:58:53Z",
-   "lastSuccess": "2026-11-21T01:58:53Z"
+   "count": 4,
+   "checkedAt": "2026-11-21T16:41:48Z",
+   "lastSuccess": "2026-11-21T16:41:48Z"
   },
   "AtCoder": {
    "ok": true,
-   "count": 11,
-   "checkedAt": "2026-11-21T01:58:53Z",
-   "lastSuccess": "2026-11-21T01:58:53Z"
+   "count": 10,
+   "checkedAt": "2026-11-21T16:41:48Z",
+   "lastSuccess": "2026-11-21T16:41:48Z"
   },
   "LeetCode": {
    "ok": true,
-   "count": 2,
-   "checkedAt": "2026-11-21T01:58:53Z",
-   "lastSuccess": "2026-11-21T01:58:53Z"
+   "count": 1,
+   "checkedAt": "2026-11-21T16:41:48Z",
+   "lastSuccess": "2026-11-21T16:41:48Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 24,
-   "checkedAt": "2026-11-21T01:58:53Z",
-   "lastSuccess": "2026-11-21T01:58:53Z"
+   "count": 21,
+   "checkedAt": "2026-11-21T16:41:48Z",
+   "lastSuccess": "2026-11-21T16:41:48Z"
   },
   "링커리어": {
    "ok": true,
    "count": 58,
-   "checkedAt": "2026-11-21T01:58:53Z",
-   "lastSuccess": "2026-11-21T01:58:53Z"
+   "checkedAt": "2026-11-21T16:41:48Z",
+   "lastSuccess": "2026-11-21T16:41:48Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 13,
-   "checkedAt": "2026-11-21T01:58:53Z",
-   "lastSuccess": "2026-11-21T01:58:53Z"
+   "checkedAt": "2026-11-21T16:41:48Z",
+   "lastSuccess": "2026-11-21T16:41:48Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-21T01:58:53Z",
-   "lastSuccess": "2026-11-21T01:58:53Z"
+   "checkedAt": "2026-11-21T16:41:48Z",
+   "lastSuccess": "2026-11-21T16:41:48Z"
   }
  },
  "contests": [
-  {
-   "id": "ctf-3408",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "Seize da Flaq",
-   "host": "Seize da Flaq",
-   "url": "https://ctftime.org/event/3408/",
-   "kind": "대회일",
-   "date": "2026-11-21T06:30:00Z",
-   "start": "2026-11-21T06:30:00Z",
-   "end": "2026-11-22T02:30:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "오프라인 · Mathura, Uttar Pradesh, India"
-    },
-    {
-     "label": "참가 자격",
-     "value": "Casual"
-    },
-    {
-     "label": "진행 시간",
-     "value": "20시간"
-    },
-    {
-     "label": "상금",
-     "value": "Overall Pool Prize - 5,00,000 INR Cash Prizes - 30,000 INR Certificates, Swags,…"
-    }
-   ],
-   "summary": "Seize Da Flaq is the flagship national-level Capture The Flag (CTF) competition organized by Cyberonites Club, GLA University. The event is designed to challenge and showcase cybersecurity talent through real-world, hands-on security challenges across domains such as Web Security, Cryptography, Reverse Engineering, Binary Exploitation, Digital Forensics, OS…",
-   "tag": "CTF"
-  },
-  {
-   "id": "atc-abc485",
-   "source": "AtCoder",
-   "cat": "algo",
-   "title": "AtCoder Beginner Contest 485",
-   "host": "AtCoder",
-   "url": "https://atcoder.jp/contests/abc485",
-   "kind": "대회일",
-   "date": "2026-11-21T12:00:00Z",
-   "start": "2026-11-21T12:00:00Z",
-   "end": "2026-11-21T13:40:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "1시간 40분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "레이팅 범위",
-     "value": "- 1999"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "ctf-3336",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "Crate-CTF 2026",
-   "host": "Crate-CTF",
-   "url": "https://ctftime.org/event/3336/",
-   "kind": "대회일",
-   "date": "2026-11-21T13:00:00Z",
-   "start": "2026-11-21T13:00:00Z",
-   "end": "2026-11-21T21:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "진행 시간",
-     "value": "8시간"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "CTFtime 가중치",
-     "value": "37"
-    }
-   ],
-   "summary": "Crate-CTF is an annual Capture The Flag (CTF) competition organised by the Swedish Defence Research Agency in collaboration with the Swedish Armed Forces, designed to introduce high school and university students to the field of cybersecurity. This year we return for our seventh CTF, with challenges for all skill levels from beginners to seasoned CTF player…",
-   "tag": "CTF"
-  },
-  {
-   "id": "lc-biweekly-contest-196",
-   "source": "LeetCode",
-   "cat": "algo",
-   "title": "LeetCode Biweekly Contest 196",
-   "host": "LeetCode",
-   "url": "https://leetcode.com/contest/biweekly-contest-196",
-   "kind": "대회일",
-   "date": "2026-11-21T14:30:00Z",
-   "start": "2026-11-21T14:30:00Z",
-   "end": "2026-11-21T16:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "1시간 30분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "cf-2287",
-   "source": "Codeforces",
-   "cat": "algo",
-   "title": "Codeforces Round 1136 (Div. 1)",
-   "host": "Codeforces",
-   "url": "https://codeforces.com/contests/2287",
-   "kind": "대회일",
-   "date": "2026-11-21T14:35:00Z",
-   "start": "2026-11-21T14:35:00Z",
-   "end": "2026-11-21T16:35:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "2시간"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나 (Div. 1)"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "cf-2288",
-   "source": "Codeforces",
-   "cat": "algo",
-   "title": "Codeforces Round 1136 (Div. 2)",
-   "host": "Codeforces",
-   "url": "https://codeforces.com/contests/2288",
-   "kind": "대회일",
-   "date": "2026-11-21T14:35:00Z",
-   "start": "2026-11-21T14:35:00Z",
-   "end": "2026-11-21T16:35:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "2시간"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나 (Div. 2)"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "ctf-3436",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "CyberSci Regional Qualifiers 2026-27",
-   "host": "CyberSciOrganizers",
-   "url": "https://ctftime.org/event/3436/",
-   "kind": "대회일",
-   "date": "2026-11-21T15:00:00Z",
-   "start": "2026-11-21T15:00:00Z",
-   "end": "2026-11-21T22:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "오프라인 · Onsite at 6 locations in Canada"
-    },
-    {
-     "label": "참가 자격",
-     "value": "학생"
-    },
-    {
-     "label": "진행 시간",
-     "value": "7시간"
-    },
-    {
-     "label": "상금",
-     "value": "Winners at Regionals get instant interviews and sometimes same-day job offers.…"
-    }
-   ],
-   "summary": "CyberSci is Canada's national Cyber Security Challenge for university and college students. - Think you've got an elite team of students? Come and prove it. Our winners will go on to compete against the best in the world. - Just starting out? This is the best way to learn and rise to the top. - Annual in-person events since 2016. (Online during Covid.) Over…",
-   "tag": "CTF"
-  },
   {
    "id": "lc-weekly-contest-529",
    "source": "LeetCode",
@@ -2356,6 +2113,38 @@
    ],
    "summary": "",
    "tag": null
+  },
+  {
+   "id": "cf-2291",
+   "source": "Codeforces",
+   "cat": "algo",
+   "title": "ICPC 2026 Online Challenge 2 powered by Huawei",
+   "host": "Codeforces",
+   "url": "https://codeforces.com/contests/2291",
+   "kind": "대회일",
+   "date": "2026-12-08T11:00:00Z",
+   "start": "2026-12-08T11:00:00Z",
+   "end": "2026-12-22T11:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "14일"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
   },
   {
    "id": "cf-2282",
