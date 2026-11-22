@@ -1,357 +1,50 @@
 {
- "updatedAt": "2026-11-22T00:58:33Z",
+ "updatedAt": "2026-11-22T17:00:17Z",
  "sources": {
   "Codeforces": {
    "ok": true,
-   "count": 4,
-   "checkedAt": "2026-11-22T00:58:33Z",
-   "lastSuccess": "2026-11-22T00:58:33Z"
+   "count": 3,
+   "checkedAt": "2026-11-22T17:00:17Z",
+   "lastSuccess": "2026-11-22T17:00:17Z"
   },
   "AtCoder": {
    "ok": true,
-   "count": 10,
-   "checkedAt": "2026-11-22T00:58:33Z",
-   "lastSuccess": "2026-11-22T00:58:33Z"
+   "count": 9,
+   "checkedAt": "2026-11-22T17:00:17Z",
+   "lastSuccess": "2026-11-22T17:00:17Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-11-22T00:58:33Z",
-   "lastSuccess": "2026-11-22T00:58:33Z"
+   "checkedAt": "2026-11-22T17:00:17Z",
+   "lastSuccess": "2026-11-22T17:00:17Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 21,
-   "checkedAt": "2026-11-22T00:58:33Z",
-   "lastSuccess": "2026-11-22T00:58:33Z"
+   "checkedAt": "2026-11-22T17:00:17Z",
+   "lastSuccess": "2026-11-22T17:00:17Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 58,
-   "checkedAt": "2026-11-22T00:58:33Z",
-   "lastSuccess": "2026-11-22T00:58:33Z"
+   "count": 53,
+   "checkedAt": "2026-11-22T17:00:17Z",
+   "lastSuccess": "2026-11-22T17:00:17Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 13,
-   "checkedAt": "2026-11-22T00:58:33Z",
-   "lastSuccess": "2026-11-22T00:58:33Z"
+   "count": 11,
+   "checkedAt": "2026-11-22T17:00:17Z",
+   "lastSuccess": "2026-11-22T17:00:17Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-22T00:58:33Z",
-   "lastSuccess": "2026-11-22T00:58:33Z"
+   "checkedAt": "2026-11-22T17:00:17Z",
+   "lastSuccess": "2026-11-22T17:00:17Z"
   }
  },
  "contests": [
-  {
-   "id": "lc-weekly-contest-529",
-   "source": "LeetCode",
-   "cat": "algo",
-   "title": "LeetCode Weekly Contest 529",
-   "host": "LeetCode",
-   "url": "https://leetcode.com/contest/weekly-contest-529",
-   "kind": "대회일",
-   "date": "2026-11-22T02:30:00Z",
-   "start": "2026-11-22T02:30:00Z",
-   "end": "2026-11-22T04:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "1시간 30분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "cf-2289",
-   "source": "Codeforces",
-   "cat": "algo",
-   "title": "Codeforces Round 1137 (Div. 2)",
-   "host": "Codeforces",
-   "url": "https://codeforces.com/contests/2289",
-   "kind": "대회일",
-   "date": "2026-11-22T09:05:00Z",
-   "start": "2026-11-22T09:05:00Z",
-   "end": "2026-11-22T11:05:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "2시간"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나 (Div. 2)"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "atc-arc234",
-   "source": "AtCoder",
-   "cat": "algo",
-   "title": "AtCoder Regular Contest++ 234",
-   "host": "AtCoder",
-   "url": "https://atcoder.jp/contests/arc234",
-   "kind": "대회일",
-   "date": "2026-11-22T12:00:00Z",
-   "start": "2026-11-22T12:00:00Z",
-   "end": "2026-11-22T14:30:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "2시간 30분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "레이팅 범위",
-     "value": "1600 - 2999"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "lk-357796",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026 조달청 AI 게임·콘텐츠 공모전",
-   "host": "조달청",
-   "url": "https://linkareer.com/activity/357796",
-   "kind": "접수 마감",
-   "date": "2026-11-22T14:59:59Z",
-   "start": null,
-   "end": "2026-11-22T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-358366",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "나무엑스 AI 숏폼 공모전",
-   "host": "SK인텔릭스(주)",
-   "url": "https://linkareer.com/activity/358366",
-   "kind": "접수 마감",
-   "date": "2026-11-22T14:59:59Z",
-   "start": null,
-   "end": "2026-11-22T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-361730",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "부산 동구 AI 숏폼 영상 공모전",
-   "host": "부산동구청",
-   "url": "https://linkareer.com/activity/361730",
-   "kind": "접수 마감",
-   "date": "2026-11-22T14:59:59Z",
-   "start": null,
-   "end": "2026-11-22T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "ck-202611120022",
-   "source": "콘테스트코리아",
-   "cat": "hack",
-   "title": "신한 스퀘어브릿지 청년 해커톤 4기 참가자 모집",
-   "host": "신한금융희망재단",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611120022",
-   "kind": "접수 마감",
-   "date": "2026-11-22T14:59:59Z",
-   "start": null,
-   "end": "2026-11-22T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "대학생, 대학원생, 일반인"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-11-10T15:00:00Z",
-     "end": "2026-11-22T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-12-01T15:00:00Z",
-     "end": "2026-12-04T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-12-08T15:00:00Z",
-     "end": "2026-12-09T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "ck-202611120048",
-   "source": "콘테스트코리아",
-   "cat": "hack",
-   "title": "토마토들 일본지역관광 아이디어톤",
-   "host": "주식회사 리에이크",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611120048",
-   "kind": "접수 마감",
-   "date": "2026-11-22T14:59:59Z",
-   "start": null,
-   "end": "2026-11-22T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "대학생"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-11-12T15:00:00Z",
-     "end": "2026-11-22T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-11-26T15:00:00Z",
-     "end": "2026-11-27T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-360524",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "하나은행 『하나원픽 CUP AI 게임창작대회』",
-   "host": "(주)하나은행",
-   "url": "https://linkareer.com/activity/360524",
-   "kind": "접수 마감",
-   "date": "2026-11-22T14:59:59Z",
-   "start": null,
-   "end": "2026-11-22T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "lk-361356",
    "source": "링커리어",
@@ -986,6 +679,38 @@
    ],
    "summary": "",
    "tag": null
+  },
+  {
+   "id": "lc-weekly-contest-530",
+   "source": "LeetCode",
+   "cat": "algo",
+   "title": "LeetCode Weekly Contest 530",
+   "host": "LeetCode",
+   "url": "https://leetcode.com/contest/weekly-contest-530",
+   "kind": "대회일",
+   "date": "2026-11-29T02:30:00Z",
+   "start": "2026-11-29T02:30:00Z",
+   "end": "2026-11-29T04:00:00Z",
+   "allDay": false,
+   "meta": [
+    {
+     "label": "진행 시간",
+     "value": "1시간 30분"
+    },
+    {
+     "label": "진행 방식",
+     "value": "온라인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "누구나"
+    },
+    {
+     "label": "팀 구성",
+     "value": "개인"
+    }
+   ],
+   "summary": ""
   },
   {
    "id": "atc-ahc075",
