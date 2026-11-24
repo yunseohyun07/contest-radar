@@ -7,15 +7,13 @@ X-WR-TIMEZONE:Asia/Seoul
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:ck-202611160001@contest-radar
-DTSTAMP:20261124T050854Z
+UID:lk-364831@contest-radar
+DTSTAMP:20261124T200334Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:[접수 마감] TripPups AI Game Hackathon 2026
-URL:https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=0303100
- 01&str_no=202611160001
-DESCRIPTION:Trip-Pups\nhttps://www.contestkorea.com/sub/view.php?int_gbn=
- 1&Txt_bcode=030310001&str_no=202611160001
+URL:https://linkareer.com/activity/364831
+DESCRIPTION:Trip-Pups\nhttps://linkareer.com/activity/364831
 BEGIN:VALARM
 ACTION:DISPLAY
 TRIGGER:-P3D

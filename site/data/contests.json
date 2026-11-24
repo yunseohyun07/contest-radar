@@ -1,79 +1,50 @@
 {
- "updatedAt": "2026-11-24T05:08:54Z",
+ "updatedAt": "2026-11-24T20:03:34Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-11-24T05:08:54Z",
-   "lastSuccess": "2026-11-24T05:08:54Z"
+   "checkedAt": "2026-11-24T20:03:34Z",
+   "lastSuccess": "2026-11-24T20:03:34Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-24T05:08:54Z",
-   "lastSuccess": "2026-11-24T05:08:54Z"
+   "checkedAt": "2026-11-24T20:03:34Z",
+   "lastSuccess": "2026-11-24T20:03:34Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-11-24T05:08:54Z",
-   "lastSuccess": "2026-11-24T05:08:54Z"
+   "checkedAt": "2026-11-24T20:03:34Z",
+   "lastSuccess": "2026-11-24T20:03:34Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 24,
-   "checkedAt": "2026-11-24T05:08:54Z",
-   "lastSuccess": "2026-11-24T05:08:54Z"
+   "checkedAt": "2026-11-24T20:03:34Z",
+   "lastSuccess": "2026-11-24T20:03:34Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 57,
-   "checkedAt": "2026-11-24T05:08:54Z",
-   "lastSuccess": "2026-11-24T05:08:54Z"
+   "count": 58,
+   "checkedAt": "2026-11-24T20:03:34Z",
+   "lastSuccess": "2026-11-24T20:03:34Z"
   },
   "콘테스트코리아": {
    "ok": true,
-   "count": 11,
-   "checkedAt": "2026-11-24T05:08:54Z",
-   "lastSuccess": "2026-11-24T05:08:54Z"
+   "count": 10,
+   "checkedAt": "2026-11-24T20:03:34Z",
+   "lastSuccess": "2026-11-24T20:03:34Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-24T05:08:54Z",
-   "lastSuccess": "2026-11-24T05:08:54Z"
+   "checkedAt": "2026-11-24T20:03:34Z",
+   "lastSuccess": "2026-11-24T20:03:34Z"
   }
  },
  "contests": [
-  {
-   "id": "lk-363148",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "광명역 미래비전 AI 영상 공모전",
-   "host": "광명시",
-   "url": "https://linkareer.com/activity/363148",
-   "kind": "접수 마감",
-   "date": "2026-11-24T14:59:59Z",
-   "start": null,
-   "end": "2026-11-24T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
   {
    "id": "ck-202611160023",
    "source": "콘테스트코리아",
@@ -560,12 +531,12 @@
    "tag": "CTF"
   },
   {
-   "id": "ck-202611160001",
-   "source": "콘테스트코리아",
+   "id": "lk-364831",
+   "source": "링커리어",
    "cat": "hack",
    "title": "TripPups AI Game Hackathon 2026",
    "host": "Trip-Pups",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=030310001&str_no=202611160001",
+   "url": "https://linkareer.com/activity/364831",
    "kind": "접수 마감",
    "date": "2026-11-28T14:59:59Z",
    "start": null,
@@ -573,15 +544,11 @@
    "allDay": true,
    "meta": [
     {
-     "label": "참가 대상",
-     "value": "대학생, 대학원생, 일반인, 외국인"
-    },
-    {
-     "label": "참가비",
+     "label": "상금",
      "value": "원문 확인"
     },
     {
-     "label": "상금",
+     "label": "참가 자격",
      "value": "원문 확인"
     },
     {
@@ -590,24 +557,7 @@
     }
    ],
    "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-11-15T15:00:00Z",
-     "end": "2026-11-28T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-11-28T15:00:00Z",
-     "end": "2026-12-04T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-12-04T15:00:00Z",
-     "end": "2026-12-05T14:59:59Z"
-    }
-   ]
+   "tag": null
   },
   {
    "id": "lk-360570",
@@ -2228,6 +2178,35 @@
    "summary": ""
   },
   {
+   "id": "lk-366610",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "AI x Seoul 혁신 콘텐츠 공모전",
+   "host": "성균관대",
+   "url": "https://linkareer.com/activity/366610",
+   "kind": "접수 마감",
+   "date": "2026-12-12T23:59:59Z",
+   "start": null,
+   "end": "2026-12-12T23:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "atc-agc080",
    "source": "AtCoder",
    "cat": "algo",
@@ -2456,6 +2435,35 @@
      "end": "2026-12-31T14:59:59Z"
     }
    ]
+  },
+  {
+   "id": "lk-366665",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "제1회 AI 영상 공모전 (AI가 상상하는 중국)",
+   "host": "공자아카데미㈜ / 서울공자아카데미",
+   "url": "https://linkareer.com/activity/366665",
+   "kind": "접수 마감",
+   "date": "2026-12-16T14:59:59Z",
+   "start": null,
+   "end": "2026-12-16T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "ctf-3475",
