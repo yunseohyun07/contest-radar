@@ -1,158 +1,50 @@
 {
- "updatedAt": "2026-11-25T03:57:48Z",
+ "updatedAt": "2026-11-25T19:04:07Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-11-25T03:57:48Z",
-   "lastSuccess": "2026-11-25T03:57:48Z"
+   "checkedAt": "2026-11-25T19:04:07Z",
+   "lastSuccess": "2026-11-25T19:04:07Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-25T03:57:48Z",
-   "lastSuccess": "2026-11-25T03:57:48Z"
+   "checkedAt": "2026-11-25T19:04:07Z",
+   "lastSuccess": "2026-11-25T19:04:07Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-11-25T03:57:48Z",
-   "lastSuccess": "2026-11-25T03:57:48Z"
+   "checkedAt": "2026-11-25T19:04:07Z",
+   "lastSuccess": "2026-11-25T19:04:07Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 24,
-   "checkedAt": "2026-11-25T03:57:48Z",
-   "lastSuccess": "2026-11-25T03:57:48Z"
+   "checkedAt": "2026-11-25T19:04:07Z",
+   "lastSuccess": "2026-11-25T19:04:07Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 60,
-   "checkedAt": "2026-11-25T03:57:48Z",
-   "lastSuccess": "2026-11-25T03:57:48Z"
+   "count": 63,
+   "checkedAt": "2026-11-25T19:04:07Z",
+   "lastSuccess": "2026-11-25T19:04:07Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 13,
-   "checkedAt": "2026-11-25T03:57:48Z",
-   "lastSuccess": "2026-11-25T03:57:48Z"
+   "checkedAt": "2026-11-25T19:04:07Z",
+   "lastSuccess": "2026-11-25T19:04:07Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-25T03:57:48Z",
-   "lastSuccess": "2026-11-25T03:57:48Z"
+   "checkedAt": "2026-11-25T19:04:07Z",
+   "lastSuccess": "2026-11-25T19:04:07Z"
   }
  },
  "contests": [
-  {
-   "id": "ck-202611160023",
-   "source": "콘테스트코리아",
-   "cat": "contest",
-   "title": "2026 포항시 AI 솔루션 아이디어 대회",
-   "host": "경북ICT융합산업진흥협회",
-   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611160023",
-   "kind": "접수 마감",
-   "date": "2026-11-25T14:59:59Z",
-   "start": null,
-   "end": "2026-11-25T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "참가 대상",
-     "value": "대학생, 대학원생, 일반인, 해당자 ▶"
-    },
-    {
-     "label": "참가비",
-     "value": "원문 확인"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null,
-   "timeline": [
-    {
-     "label": "접수",
-     "start": "2026-11-08T15:00:00Z",
-     "end": "2026-11-25T14:59:59Z"
-    },
-    {
-     "label": "심사",
-     "start": "2026-11-25T15:00:00Z",
-     "end": "2026-11-27T14:59:59Z"
-    },
-    {
-     "label": "발표",
-     "start": "2026-12-04T15:00:00Z",
-     "end": "2026-12-05T14:59:59Z"
-    }
-   ]
-  },
-  {
-   "id": "lk-342034",
-   "source": "링커리어",
-   "cat": "ai",
-   "title": "[한국과학기술정보연구원] 2026 DATA·AI 분석 경진대회",
-   "host": "한국과학기술정보연구원",
-   "url": "https://linkareer.com/activity/342034",
-   "kind": "접수 마감",
-   "date": "2026-11-25T14:59:59Z",
-   "start": null,
-   "end": "2026-11-25T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": "AI"
-  },
-  {
-   "id": "lk-363898",
-   "source": "링커리어",
-   "cat": "ai",
-   "title": "포항시 지역사회 문제 해결을 위한 AI 솔루션 아이디어 경진대회",
-   "host": "포항시",
-   "url": "https://linkareer.com/activity/363898",
-   "kind": "접수 마감",
-   "date": "2026-11-25T14:59:59Z",
-   "start": null,
-   "end": "2026-11-25T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": "AI"
-  },
   {
    "id": "lk-362797",
    "source": "링커리어",
@@ -655,6 +547,35 @@
     }
    ],
    "summary": ""
+  },
+  {
+   "id": "lk-366777",
+   "source": "링커리어",
+   "cat": "hack",
+   "title": "Build with Qwen: AutoRAG Hackathon 2026",
+   "host": "에이든",
+   "url": "https://linkareer.com/activity/366777",
+   "kind": "접수 마감",
+   "date": "2026-11-29T14:59:59Z",
+   "start": null,
+   "end": "2026-11-29T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "lk-366450",
@@ -1872,6 +1793,35 @@
    "tag": null
   },
   {
+   "id": "lk-367086",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "2026 제5회 대국민 K-water AI 경진대회",
+   "host": "한국수자원공사",
+   "url": "https://linkareer.com/activity/367086",
+   "kind": "접수 마감",
+   "date": "2026-12-06T14:59:59Z",
+   "start": null,
+   "end": "2026-12-06T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI"
+  },
+  {
    "id": "ck-202611200017",
    "source": "콘테스트코리아",
    "cat": "contest",
@@ -2071,6 +2021,138 @@
     }
    ],
    "summary": ""
+  },
+  {
+   "id": "lk-367083",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "2026 삼색이수 브랜드 홍보 AI 숏폼 영상 공모전",
+   "host": "삼색이수상권상인 협동조합",
+   "url": "https://linkareer.com/activity/367083",
+   "kind": "접수 마감",
+   "date": "2026-12-08T14:59:59Z",
+   "start": null,
+   "end": "2026-12-08T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "ck-202611240040",
+   "source": "콘테스트코리아",
+   "cat": "ai",
+   "title": "[대구광역시 남구] AI 행정혁신 경진대회",
+   "host": "대구광역시 남구청, 계명대학교 창업지원단",
+   "url": "https://www.contestkorea.com/sub/view.php?int_gbn=1&Txt_bcode=031410001&str_no=202611240040",
+   "kind": "접수 마감",
+   "date": "2026-12-09T14:59:59Z",
+   "start": null,
+   "end": "2026-12-09T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "참가 대상",
+     "value": "대학생, 대학원생, 일반인"
+    },
+    {
+     "label": "참가비",
+     "value": "원문 확인"
+    },
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI",
+   "timeline": [
+    {
+     "label": "접수",
+     "start": "2026-11-23T15:00:00Z",
+     "end": "2026-12-09T14:59:59Z"
+    },
+    {
+     "label": "발표",
+     "start": "2026-12-13T15:00:00Z",
+     "end": "2026-12-14T14:59:59Z"
+    }
+   ]
+  },
+  {
+   "id": "lk-367037",
+   "source": "링커리어",
+   "cat": "ai",
+   "title": "대구광역시 남구 AI 행정혁신 경진대회",
+   "host": "대구광역시 남구청, 계명대학교 창업지원단",
+   "url": "https://linkareer.com/activity/367037",
+   "kind": "접수 마감",
+   "date": "2026-12-09T14:59:59Z",
+   "start": null,
+   "end": "2026-12-09T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": "AI"
+  },
+  {
+   "id": "lk-367085",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "AI·공공데이터·정보공개 대국민 혁신 아이디어 공모전",
+   "host": "국토안전관리원",
+   "url": "https://linkareer.com/activity/367085",
+   "kind": "접수 마감",
+   "date": "2026-12-10T14:59:59Z",
+   "start": null,
+   "end": "2026-12-10T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "lk-360286",
