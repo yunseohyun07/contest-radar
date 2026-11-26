@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-11-25T19:04:07Z",
+ "updatedAt": "2026-11-26T03:23:00Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-11-25T19:04:07Z",
-   "lastSuccess": "2026-11-25T19:04:07Z"
+   "checkedAt": "2026-11-26T03:23:00Z",
+   "lastSuccess": "2026-11-26T03:23:00Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-25T19:04:07Z",
-   "lastSuccess": "2026-11-25T19:04:07Z"
+   "checkedAt": "2026-11-26T03:23:00Z",
+   "lastSuccess": "2026-11-26T03:23:00Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-11-25T19:04:07Z",
-   "lastSuccess": "2026-11-25T19:04:07Z"
+   "checkedAt": "2026-11-26T03:23:00Z",
+   "lastSuccess": "2026-11-26T03:23:00Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 24,
-   "checkedAt": "2026-11-25T19:04:07Z",
-   "lastSuccess": "2026-11-25T19:04:07Z"
+   "checkedAt": "2026-11-26T03:23:00Z",
+   "lastSuccess": "2026-11-26T03:23:00Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 63,
-   "checkedAt": "2026-11-25T19:04:07Z",
-   "lastSuccess": "2026-11-25T19:04:07Z"
+   "count": 66,
+   "checkedAt": "2026-11-26T03:23:00Z",
+   "lastSuccess": "2026-11-26T03:23:00Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 13,
-   "checkedAt": "2026-11-25T19:04:07Z",
-   "lastSuccess": "2026-11-25T19:04:07Z"
+   "checkedAt": "2026-11-26T03:23:00Z",
+   "lastSuccess": "2026-11-26T03:23:00Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-25T19:04:07Z",
-   "lastSuccess": "2026-11-25T19:04:07Z"
+   "checkedAt": "2026-11-26T03:23:00Z",
+   "lastSuccess": "2026-11-26T03:23:00Z"
   }
  },
  "contests": [
@@ -142,6 +142,35 @@
     }
    ],
    "summary": ""
+  },
+  {
+   "id": "lk-367022",
+   "source": "링커리어",
+   "cat": "hack",
+   "title": "2026 영원톤(YEONGWONTHON) 해커톤 참가자 모집",
+   "host": "Reporch",
+   "url": "https://linkareer.com/activity/367022",
+   "kind": "접수 마감",
+   "date": "2026-11-27T14:59:59Z",
+   "start": null,
+   "end": "2026-11-27T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "lk-359156",
@@ -2698,6 +2727,64 @@
    ]
   },
   {
+   "id": "lk-367212",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "숏만연구소X칼로데이터 AI 제품광고 공모전",
+   "host": "숏만연구소",
+   "url": "https://linkareer.com/activity/367212",
+   "kind": "접수 마감",
+   "date": "2026-12-15T14:59:59Z",
+   "start": null,
+   "end": "2026-12-15T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
+   "id": "lk-366884",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "숏만연구소X칼로데이터 AI 제품광고 공모전(크레딧 무료 지급)",
+   "host": "숏만연구소",
+   "url": "https://linkareer.com/activity/366884",
+   "kind": "접수 마감",
+   "date": "2026-12-15T14:59:59Z",
+   "start": null,
+   "end": "2026-12-15T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "lk-366665",
    "source": "링커리어",
    "cat": "contest",
@@ -3082,7 +3169,7 @@
     },
     {
      "label": "상금",
-     "value": "Prizes TBD, but there will be $$$!"
+     "value": "1st place - 5x .xyz domains 2nd place - 4x .xyz domains 3rd place - 3x .xyz dom…"
     }
    ],
    "summary": "After coming together with an amazing run in 2026, the team at idktheflag is excited to announce our first, end of year CTF! Categories will include Crypto, Pwn, Rev, Forensics, OSINT and NOT Web (maybe)! We've taken a lot of care to ensure each challenge we put out is original and not slopped with AI. Likewise, we will take a stance against fully autonomou…",
