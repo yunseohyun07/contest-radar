@@ -1,284 +1,50 @@
 {
- "updatedAt": "2026-11-27T03:30:24Z",
+ "updatedAt": "2026-11-27T18:47:32Z",
  "sources": {
   "Codeforces": {
    "ok": true,
-   "count": 5,
-   "checkedAt": "2026-11-27T03:30:24Z",
-   "lastSuccess": "2026-11-27T03:30:24Z"
+   "count": 4,
+   "checkedAt": "2026-11-27T18:47:32Z",
+   "lastSuccess": "2026-11-27T18:47:32Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-27T03:30:24Z",
-   "lastSuccess": "2026-11-27T03:30:24Z"
+   "checkedAt": "2026-11-27T18:47:32Z",
+   "lastSuccess": "2026-11-27T18:47:32Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-11-27T03:30:24Z",
-   "lastSuccess": "2026-11-27T03:30:24Z"
+   "checkedAt": "2026-11-27T18:47:32Z",
+   "lastSuccess": "2026-11-27T18:47:32Z"
   },
   "CTFtime": {
    "ok": true,
-   "count": 24,
-   "checkedAt": "2026-11-27T03:30:24Z",
-   "lastSuccess": "2026-11-27T03:30:24Z"
+   "count": 21,
+   "checkedAt": "2026-11-27T18:47:32Z",
+   "lastSuccess": "2026-11-27T18:47:32Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 71,
-   "checkedAt": "2026-11-27T03:30:24Z",
-   "lastSuccess": "2026-11-27T03:30:24Z"
+   "count": 69,
+   "checkedAt": "2026-11-27T18:47:32Z",
+   "lastSuccess": "2026-11-27T18:47:32Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 13,
-   "checkedAt": "2026-11-27T03:30:24Z",
-   "lastSuccess": "2026-11-27T03:30:24Z"
+   "checkedAt": "2026-11-27T18:47:32Z",
+   "lastSuccess": "2026-11-27T18:47:32Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-27T03:30:24Z",
-   "lastSuccess": "2026-11-27T03:30:24Z"
+   "checkedAt": "2026-11-27T18:47:32Z",
+   "lastSuccess": "2026-11-27T18:47:32Z"
   }
  },
  "contests": [
-  {
-   "id": "ctf-3502",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "RedReaper CTF",
-   "host": "RedReaper",
-   "url": "https://ctftime.org/event/3502/",
-   "kind": "대회일",
-   "date": "2026-11-27T11:00:00Z",
-   "start": "2026-11-27T11:00:00Z",
-   "end": "2026-11-27T19:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "진행 시간",
-     "value": "8시간"
-    },
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "RedReaper CTF Welcome to RedReaper CTF, a cybersecurity Capture The Flag competition organized by RedX & Reaper Enter a dark world of cybersecurity challenges, where technical knowledge, creativity, and problem-solving skills will determine who survives the hunt. Test your skills across multiple cybersecurity domains, solve challenges, uncover hidden flags,…",
-   "tag": "CTF"
-  },
-  {
-   "id": "cf-2292",
-   "source": "Codeforces",
-   "cat": "algo",
-   "title": "Codeforces Round 1138 (Div. 3)",
-   "host": "Codeforces",
-   "url": "https://codeforces.com/contests/2292",
-   "kind": "대회일",
-   "date": "2026-11-27T14:35:00Z",
-   "start": "2026-11-27T14:35:00Z",
-   "end": "2026-11-27T16:50:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "진행 시간",
-     "value": "2시간 15분"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나 (Div. 3)"
-    },
-    {
-     "label": "팀 구성",
-     "value": "개인"
-    }
-   ],
-   "summary": ""
-  },
-  {
-   "id": "lk-367022",
-   "source": "링커리어",
-   "cat": "hack",
-   "title": "2026 영원톤(YEONGWONTHON) 해커톤 참가자 모집",
-   "host": "Reporch",
-   "url": "https://linkareer.com/activity/367022",
-   "kind": "접수 마감",
-   "date": "2026-11-27T14:59:59Z",
-   "start": null,
-   "end": "2026-11-27T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-359156",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026 제2회 대한민국 AI 창조공모대전",
-   "host": "사단법인 한국창조미술협회",
-   "url": "https://linkareer.com/activity/359156",
-   "kind": "접수 마감",
-   "date": "2026-11-27T14:59:59Z",
-   "start": null,
-   "end": "2026-11-27T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "lk-362189",
-   "source": "링커리어",
-   "cat": "contest",
-   "title": "2026년 AI·디지털 활용 연구·선도학교 우수사례 공모전",
-   "host": "한국교육학술정보원",
-   "url": "https://linkareer.com/activity/362189",
-   "kind": "접수 마감",
-   "date": "2026-11-27T14:59:59Z",
-   "start": null,
-   "end": "2026-11-27T14:59:59Z",
-   "allDay": true,
-   "meta": [
-    {
-     "label": "상금",
-     "value": "원문 확인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "원문 확인"
-    },
-    {
-     "label": "팀 구성",
-     "value": "원문 확인"
-    }
-   ],
-   "summary": "",
-   "tag": null
-  },
-  {
-   "id": "ctf-3512",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "N0v4CTF 2026",
-   "host": "NovaRun",
-   "url": "https://ctftime.org/event/3512/",
-   "kind": "대회일",
-   "date": "2026-11-27T17:00:00Z",
-   "start": "2026-11-27T17:00:00Z",
-   "end": "2026-11-28T17:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "진행 시간",
-     "value": "24시간"
-    },
-    {
-     "label": "상금",
-     "value": "Sponsored by TryHackMe (https://tryhackme.com): - 1st Place: 2x 6-Month TryHack…"
-    }
-   ],
-   "summary": "N0v4CTF 2026 is a free, 24-hour online Jeopardy-style Capture the Flag competition organized by NovaRun, open to teams and cybersecurity enthusiasts worldwide. Challenges cover Web Exploitation, Pwn (Binary Exploitation), Reverse Engineering, Cryptography, Digital Forensics, and Miscellaneous. Teams will investigate digital evidence, recover hidden messages…",
-   "tag": "CTF"
-  },
-  {
-   "id": "ctf-3474",
-   "source": "CTFtime",
-   "cat": "ai",
-   "title": "LakeCTF Quals 26-27",
-   "host": "polygl0ts",
-   "url": "https://ctftime.org/event/3474/",
-   "kind": "대회일",
-   "date": "2026-11-27T18:00:00Z",
-   "start": "2026-11-27T18:00:00Z",
-   "end": "2026-11-28T18:00:00Z",
-   "allDay": false,
-   "meta": [
-    {
-     "label": "형식",
-     "value": "Jeopardy"
-    },
-    {
-     "label": "진행 방식",
-     "value": "온라인"
-    },
-    {
-     "label": "참가 자격",
-     "value": "누구나"
-    },
-    {
-     "label": "진행 시간",
-     "value": "24시간"
-    },
-    {
-     "label": "상금",
-     "value": "Academic bracket Top 10 academic: invited to LakeCTF finals with lodging paid n…"
-    },
-    {
-     "label": "CTFtime 가중치",
-     "value": "45.76"
-    }
-   ],
-   "summary": "Qualifications for fifth edition of LakeCTF old discord server here for discussion: https://discord.gg/8FHmzT5aGM new discord server in your invite email",
-   "tag": "CTF"
-  },
   {
    "id": "ctf-3485",
    "source": "CTFtime",
@@ -2254,6 +2020,35 @@
    "tag": "CTF"
   },
   {
+   "id": "lk-367616",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "2026 비 마이 에이전트(Be My Agent) 공모전",
+   "host": "과학기술정보통신부",
+   "url": "https://linkareer.com/activity/367616",
+   "kind": "접수 마감",
+   "date": "2026-12-11T14:59:59Z",
+   "start": null,
+   "end": "2026-12-11T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "lk-366278",
    "source": "링커리어",
    "cat": "contest",
@@ -3374,7 +3169,7 @@
     },
     {
      "label": "상금",
-     "value": "원문 확인"
+     "value": "Sponsors::::: Infrastructure: Google Cloud • AlexHost Diamond: Replit • The XSS…"
     }
    ],
    "summary": "THE FINAL EXPLOIT CTF 2026 — QUALIFIERS ONE LAST FLAG. ONE FINAL EXPLOIT. The year is coming to an end, but there's one last challenge waiting. Organized by 0xV01D, THE FINAL EXPLOIT CTF 2026 is a 48-hour international online Jeopardy-style competition, open to CTF teams worldwide. Compete against teams from around the world, solve challenging cybersecurity…",
