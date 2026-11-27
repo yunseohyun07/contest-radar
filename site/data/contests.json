@@ -1,47 +1,47 @@
 {
- "updatedAt": "2026-11-26T18:55:22Z",
+ "updatedAt": "2026-11-27T03:30:24Z",
  "sources": {
   "Codeforces": {
    "ok": true,
    "count": 5,
-   "checkedAt": "2026-11-26T18:55:22Z",
-   "lastSuccess": "2026-11-26T18:55:22Z"
+   "checkedAt": "2026-11-27T03:30:24Z",
+   "lastSuccess": "2026-11-27T03:30:24Z"
   },
   "AtCoder": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-26T18:55:22Z",
-   "lastSuccess": "2026-11-26T18:55:22Z"
+   "checkedAt": "2026-11-27T03:30:24Z",
+   "lastSuccess": "2026-11-27T03:30:24Z"
   },
   "LeetCode": {
    "ok": true,
    "count": 1,
-   "checkedAt": "2026-11-26T18:55:22Z",
-   "lastSuccess": "2026-11-26T18:55:22Z"
+   "checkedAt": "2026-11-27T03:30:24Z",
+   "lastSuccess": "2026-11-27T03:30:24Z"
   },
   "CTFtime": {
    "ok": true,
    "count": 24,
-   "checkedAt": "2026-11-26T18:55:22Z",
-   "lastSuccess": "2026-11-26T18:55:22Z"
+   "checkedAt": "2026-11-27T03:30:24Z",
+   "lastSuccess": "2026-11-27T03:30:24Z"
   },
   "링커리어": {
    "ok": true,
-   "count": 67,
-   "checkedAt": "2026-11-26T18:55:22Z",
-   "lastSuccess": "2026-11-26T18:55:22Z"
+   "count": 71,
+   "checkedAt": "2026-11-27T03:30:24Z",
+   "lastSuccess": "2026-11-27T03:30:24Z"
   },
   "콘테스트코리아": {
    "ok": true,
    "count": 13,
-   "checkedAt": "2026-11-26T18:55:22Z",
-   "lastSuccess": "2026-11-26T18:55:22Z"
+   "checkedAt": "2026-11-27T03:30:24Z",
+   "lastSuccess": "2026-11-27T03:30:24Z"
   },
   "연례 대회": {
    "ok": true,
    "count": 9,
-   "checkedAt": "2026-11-26T18:55:22Z",
-   "lastSuccess": "2026-11-26T18:55:22Z"
+   "checkedAt": "2026-11-27T03:30:24Z",
+   "lastSuccess": "2026-11-27T03:30:24Z"
   }
  },
  "contests": [
@@ -1596,6 +1596,35 @@
    "tag": "CTF"
   },
   {
+   "id": "lk-367359",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "사운드 오브 어스 - 2026 장애인식개선 AI 음원 공모전",
+   "host": "스터닝",
+   "url": "https://linkareer.com/activity/367359",
+   "kind": "접수 마감",
+   "date": "2026-12-04T14:59:59Z",
+   "start": null,
+   "end": "2026-12-04T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "lk-363957",
    "source": "링커리어",
    "cat": "contest",
@@ -2283,6 +2312,35 @@
    "tag": null
   },
   {
+   "id": "lk-367472",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "[서울특별시동부교육지원청] 2026년 서울교육 AI 활용 공모전",
+   "host": "서울특별시동부교육지원청",
+   "url": "https://linkareer.com/activity/367472",
+   "kind": "접수 마감",
+   "date": "2026-12-11T14:59:59Z",
+   "start": null,
+   "end": "2026-12-11T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
+  },
+  {
    "id": "ctf-3498",
    "source": "CTFtime",
    "cat": "ai",
@@ -2934,6 +2992,35 @@
     }
    ],
    "summary": ""
+  },
+  {
+   "id": "lk-367363",
+   "source": "링커리어",
+   "cat": "contest",
+   "title": "[YBM] 수능 영어 부스터 AI영상 공모전",
+   "host": "주식회사 와이비엠",
+   "url": "https://linkareer.com/activity/367363",
+   "kind": "접수 마감",
+   "date": "2026-12-20T14:59:59Z",
+   "start": null,
+   "end": "2026-12-20T14:59:59Z",
+   "allDay": true,
+   "meta": [
+    {
+     "label": "상금",
+     "value": "원문 확인"
+    },
+    {
+     "label": "참가 자격",
+     "value": "원문 확인"
+    },
+    {
+     "label": "팀 구성",
+     "value": "원문 확인"
+    }
+   ],
+   "summary": "",
+   "tag": null
   },
   {
    "id": "lk-358536",
